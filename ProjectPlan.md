@@ -18,6 +18,7 @@ This project will use two datasets: one from the Centers for Disease Control and
 
 Here are the links:
 COPD (CDC): https://www.cdc.gov/copd/php/case-reporting/county-level-estimates-in-copd.html
+
 Air qulity (EPA): https://aqs.epa.gov/aqsweb/airdata/download_files.html#Annual 
 
 The EPA dataset shows air quality levels in U.S. counties. It includes yearly pollutant levels like PM2.5, ozone, and nitrogen dioxide. This data comes from monitoring stations in each county. The indexes of different air pollutants show the air quality of each of the counties.
