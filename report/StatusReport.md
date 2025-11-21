@@ -22,7 +22,7 @@ After getting the two CSV files, we start checking the integrity of the data by 
 
 ## 2. Data Cleaning:
 
-Before we merged both datasets, we used several data cleaning techniques. First, we did the text normalization by removing the text “ County” from all county names. The purpose of doing this is to ensure we can integrate the datasets on county names without extra “ County” wording. Second, we did the data conversion with coercion to convert the text values to numeric data. Third, we remove the invalid and missing data by using the dropna() function. (Reference in GitHub: scripts/data_clean.py, cleaned datasets: Data/cleaned/air_clean.csv and Data /cleaned/copd_clean.csv)
+Before we merged both datasets, we used several data cleaning techniques. First, we did the text normalization by removing the text " County" from all county names. The purpose of doing this is to ensure we can integrate the datasets on county names without extra " County" wording. Second, we did the data conversion with coercion to convert the text values to numeric data. Third, we remove the invalid and missing data by using the dropna() function. (Reference in GitHub: scripts/data_clean.py, cleaned datasets: Data/cleaned/air_clean.csv and Data /cleaned/copd_clean.csv)
  
 ## 3. Data Integration：
 
