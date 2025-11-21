@@ -39,13 +39,26 @@ We also created a requirements.txt file that contains the Python packages and th
 
 ## Updated timeline:
 
+Before the deadline of the stage 3 status report, we have completed the major components of data cleaning, merging, and exploratory analysis. Our next step is to refine the statistical analysis, strengthen the visualizations, complete the workflow automation, and write the final report.
+
+From Nov 21st to Nov 26th, we will mainly focus on finishing the ongoing work. For data acquisition, data integration, data cleaning, and data analysis, we have finished the scripts. However, we have not finished the documentation describing the steps for each of these parts. Thus, we will focus on finishing the documentation in this period.
+
+From Nov 27th to Nov 30th, we will work on the unfinished artifact parts of the project, including data storage, data quality, workflow automation, reproducibility, and metadata documentation. We will finish both of the scripts and the documentation for these parts.
+
+From Dec 1st to Dec 5th, we will work on writing the README.md, which is the project report. We will finish the writing of the title, contributors, summary, data profile, data quality, findings, future work, and reference. 
+
+On the last two days, we will recheck the report to make sure we have covered all the required components. We will also check the reproducibility of the scripts and files.
 
 ## Change compared to the initial project plan:
 
+There are a few changes we made to our original plan based on what we discovered in the analysis. First, the original project plan assumed that most counties would appear in both datasets. However, after we merged both datasets, we found out that more than 1100 rural counties in the COPD dataset didn’t match the EPA air quality data. We are thinking this is because they do not have monitoring stations. 
 
+To reduce bias, Erica and I plan to add a new preprocessing step after the milestone 3 deadline. We will keep all the COPD counties and fill in missing pollution values using state-level averages. This will help us run the statistical models, and we will be transparent about the dataset’s limitations. 
+       
 ## Erica’s contribution:
 
 Erica mainly works on data collection, data acquisition, and data analysis. She got the two CSV files from the official websites and checked their integrity by using SHA-256 (Reference in GitHub: scripts/check_integrity.py). She also worked on the data visualization by checking correlations between pairs of variables and using scatterplots to visualize the relationships. For the status report writing, she finished the writing of updated tasks and her own contribution.
 
 ## Jackson’s contribution:
 
+Jackson mainly worked on clearing the COPD and air-quality datasets by fixing the county names, converting text into numbers, and removing invalid rows. He also wrote the code that combines the two datasets using the State and Country columns. These steps are implemented in the data_clean.py and data_integration.py scripts. At the same time, Jackson also works with Erica to check the files are all in a good format. This is because we need to make sure the processed data can be relied on for later analysis and visualization. 
