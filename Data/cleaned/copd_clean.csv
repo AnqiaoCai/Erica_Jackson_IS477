@@ -1,0 +1,3077 @@
+State,County,Percent_COPD,Quartile
+California,Santa Clara,3.3,3.3 - 6.0
+New Mexico,Los Alamos,3.3,3.3 - 6.0
+Virginia,Falls Church,3.3,3.3 - 6.0
+California,San Mateo,3.5,3.3 - 6.0
+Maryland,Howard,3.5,3.3 - 6.0
+Maryland,Montgomery,3.5,3.3 - 6.0
+California,San Francisco,3.6,3.3 - 6.0
+Hawaii,Honolulu,3.6,3.3 - 6.0
+Virginia,Arlington,3.6,3.3 - 6.0
+California,Alameda,3.7,3.3 - 6.0
+Colorado,Douglas,3.7,3.3 - 6.0
+Virginia,Loudoun,3.7,3.3 - 6.0
+Minnesota,Carver,3.8,3.3 - 6.0
+Minnesota,Washington,3.8,3.3 - 6.0
+New Jersey,Somerset,3.8,3.3 - 6.0
+Virginia,Fairfax,3.8,3.3 - 6.0
+Washington,King,3.8,3.3 - 6.0
+Colorado,Broomfield,3.9,3.3 - 6.0
+Colorado,Pitkin,3.9,3.3 - 6.0
+Georgia,Forsyth,3.9,3.3 - 6.0
+Minnesota,Hennepin,3.9,3.3 - 6.0
+Minnesota,Scott,3.9,3.3 - 6.0
+New Jersey,Bergen,3.9,3.3 - 6.0
+Utah,Summit,3.9,3.3 - 6.0
+Minnesota,Dakota,4.0,3.3 - 6.0
+New Jersey,Morris,4.0,3.3 - 6.0
+Wisconsin,Ozaukee,4.0,3.3 - 6.0
+Wisconsin,Waukesha,4.0,3.3 - 6.0
+California,Marin,4.1,3.3 - 6.0
+Wisconsin,Dane,4.1,3.3 - 6.0
+California,Contra Costa,4.2,3.3 - 6.0
+Hawaii,Maui,4.2,3.3 - 6.0
+Kansas,Johnson,4.2,3.3 - 6.0
+Minnesota,Olmsted,4.2,3.3 - 6.0
+New Jersey,Hunterdo,4.2,3.3 - 6.0
+New Jersey,Middlese,4.2,3.3 - 6.0
+Utah,Wasatch,4.2,3.3 - 6.0
+California,Orange,4.3,3.3 - 6.0
+Georgia,Oconee,4.3,3.3 - 6.0
+Illinois,DuPage,4.3,3.3 - 6.0
+Massachusetts,Middlesex,4.3,3.3 - 6.0
+Nebraska,Sarpy,4.3,3.3 - 6.0
+New York,Nassau,4.3,3.3 - 6.0
+Texas,Fort Bend,4.3,3.3 - 6.0
+Utah,Davis,4.3,3.3 - 6.0
+Utah,Morgan,4.3,3.3 - 6.0
+Virginia,Alexandria,4.3,3.3 - 6.0
+Virginia,Fairfax City,4.3,3.3 - 6.0
+Colorado,Boulder,4.4,3.3 - 6.0
+Colorado,Clear Creek,4.4,3.3 - 6.0
+Colorado,Ouray,4.4,3.3 - 6.0
+Connecticut,Fairfield,4.4,3.3 - 6.0
+District of Columbia,District of Columbia,4.4,3.3 - 6.0
+Georgia,Fayette,4.4,3.3 - 6.0
+Indiana,Hamilton,4.4,3.3 - 6.0
+Iowa,Dallas,4.4,3.3 - 6.0
+New Jersey,Hudson,4.4,3.3 - 6.0
+New York,New York,4.4,3.3 - 6.0
+South Dakota,Lincoln,4.4,3.3 - 6.0
+Texas,Collin,4.4,3.3 - 6.0
+Wyoming,Teton,4.4,3.3 - 6.0
+California,Placer,4.5,3.3 - 6.0
+Colorado,Mineral,4.5,3.3 - 6.0
+Georgia,Cobb,4.5,3.3 - 6.0
+Maryland,Prince George's,4.5,3.3 - 6.0
+Massachusetts,Norfolk,4.5,3.3 - 6.0
+Minnesota,Ramsey,4.5,3.3 - 6.0
+Minnesota,Wright,4.5,3.3 - 6.0
+New Jersey,Monmouth,4.5,3.3 - 6.0
+New York,Westchester,4.5,3.3 - 6.0
+North Carolina,Wake,4.5,3.3 - 6.0
+Oregon,Washington,4.5,3.3 - 6.0
+Pennsylvania,Chester,4.5,3.3 - 6.0
+Utah,Utah,4.5,3.3 - 6.0
+Wisconsin,St. Croix,4.5,3.3 - 6.0
+Colorado,Denver,4.6,3.3 - 6.0
+Connecticut,Middlesex,4.6,3.3 - 6.0
+Georgia,Fulton,4.6,3.3 - 6.0
+Hawaii,Kauai,4.6,3.3 - 6.0
+Maryland,Frederick,4.6,3.3 - 6.0
+Massachusetts,Nantucket,4.6,3.3 - 6.0
+Minnesota,Cook,4.6,3.3 - 6.0
+Minnesota,Dodge,4.6,3.3 - 6.0
+Minnesota,Sherburne,4.6,3.3 - 6.0
+Montana,Gallatin,4.6,3.3 - 6.0
+New Mexico,Santa Fe,4.6,3.3 - 6.0
+North Dakota,Cass,4.6,3.3 - 6.0
+Pennsylvania,Montgomery,4.6,3.3 - 6.0
+Tennessee,Williamson,4.6,3.3 - 6.0
+Texas,Loving,4.6,3.3 - 6.0
+Wisconsin,Washington,4.6,3.3 - 6.0
+Alaska,Aleutians West,4.7,3.3 - 6.0
+California,Los Angeles,4.7,3.3 - 6.0
+California,San Benito,4.7,3.3 - 6.0
+California,San Diego,4.7,3.3 - 6.0
+Colorado,Eagle,4.7,3.3 - 6.0
+Colorado,Gilpin,4.7,3.3 - 6.0
+Colorado,Jefferson,4.7,3.3 - 6.0
+Colorado,Routt,4.7,3.3 - 6.0
+Colorado,San Miguel,4.7,3.3 - 6.0
+Colorado,Summit,4.7,3.3 - 6.0
+Hawaii,Kalawao,4.7,3.3 - 6.0
+Idaho,Ada,4.7,3.3 - 6.0
+Illinois,Kendall,4.7,3.3 - 6.0
+Maryland,Anne Arundel,4.7,3.3 - 6.0
+Michigan,Oakland,4.7,3.3 - 6.0
+Minnesota,Anoka,4.7,3.3 - 6.0
+Nebraska,Hamilton,4.7,3.3 - 6.0
+New Jersey,Union,4.7,3.3 - 6.0
+New York,Queens,4.7,3.3 - 6.0
+North Dakota,Burleigh,4.7,3.3 - 6.0
+Ohio,Delaware,4.7,3.3 - 6.0
+Rhode Island,Newport,4.7,3.3 - 6.0
+South Dakota,Union,4.7,3.3 - 6.0
+Texas,Travis,4.7,3.3 - 6.0
+Virginia,York,4.7,3.3 - 6.0
+Washington,Snohomish,4.7,3.3 - 6.0
+California,Napa,4.8,3.3 - 6.0
+California,Solano,4.8,3.3 - 6.0
+California,Ventura,4.8,3.3 - 6.0
+Colorado,Hinsdale,4.8,3.3 - 6.0
+Colorado,Lake,4.8,3.3 - 6.0
+Illinois,Lake,4.8,3.3 - 6.0
+Minnesota,Nicollet,4.8,3.3 - 6.0
+Nebraska,Washington,4.8,3.3 - 6.0
+New Jersey,Mercer,4.8,3.3 - 6.0
+New Jersey,Sussex,4.8,3.3 - 6.0
+North Carolina,Orange,4.8,3.3 - 6.0
+Rhode Island,Bristol,4.8,3.3 - 6.0
+South Dakota,Stanley,4.8,3.3 - 6.0
+Texas,Denton,4.8,3.3 - 6.0
+Texas,Rockwall,4.8,3.3 - 6.0
+Texas,Williamson,4.8,3.3 - 6.0
+Utah,Salt Lake,4.8,3.3 - 6.0
+Vermont,Chittenden,4.8,3.3 - 6.0
+Virginia,Albemarle,4.8,3.3 - 6.0
+Virginia,Prince William,4.8,3.3 - 6.0
+Washington,San Juan,4.8,3.3 - 6.0
+Wisconsin,Calumet,4.8,3.3 - 6.0
+Wisconsin,Outagamie,4.8,3.3 - 6.0
+Colorado,Arapahoe,4.9,3.3 - 6.0
+Colorado,Gunnison,4.9,3.3 - 6.0
+Colorado,Larimer,4.9,3.3 - 6.0
+Connecticut,Litchfield,4.9,3.3 - 6.0
+Georgia,DeKalb,4.9,3.3 - 6.0
+Idaho,Blaine,4.9,3.3 - 6.0
+Minnesota,Chisago,4.9,3.3 - 6.0
+Minnesota,Houston,4.9,3.3 - 6.0
+Minnesota,Wabasha,4.9,3.3 - 6.0
+Mississippi,Madison,4.9,3.3 - 6.0
+New Jersey,Burlingt,4.9,3.3 - 6.0
+New Mexico,Mora,4.9,3.3 - 6.0
+North Dakota,Billings,4.9,3.3 - 6.0
+North Dakota,Griggs,4.9,3.3 - 6.0
+Pennsylvania,Bucks,4.9,3.3 - 6.0
+South Dakota,Brookings,4.9,3.3 - 6.0
+Virginia,James City,4.9,3.3 - 6.0
+Virginia,Stafford,4.9,3.3 - 6.0
+Wisconsin,Door,4.9,3.3 - 6.0
+California,El Dorado,5.0,3.3 - 6.0
+Connecticut,Tolland,5.0,3.3 - 6.0
+Georgia,Columbia,5.0,3.3 - 6.0
+Georgia,Gwinnett,5.0,3.3 - 6.0
+Hawaii,Hawaii,5.0,3.3 - 6.0
+Idaho,Teton,5.0,3.3 - 6.0
+Illinois,McHenry,5.0,3.3 - 6.0
+Illinois,Will,5.0,3.3 - 6.0
+Maryland,Baltimore,5.0,3.3 - 6.0
+Maryland,Calvert,5.0,3.3 - 6.0
+Maryland,Carroll,5.0,3.3 - 6.0
+Maryland,Charles,5.0,3.3 - 6.0
+Michigan,Washtenaw,5.0,3.3 - 6.0
+Minnesota,Douglas,5.0,3.3 - 6.0
+Minnesota,Le Sueur,5.0,3.3 - 6.0
+Montana,Jefferson,5.0,3.3 - 6.0
+Montana,Lewis and Clark,5.0,3.3 - 6.0
+Nebraska,Banner,5.0,3.3 - 6.0
+Nebraska,Lancaster,5.0,3.3 - 6.0
+Nebraska,Saunders,5.0,3.3 - 6.0
+New Mexico,Sandoval,5.0,3.3 - 6.0
+New York,Putnam,5.0,3.3 - 6.0
+North Dakota,Sargent,5.0,3.3 - 6.0
+North Dakota,Steele,5.0,3.3 - 6.0
+North Dakota,Traill,5.0,3.3 - 6.0
+Oregon,Clackamas,5.0,3.3 - 6.0
+Rhode Island,Washington,5.0,3.3 - 6.0
+South Dakota,Minnehaha,5.0,3.3 - 6.0
+Texas,Kendall,5.0,3.3 - 6.0
+Vermont,Addison,5.0,3.3 - 6.0
+Virginia,Goochland,5.0,3.3 - 6.0
+Virginia,Henrico,5.0,3.3 - 6.0
+Washington,Island,5.0,3.3 - 6.0
+Washington,Kitsap,5.0,3.3 - 6.0
+Wisconsin,Brown,5.0,3.3 - 6.0
+Alaska,Juneau,5.1,3.3 - 6.0
+Alaska,Kodiak Island,5.1,3.3 - 6.0
+California,Santa Cruz,5.1,3.3 - 6.0
+California,Sonoma,5.1,3.3 - 6.0
+Colorado,Elbert,5.1,3.3 - 6.0
+Colorado,La Plata,5.1,3.3 - 6.0
+Delaware,New Castle,5.1,3.3 - 6.0
+Georgia,Harris,5.1,3.3 - 6.0
+Illinois,Monroe,5.1,3.3 - 6.0
+Maryland,Harford,5.1,3.3 - 6.0
+Massachusetts,Barnstable,5.1,3.3 - 6.0
+Minnesota,Clay,5.1,3.3 - 6.0
+Minnesota,Goodhue,5.1,3.3 - 6.0
+Minnesota,Lake,5.1,3.3 - 6.0
+Montana,Madison,5.1,3.3 - 6.0
+Montana,Missoula,5.1,3.3 - 6.0
+Nebraska,Cedar,5.1,3.3 - 6.0
+Nebraska,Douglas,5.1,3.3 - 6.0
+Nebraska,Garfield,5.1,3.3 - 6.0
+Nebraska,Gosper,5.1,3.3 - 6.0
+New Mexico,Bernalillo,5.1,3.3 - 6.0
+New York,Suffolk,5.1,3.3 - 6.0
+North Carolina,Mecklenburg,5.1,3.3 - 6.0
+North Dakota,Burke,5.1,3.3 - 6.0
+South Carolina,Beaufort,5.1,3.3 - 6.0
+South Carolina,Charleston,5.1,3.3 - 6.0
+South Dakota,Hughes,5.1,3.3 - 6.0
+South Dakota,Jones,5.1,3.3 - 6.0
+South Dakota,Marshall,5.1,3.3 - 6.0
+Texas,Borden,5.1,3.3 - 6.0
+Utah,Daggett,5.1,3.3 - 6.0
+Utah,Tooele,5.1,3.3 - 6.0
+Vermont,Grand Isle,5.1,3.3 - 6.0
+Virginia,Poquoson,5.1,3.3 - 6.0
+Virginia,Virginia Beach,5.1,3.3 - 6.0
+Washington,Thurston,5.1,3.3 - 6.0
+Wisconsin,Columbia,5.1,3.3 - 6.0
+Wisconsin,Iowa,5.1,3.3 - 6.0
+Wisconsin,Jefferson,5.1,3.3 - 6.0
+Wisconsin,La Crosse,5.1,3.3 - 6.0
+Wisconsin,Marathon,5.1,3.3 - 6.0
+Wisconsin,Pierce,5.1,3.3 - 6.0
+Wisconsin,Sheboygan,5.1,3.3 - 6.0
+Alabama,Shelby,5.2,3.3 - 6.0
+Arizona,Greenlee,5.2,3.3 - 6.0
+California,San Luis Obispo,5.2,3.3 - 6.0
+California,Yolo,5.2,3.3 - 6.0
+Colorado,El Paso,5.2,3.3 - 6.0
+Colorado,Park,5.2,3.3 - 6.0
+Colorado,Teller,5.2,3.3 - 6.0
+Connecticut,Hartford,5.2,3.3 - 6.0
+Georgia,Cherokee,5.2,3.3 - 6.0
+Georgia,Henry,5.2,3.3 - 6.0
+Illinois,Cook,5.2,3.3 - 6.0
+Iowa,Sioux,5.2,3.3 - 6.0
+Iowa,Warren,5.2,3.3 - 6.0
+Maine,Cumberland,5.2,3.3 - 6.0
+Maryland,Queen Anne's,5.2,3.3 - 6.0
+Maryland,Talbot,5.2,3.3 - 6.0
+Michigan,Leelanau,5.2,3.3 - 6.0
+Minnesota,Brown,5.2,3.3 - 6.0
+Minnesota,Pope,5.2,3.3 - 6.0
+Minnesota,Rice,5.2,3.3 - 6.0
+Minnesota,Steele,5.2,3.3 - 6.0
+Nebraska,Hooker,5.2,3.3 - 6.0
+Nebraska,Seward,5.2,3.3 - 6.0
+Nebraska,York,5.2,3.3 - 6.0
+New Hampshire,Rockingham,5.2,3.3 - 6.0
+New Jersey,Gloucest,5.2,3.3 - 6.0
+New Jersey,Warren,5.2,3.3 - 6.0
+New Mexico,San Miguel,5.2,3.3 - 6.0
+New Mexico,Taos,5.2,3.3 - 6.0
+North Carolina,Durham,5.2,3.3 - 6.0
+North Dakota,Bottineau,5.2,3.3 - 6.0
+North Dakota,Renville,5.2,3.3 - 6.0
+North Dakota,Ward,5.2,3.3 - 6.0
+Oregon,Multnomah,5.2,3.3 - 6.0
+South Dakota,Brown,5.2,3.3 - 6.0
+South Dakota,Kingsbury,5.2,3.3 - 6.0
+South Dakota,McCook,5.2,3.3 - 6.0
+South Dakota,Meade,5.2,3.3 - 6.0
+South Dakota,Pennington,5.2,3.3 - 6.0
+South Dakota,Sully,5.2,3.3 - 6.0
+Texas,Comal,5.2,3.3 - 6.0
+Texas,Crockett,5.2,3.3 - 6.0
+Utah,Washington,5.2,3.3 - 6.0
+Virginia,Manassas,5.2,3.3 - 6.0
+Wisconsin,Bayfield,5.2,3.3 - 6.0
+Wisconsin,Eau Claire,5.2,3.3 - 6.0
+Wisconsin,Kenosha,5.2,3.3 - 6.0
+Wisconsin,Portage,5.2,3.3 - 6.0
+Wisconsin,Walworth,5.2,3.3 - 6.0
+Alaska,Anchorage,5.3,3.3 - 6.0
+Alaska,Chugach,5.3,3.3 - 6.0
+California,Riverside,5.3,3.3 - 6.0
+California,Sacramento,5.3,3.3 - 6.0
+California,Santa Barbara,5.3,3.3 - 6.0
+Colorado,Custer,5.3,3.3 - 6.0
+Colorado,Garfield,5.3,3.3 - 6.0
+Colorado,Grand,5.3,3.3 - 6.0
+Colorado,San Juan,5.3,3.3 - 6.0
+Georgia,Bryan,5.3,3.3 - 6.0
+Illinois,Kane,5.3,3.3 - 6.0
+Iowa,Bremer,5.3,3.3 - 6.0
+Iowa,Johnson,5.3,3.3 - 6.0
+Kansas,Miami,5.3,3.3 - 6.0
+Massachusetts,Dukes,5.3,3.3 - 6.0
+Michigan,Livingston,5.3,3.3 - 6.0
+Minnesota,Hubbard,5.3,3.3 - 6.0
+Minnesota,Kittson,5.3,3.3 - 6.0
+Minnesota,McLeod,5.3,3.3 - 6.0
+Minnesota,Murray,5.3,3.3 - 6.0
+Minnesota,Rock,5.3,3.3 - 6.0
+Minnesota,Winona,5.3,3.3 - 6.0
+Nebraska,Cass,5.3,3.3 - 6.0
+Nebraska,Fillmore,5.3,3.3 - 6.0
+Nebraska,Platte,5.3,3.3 - 6.0
+Nebraska,Stanton,5.3,3.3 - 6.0
+Nebraska,Thomas,5.3,3.3 - 6.0
+New Mexico,Guadalupe,5.3,3.3 - 6.0
+North Carolina,Dare,5.3,3.3 - 6.0
+North Dakota,Barnes,5.3,3.3 - 6.0
+North Dakota,Morton,5.3,3.3 - 6.0
+North Dakota,Nelson,5.3,3.3 - 6.0
+North Dakota,Slope,5.3,3.3 - 6.0
+North Dakota,Williams,5.3,3.3 - 6.0
+Pennsylvania,Cumberland,5.3,3.3 - 6.0
+South Dakota,Deuel,5.3,3.3 - 6.0
+South Dakota,Grant,5.3,3.3 - 6.0
+South Dakota,Hand,5.3,3.3 - 6.0
+South Dakota,Lake,5.3,3.3 - 6.0
+South Dakota,Moody,5.3,3.3 - 6.0
+South Dakota,Spink,5.3,3.3 - 6.0
+South Dakota,Yankton,5.3,3.3 - 6.0
+Texas,Brewster,5.3,3.3 - 6.0
+Texas,Reagan,5.3,3.3 - 6.0
+Utah,Beaver,5.3,3.3 - 6.0
+Utah,Weber,5.3,3.3 - 6.0
+Vermont,Washington,5.3,3.3 - 6.0
+Virginia,Chesterfield,5.3,3.3 - 6.0
+Virginia,Fauquier,5.3,3.3 - 6.0
+Washington,Benton,5.3,3.3 - 6.0
+Washington,Jefferson,5.3,3.3 - 6.0
+Wisconsin,Fond du Lac,5.3,3.3 - 6.0
+Wisconsin,Green,5.3,3.3 - 6.0
+Wisconsin,Kewaunee,5.3,3.3 - 6.0
+Alaska,Fairbanks North Star,5.4,3.3 - 6.0
+Alaska,Sitka,5.4,3.3 - 6.0
+Arizona,Maricopa,5.4,3.3 - 6.0
+California,Mono,5.4,3.3 - 6.0
+California,Nevada,5.4,3.3 - 6.0
+Connecticut,New Haven,5.4,3.3 - 6.0
+Connecticut,New London,5.4,3.3 - 6.0
+Indiana,Boone,5.4,3.3 - 6.0
+Iowa,Grundy,5.4,3.3 - 6.0
+Iowa,Winneshiek,5.4,3.3 - 6.0
+Massachusetts,Essex,5.4,3.3 - 6.0
+Massachusetts,Plymouth,5.4,3.3 - 6.0
+Minnesota,Benton,5.4,3.3 - 6.0
+Minnesota,Crow Wing,5.4,3.3 - 6.0
+Minnesota,Isanti,5.4,3.3 - 6.0
+Minnesota,Jackson,5.4,3.3 - 6.0
+Minnesota,Kandiyohi,5.4,3.3 - 6.0
+Minnesota,Lac qui Parle,5.4,3.3 - 6.0
+Minnesota,Lyon,5.4,3.3 - 6.0
+Minnesota,Meeker,5.4,3.3 - 6.0
+Minnesota,Otter Tail,5.4,3.3 - 6.0
+Minnesota,Pennington,5.4,3.3 - 6.0
+Minnesota,Roseau,5.4,3.3 - 6.0
+Minnesota,Sibley,5.4,3.3 - 6.0
+Minnesota,Stearns,5.4,3.3 - 6.0
+Minnesota,Stevens,5.4,3.3 - 6.0
+Minnesota,Waseca,5.4,3.3 - 6.0
+Missouri,St. Charles,5.4,3.3 - 6.0
+Montana,Carbon,5.4,3.3 - 6.0
+Montana,Stillwater,5.4,3.3 - 6.0
+Nebraska,Buffalo,5.4,3.3 - 6.0
+Nebraska,Cuming,5.4,3.3 - 6.0
+Nebraska,Dawes,5.4,3.3 - 6.0
+Nebraska,Frontier,5.4,3.3 - 6.0
+Nebraska,Harlan,5.4,3.3 - 6.0
+Nebraska,Logan,5.4,3.3 - 6.0
+Nebraska,Wayne,5.4,3.3 - 6.0
+New Mexico,Rio Arriba,5.4,3.3 - 6.0
+North Carolina,Union,5.4,3.3 - 6.0
+North Dakota,Foster,5.4,3.3 - 6.0
+North Dakota,Golden Valley,5.4,3.3 - 6.0
+North Dakota,McLean,5.4,3.3 - 6.0
+North Dakota,Pierce,5.4,3.3 - 6.0
+Oregon,Deschutes,5.4,3.3 - 6.0
+Pennsylvania,Allegheny,5.4,3.3 - 6.0
+Pennsylvania,Delaware,5.4,3.3 - 6.0
+Rhode Island,Kent,5.4,3.3 - 6.0
+South Dakota,Aurora,5.4,3.3 - 6.0
+South Dakota,Campbell,5.4,3.3 - 6.0
+South Dakota,Hamlin,5.4,3.3 - 6.0
+South Dakota,Hanson,5.4,3.3 - 6.0
+South Dakota,Harding,5.4,3.3 - 6.0
+Texas,Brazoria,5.4,3.3 - 6.0
+Texas,El Paso,5.4,3.3 - 6.0
+Utah,Cache,5.4,3.3 - 6.0
+Vermont,Windsor,5.4,3.3 - 6.0
+Virginia,Fluvanna,5.4,3.3 - 6.0
+Virginia,Hanover,5.4,3.3 - 6.0
+Virginia,Manassas Park,5.4,3.3 - 6.0
+Washington,Clark,5.4,3.3 - 6.0
+Wisconsin,Oneida,5.4,3.3 - 6.0
+Wisconsin,Racine,5.4,3.3 - 6.0
+Wisconsin,Vilas,5.4,3.3 - 6.0
+Wisconsin,Winnebago,5.4,3.3 - 6.0
+Alaska,Aleutians East,5.5,3.3 - 6.0
+California,Alpine,5.5,3.3 - 6.0
+California,Inyo,5.5,3.3 - 6.0
+California,Monterey,5.5,3.3 - 6.0
+Colorado,Adams,5.5,3.3 - 6.0
+Colorado,Archuleta,5.5,3.3 - 6.0
+Georgia,Coweta,5.5,3.3 - 6.0
+Illinois,Woodford,5.5,3.3 - 6.0
+Iowa,Linn,5.5,3.3 - 6.0
+Iowa,Madison,5.5,3.3 - 6.0
+Iowa,Marion,5.5,3.3 - 6.0
+Iowa,Polk,5.5,3.3 - 6.0
+Kansas,Leavenworth,5.5,3.3 - 6.0
+Kansas,Pottawatomie,5.5,3.3 - 6.0
+Maryland,St. Mary's,5.5,3.3 - 6.0
+Massachusetts,Hampshire,5.5,3.3 - 6.0
+Massachusetts,Suffolk,5.5,3.3 - 6.0
+Minnesota,Blue Earth,5.5,3.3 - 6.0
+Minnesota,Carlton,5.5,3.3 - 6.0
+Minnesota,Fillmore,5.5,3.3 - 6.0
+Minnesota,Lake of the Woods,5.5,3.3 - 6.0
+Minnesota,Marshall,5.5,3.3 - 6.0
+Minnesota,Polk,5.5,3.3 - 6.0
+Minnesota,Red Lake,5.5,3.3 - 6.0
+Minnesota,Watonwan,5.5,3.3 - 6.0
+Minnesota,Wilkin,5.5,3.3 - 6.0
+Missouri,Platte,5.5,3.3 - 6.0
+Montana,Flathead,5.5,3.3 - 6.0
+Montana,Park,5.5,3.3 - 6.0
+Nebraska,Butler,5.5,3.3 - 6.0
+Nebraska,Kearney,5.5,3.3 - 6.0
+Nebraska,Madison,5.5,3.3 - 6.0
+Nebraska,Otoe,5.5,3.3 - 6.0
+Nebraska,Pierce,5.5,3.3 - 6.0
+Nebraska,Polk,5.5,3.3 - 6.0
+Nebraska,Red Willow,5.5,3.3 - 6.0
+Nebraska,Rock,5.5,3.3 - 6.0
+Nebraska,Scotts Bluff,5.5,3.3 - 6.0
+New Hampshire,Hillsborough,5.5,3.3 - 6.0
+New Jersey,Essex,5.5,3.3 - 6.0
+New Jersey,Passaic,5.5,3.3 - 6.0
+New York,Kings,5.5,3.3 - 6.0
+New York,Saratoga,5.5,3.3 - 6.0
+North Carolina,Moore,5.5,3.3 - 6.0
+North Dakota,Cavalier,5.5,3.3 - 6.0
+North Dakota,Dunn,5.5,3.3 - 6.0
+North Dakota,Grand Forks,5.5,3.3 - 6.0
+North Dakota,Stark,5.5,3.3 - 6.0
+Oregon,Benton,5.5,3.3 - 6.0
+Oregon,Hood River,5.5,3.3 - 6.0
+Pennsylvania,Butler,5.5,3.3 - 6.0
+South Carolina,York,5.5,3.3 - 6.0
+South Dakota,Edmunds,5.5,3.3 - 6.0
+South Dakota,Hyde,5.5,3.3 - 6.0
+South Dakota,Jerauld,5.5,3.3 - 6.0
+South Dakota,Lawrence,5.5,3.3 - 6.0
+South Dakota,Potter,5.5,3.3 - 6.0
+Utah,Box Elder,5.5,3.3 - 6.0
+Utah,Rich,5.5,3.3 - 6.0
+Vermont,Lamoille,5.5,3.3 - 6.0
+Washington,Pierce,5.5,3.3 - 6.0
+Washington,Skagit,5.5,3.3 - 6.0
+Wisconsin,Dodge,5.5,3.3 - 6.0
+Wisconsin,Douglas,5.5,3.3 - 6.0
+Wisconsin,Dunn,5.5,3.3 - 6.0
+Wisconsin,Polk,5.5,3.3 - 6.0
+Wisconsin,Rock,5.5,3.3 - 6.0
+Wisconsin,Sauk,5.5,3.3 - 6.0
+Alabama,Madison,5.6,3.3 - 6.0
+Arizona,Pima,5.6,3.3 - 6.0
+California,San Bernardino,5.6,3.3 - 6.0
+California,San Joaquin,5.6,3.3 - 6.0
+Colorado,Chaffee,5.6,3.3 - 6.0
+Colorado,Rio Grande,5.6,3.3 - 6.0
+Colorado,Weld,5.6,3.3 - 6.0
+Georgia,Houston,5.6,3.3 - 6.0
+Georgia,Lee,5.6,3.3 - 6.0
+Georgia,Paulding,5.6,3.3 - 6.0
+Illinois,Piatt,5.6,3.3 - 6.0
+Indiana,Hendricks,5.6,3.3 - 6.0
+Iowa,Dickinson,5.6,3.3 - 6.0
+Iowa,Mills,5.6,3.3 - 6.0
+Iowa,Story,5.6,3.3 - 6.0
+Kansas,Douglas,5.6,3.3 - 6.0
+Kansas,Grant,5.6,3.3 - 6.0
+Kansas,Wabaunsee,5.6,3.3 - 6.0
+Maryland,Worcester,5.6,3.3 - 6.0
+Michigan,Ottawa,5.6,3.3 - 6.0
+Minnesota,Becker,5.6,3.3 - 6.0
+Minnesota,Itasca,5.6,3.3 - 6.0
+Minnesota,Lincoln,5.6,3.3 - 6.0
+Minnesota,Norman,5.6,3.3 - 6.0
+Montana,Richland,5.6,3.3 - 6.0
+Montana,Sweet Grass,5.6,3.3 - 6.0
+Montana,Yellowstone,5.6,3.3 - 6.0
+Nebraska,Blaine,5.6,3.3 - 6.0
+Nebraska,Boone,5.6,3.3 - 6.0
+Nebraska,Clay,5.6,3.3 - 6.0
+Nebraska,Johnson,5.6,3.3 - 6.0
+Nebraska,Loup,5.6,3.3 - 6.0
+Nebraska,Morrill,5.6,3.3 - 6.0
+Nebraska,Phelps,5.6,3.3 - 6.0
+Nebraska,Valley,5.6,3.3 - 6.0
+New Jersey,Camden,5.6,3.3 - 6.0
+New Jersey,Cape May,5.6,3.3 - 6.0
+New Mexico,Valencia,5.6,3.3 - 6.0
+North Carolina,Cabarrus,5.6,3.3 - 6.0
+North Carolina,Chatham,5.6,3.3 - 6.0
+North Dakota,Dickey,5.6,3.3 - 6.0
+North Dakota,Divide,5.6,3.3 - 6.0
+North Dakota,McHenry,5.6,3.3 - 6.0
+North Dakota,Oliver,5.6,3.3 - 6.0
+North Dakota,Pembina,5.6,3.3 - 6.0
+North Dakota,Ransom,5.6,3.3 - 6.0
+North Dakota,Wells,5.6,3.3 - 6.0
+Ohio,Warren,5.6,3.3 - 6.0
+Pennsylvania,Northampton,5.6,3.3 - 6.0
+Rhode Island,Providence,5.6,3.3 - 6.0
+South Carolina,Greenville,5.6,3.3 - 6.0
+South Dakota,Clark,5.6,3.3 - 6.0
+South Dakota,Turner,5.6,3.3 - 6.0
+Texas,Midland,5.6,3.3 - 6.0
+Utah,Kane,5.6,3.3 - 6.0
+Virginia,New Kent,5.6,3.3 - 6.0
+Washington,Whatcom,5.6,3.3 - 6.0
+Wisconsin,Buffalo,5.6,3.3 - 6.0
+Wisconsin,Manitowoc,5.6,3.3 - 6.0
+Wisconsin,Pepin,5.6,3.3 - 6.0
+Wisconsin,Trempealeau,5.6,3.3 - 6.0
+Wisconsin,Waupaca,5.6,3.3 - 6.0
+Georgia,Morgan,5.7,3.3 - 6.0
+Idaho,Boise,5.7,3.3 - 6.0
+Idaho,Latah,5.7,3.3 - 6.0
+Illinois,Grundy,5.7,3.3 - 6.0
+Illinois,McLean,5.7,3.3 - 6.0
+Iowa,Plymouth,5.7,3.3 - 6.0
+Kansas,Comanche,5.7,3.3 - 6.0
+Kansas,Hodgeman,5.7,3.3 - 6.0
+Kansas,Sheridan,5.7,3.3 - 6.0
+Kentucky,Oldham,5.7,3.3 - 6.0
+Massachusetts,Worcester,5.7,3.3 - 6.0
+Michigan,Keweenaw,5.7,3.3 - 6.0
+Minnesota,Grant,5.7,3.3 - 6.0
+Minnesota,Mower,5.7,3.3 - 6.0
+Minnesota,Redwood,5.7,3.3 - 6.0
+Minnesota,St. Louis,5.7,3.3 - 6.0
+Minnesota,Traverse,5.7,3.3 - 6.0
+Minnesota,Yellow Medicine,5.7,3.3 - 6.0
+Missouri,St. Louis,5.7,3.3 - 6.0
+Montana,Fallon,5.7,3.3 - 6.0
+Montana,McCone,5.7,3.3 - 6.0
+Nebraska,Hall,5.7,3.3 - 6.0
+Nebraska,Holt,5.7,3.3 - 6.0
+Nebraska,Howard,5.7,3.3 - 6.0
+Nebraska,Perkins,5.7,3.3 - 6.0
+Nevada,Douglas,5.7,3.3 - 6.0
+New Mexico,DoÃ?Æ?Ã?â??Ã?â? Ã¢â?¬â?¢Ã?Æ?Ã¢â?¬Å¡Ã?â??Ã?Â±a Ana,5.7,3.3 - 6.0
+New York,Dutchess,5.7,3.3 - 6.0
+New York,Richmond,5.7,3.3 - 6.0
+North Dakota,Bowman,5.7,3.3 - 6.0
+North Dakota,Richland,5.7,3.3 - 6.0
+North Dakota,Sheridan,5.7,3.3 - 6.0
+South Carolina,Dorchester,5.7,3.3 - 6.0
+South Carolina,Richland,5.7,3.3 - 6.0
+South Dakota,Miner,5.7,3.3 - 6.0
+Texas,Bexar,5.7,3.3 - 6.0
+Texas,Guadalupe,5.7,3.3 - 6.0
+Texas,Hartley,5.7,3.3 - 6.0
+Texas,Mason,5.7,3.3 - 6.0
+Texas,Medina,5.7,3.3 - 6.0
+Texas,Sterling,5.7,3.3 - 6.0
+Vermont,Bennington,5.7,3.3 - 6.0
+Virginia,Clarke,5.7,3.3 - 6.0
+Virginia,King George,5.7,3.3 - 6.0
+Virginia,Powhatan,5.7,3.3 - 6.0
+Virginia,Spotsylvania,5.7,3.3 - 6.0
+Virginia,Chesapeake,5.7,3.3 - 6.0
+Wisconsin,Chippewa,5.7,3.3 - 6.0
+Wisconsin,Oconto,5.7,3.3 - 6.0
+Wisconsin,Wood,5.7,3.3 - 6.0
+Wyoming,Sheridan,5.7,3.3 - 6.0
+Wyoming,Sublette,5.7,3.3 - 6.0
+Alaska,Bristol Bay,5.8,3.3 - 6.0
+Arizona,Santa Cruz,5.8,3.3 - 6.0
+California,Amador,5.8,3.3 - 6.0
+California,Sierra,5.8,3.3 - 6.0
+California,Tuolumne,5.8,3.3 - 6.0
+Georgia,Dawson,5.8,3.3 - 6.0
+Idaho,Bonneville,5.8,3.3 - 6.0
+Idaho,Jefferson,5.8,3.3 - 6.0
+Iowa,Boone,5.8,3.3 - 6.0
+Iowa,Cedar,5.8,3.3 - 6.0
+Iowa,Dubuque,5.8,3.3 - 6.0
+Iowa,Hamilton,5.8,3.3 - 6.0
+Iowa,Iowa,5.8,3.3 - 6.0
+Iowa,Scott,5.8,3.3 - 6.0
+Kansas,Butler,5.8,3.3 - 6.0
+Kansas,Jefferson,5.8,3.3 - 6.0
+Kansas,Sedgwick,5.8,3.3 - 6.0
+Maryland,Kent,5.8,3.3 - 6.0
+Michigan,Clinton,5.8,3.3 - 6.0
+Minnesota,Cottonwood,5.8,3.3 - 6.0
+Minnesota,Martin,5.8,3.3 - 6.0
+Minnesota,Morrison,5.8,3.3 - 6.0
+Minnesota,Renville,5.8,3.3 - 6.0
+Mississippi,Rankin,5.8,3.3 - 6.0
+Montana,Dawson,5.8,3.3 - 6.0
+Montana,Meagher,5.8,3.3 - 6.0
+Montana,Petroleum,5.8,3.3 - 6.0
+Montana,Ravalli,5.8,3.3 - 6.0
+Montana,Sheridan,5.8,3.3 - 6.0
+Nebraska,Adams,5.8,3.3 - 6.0
+Nebraska,Brown,5.8,3.3 - 6.0
+Nebraska,Dakota,5.8,3.3 - 6.0
+Nebraska,Furnas,5.8,3.3 - 6.0
+Nebraska,Merrick,5.8,3.3 - 6.0
+Nebraska,Nuckolls,5.8,3.3 - 6.0
+Nebraska,Sherman,5.8,3.3 - 6.0
+New Hampshire,Grafton,5.8,3.3 - 6.0
+New Jersey,Ocean,5.8,3.3 - 6.0
+New York,Tompkins,5.8,3.3 - 6.0
+North Carolina,Currituck,5.8,3.3 - 6.0
+North Carolina,Iredell,5.8,3.3 - 6.0
+North Carolina,New Hanover,5.8,3.3 - 6.0
+North Dakota,Grant,5.8,3.3 - 6.0
+North Dakota,McKenzie,5.8,3.3 - 6.0
+North Dakota,Mercer,5.8,3.3 - 6.0
+Ohio,Union,5.8,3.3 - 6.0
+Oklahoma,Canadian,5.8,3.3 - 6.0
+South Dakota,Clay,5.8,3.3 - 6.0
+South Dakota,Codington,5.8,3.3 - 6.0
+South Dakota,Custer,5.8,3.3 - 6.0
+South Dakota,Douglas,5.8,3.3 - 6.0
+South Dakota,Hutchinson,5.8,3.3 - 6.0
+South Dakota,Perkins,5.8,3.3 - 6.0
+South Dakota,Sanborn,5.8,3.3 - 6.0
+Texas,Crane,5.8,3.3 - 6.0
+Texas,Hays,5.8,3.3 - 6.0
+Texas,Kent,5.8,3.3 - 6.0
+Texas,Montgomery,5.8,3.3 - 6.0
+Utah,Juab,5.8,3.3 - 6.0
+Vermont,Orange,5.8,3.3 - 6.0
+Vermont,Rutland,5.8,3.3 - 6.0
+Vermont,Windham,5.8,3.3 - 6.0
+Virginia,Roanoke,5.8,3.3 - 6.0
+Virginia,Fredericksburg,5.8,3.3 - 6.0
+Washington,Chelan,5.8,3.3 - 6.0
+Washington,Columbia,5.8,3.3 - 6.0
+Washington,Garfield,5.8,3.3 - 6.0
+Washington,Walla Walla,5.8,3.3 - 6.0
+Wisconsin,Florence,5.8,3.3 - 6.0
+Wisconsin,Milwaukee,5.8,3.3 - 6.0
+Wyoming,Park,5.8,3.3 - 6.0
+Alaska,Petersburg,5.9,3.3 - 6.0
+Alaska,Skagway,5.9,3.3 - 6.0
+California,Imperial,5.9,3.3 - 6.0
+Colorado,Cheyenne,5.9,3.3 - 6.0
+Colorado,Conejos,5.9,3.3 - 6.0
+Colorado,Dolores,5.9,3.3 - 6.0
+Colorado,Huerfano,5.9,3.3 - 6.0
+Colorado,Pueblo,5.9,3.3 - 6.0
+Georgia,Chatham,5.9,3.3 - 6.0
+Georgia,Douglas,5.9,3.3 - 6.0
+Idaho,Caribou,5.9,3.3 - 6.0
+Idaho,Kootenai,5.9,3.3 - 6.0
+Illinois,Champaign,5.9,3.3 - 6.0
+Indiana,Warrick,5.9,3.3 - 6.0
+Iowa,Lyon,5.9,3.3 - 6.0
+Iowa,Winnebago,5.9,3.3 - 6.0
+Kansas,McPherson,5.9,3.3 - 6.0
+Kansas,Nemaha,5.9,3.3 - 6.0
+Michigan,Eaton,5.9,3.3 - 6.0
+Michigan,Emmet,5.9,3.3 - 6.0
+Michigan,Kent,5.9,3.3 - 6.0
+Minnesota,Big Stone,5.9,3.3 - 6.0
+Minnesota,Cass,5.9,3.3 - 6.0
+Minnesota,Chippewa,5.9,3.3 - 6.0
+Minnesota,Faribault,5.9,3.3 - 6.0
+Minnesota,Koochiching,5.9,3.3 - 6.0
+Minnesota,Pipestone,5.9,3.3 - 6.0
+Mississippi,DeSoto,5.9,3.3 - 6.0
+Montana,Custer,5.9,3.3 - 6.0
+Nebraska,Antelope,5.9,3.3 - 6.0
+Nebraska,Burt,5.9,3.3 - 6.0
+Nebraska,Chase,5.9,3.3 - 6.0
+Nebraska,Colfax,5.9,3.3 - 6.0
+Nebraska,Dawson,5.9,3.3 - 6.0
+Nebraska,Dundy,5.9,3.3 - 6.0
+Nebraska,Grant,5.9,3.3 - 6.0
+Nebraska,Hitchcock,5.9,3.3 - 6.0
+Nebraska,Lincoln,5.9,3.3 - 6.0
+Nebraska,McPherson,5.9,3.3 - 6.0
+Nebraska,Thayer,5.9,3.3 - 6.0
+Nebraska,Webster,5.9,3.3 - 6.0
+Nebraska,Wheeler,5.9,3.3 - 6.0
+New Hampshire,Carroll,5.9,3.3 - 6.0
+New Hampshire,Merrimack,5.9,3.3 - 6.0
+New Jersey,Atlantic,5.9,3.3 - 6.0
+New Mexico,Eddy,5.9,3.3 - 6.0
+New Mexico,Lincoln,5.9,3.3 - 6.0
+New York,Albany,5.9,3.3 - 6.0
+New York,Ontario,5.9,3.3 - 6.0
+New York,Rockland,5.9,3.3 - 6.0
+North Carolina,Buncombe,5.9,3.3 - 6.0
+North Carolina,Guilford,5.9,3.3 - 6.0
+North Dakota,LaMoure,5.9,3.3 - 6.0
+North Dakota,Logan,5.9,3.3 - 6.0
+North Dakota,Stutsman,5.9,3.3 - 6.0
+Oregon,Wallowa,5.9,3.3 - 6.0
+Oregon,Yamhill,5.9,3.3 - 6.0
+Texas,Armstrong,5.9,3.3 - 6.0
+Texas,Galveston,5.9,3.3 - 6.0
+Texas,Gillespie,5.9,3.3 - 6.0
+Texas,Randall,5.9,3.3 - 6.0
+Texas,Wilson,5.9,3.3 - 6.0
+Utah,Garfield,5.9,3.3 - 6.0
+Utah,Grand,5.9,3.3 - 6.0
+Utah,Wayne,5.9,3.3 - 6.0
+Virginia,Suffolk,5.9,3.3 - 6.0
+Washington,Clallam,5.9,3.3 - 6.0
+Washington,Skamania,5.9,3.3 - 6.0
+Washington,Spokane,5.9,3.3 - 6.0
+Wisconsin,Iron,5.9,3.3 - 6.0
+Wisconsin,Lincoln,5.9,3.3 - 6.0
+Wyoming,Crook,5.9,3.3 - 6.0
+Wyoming,Lincoln,5.9,3.3 - 6.0
+Alaska,Ketchikan Gateway,6.0,3.3 - 6.0
+California,Sutter,6.0,3.3 - 6.0
+Georgia,Effingham,6.0,3.3 - 6.0
+Georgia,Rockdale,6.0,3.3 - 6.0
+Idaho,Oneida,6.0,3.3 - 6.0
+Illinois,Menard,6.0,3.3 - 6.0
+Iowa,Benton,6.0,3.3 - 6.0
+Iowa,Buchanan,6.0,3.3 - 6.0
+Iowa,Palo Alto,6.0,3.3 - 6.0
+Kansas,Clark,6.0,3.3 - 6.0
+Kansas,Dickinson,6.0,3.3 - 6.0
+Kansas,Greeley,6.0,3.3 - 6.0
+Kansas,Harvey,6.0,3.3 - 6.0
+Kansas,Trego,6.0,3.3 - 6.0
+Maine,Sagadahoc,6.0,3.3 - 6.0
+Massachusetts,Franklin,6.0,3.3 - 6.0
+Michigan,Grand Traverse,6.0,3.3 - 6.0
+Minnesota,Freeborn,6.0,3.3 - 6.0
+Nebraska,Arthur,6.0,3.3 - 6.0
+Nebraska,Boyd,6.0,3.3 - 6.0
+Nebraska,Cherry,6.0,3.3 - 6.0
+Nebraska,Cheyenne,6.0,3.3 - 6.0
+Nebraska,Custer,6.0,3.3 - 6.0
+Nebraska,Deuel,6.0,3.3 - 6.0
+Nebraska,Dodge,6.0,3.3 - 6.0
+Nebraska,Greeley,6.0,3.3 - 6.0
+Nebraska,Hayes,6.0,3.3 - 6.0
+Nebraska,Jefferson,6.0,3.3 - 6.0
+Nebraska,Keith,6.0,3.3 - 6.0
+Nebraska,Nance,6.0,3.3 - 6.0
+Nebraska,Nemaha,6.0,3.3 - 6.0
+New Hampshire,Belknap,6.0,3.3 - 6.0
+New York,Monroe,6.0,3.3 - 6.0
+North Carolina,Brunswick,6.0,3.3 - 6.0
+North Carolina,Henderson,6.0,3.3 - 6.0
+North Dakota,Emmons,6.0,3.3 - 6.0
+North Dakota,Hettinger,6.0,3.3 - 6.0
+Pennsylvania,Dauphin,6.0,3.3 - 6.0
+Pennsylvania,Lehigh,6.0,3.3 - 6.0
+Pennsylvania,Monroe,6.0,3.3 - 6.0
+Pennsylvania,Pike,6.0,3.3 - 6.0
+Pennsylvania,Washington,6.0,3.3 - 6.0
+Pennsylvania,Westmoreland,6.0,3.3 - 6.0
+South Dakota,Walworth,6.0,3.3 - 6.0
+Texas,Dallas,6.0,3.3 - 6.0
+Texas,Ellis,6.0,3.3 - 6.0
+Texas,Harris,6.0,3.3 - 6.0
+Texas,Hemphill,6.0,3.3 - 6.0
+Texas,Schleicher,6.0,3.3 - 6.0
+Texas,Webb,6.0,3.3 - 6.0
+Utah,Millard,6.0,3.3 - 6.0
+Washington,Douglas,6.0,3.3 - 6.0
+Washington,Kittitas,6.0,3.3 - 6.0
+Wisconsin,Lafayette,6.0,3.3 - 6.0
+Wisconsin,Marinette,6.0,3.3 - 6.0
+Wisconsin,Monroe,6.0,3.3 - 6.0
+Wisconsin,Washburn,6.0,3.3 - 6.0
+Wisconsin,Waushara,6.0,3.3 - 6.0
+Wyoming,Albany,6.0,3.3 - 6.0
+Wyoming,Laramie,6.0,3.3 - 6.0
+Alabama,Jefferson,6.1,6.1 - 7.0
+Alaska,Denali,6.1,6.1 - 7.0
+Arkansas,Benton,6.1,6.1 - 7.0
+California,Fresno,6.1,6.1 - 7.0
+California,Plumas,6.1,6.1 - 7.0
+California,Stanislaus,6.1,6.1 - 7.0
+Colorado,Montrose,6.1,6.1 - 7.0
+Idaho,Fremont,6.1,6.1 - 7.0
+Idaho,Gem,6.1,6.1 - 7.0
+Illinois,Boone,6.1,6.1 - 7.0
+Illinois,Jersey,6.1,6.1 - 7.0
+Illinois,Tazewell,6.1,6.1 - 7.0
+Indiana,Hancock,6.1,6.1 - 7.0
+Iowa,Guthrie,6.1,6.1 - 7.0
+Iowa,Shelby,6.1,6.1 - 7.0
+Iowa,Washington,6.1,6.1 - 7.0
+Iowa,Worth,6.1,6.1 - 7.0
+Kansas,Clay,6.1,6.1 - 7.0
+Kansas,Gray,6.1,6.1 - 7.0
+Kansas,Kiowa,6.1,6.1 - 7.0
+Kansas,Lane,6.1,6.1 - 7.0
+Kansas,Ness,6.1,6.1 - 7.0
+Kansas,Pratt,6.1,6.1 - 7.0
+Kansas,Saline,6.1,6.1 - 7.0
+Kansas,Wallace,6.1,6.1 - 7.0
+Kansas,Wichita,6.1,6.1 - 7.0
+Louisiana,St. Charles,6.1,6.1 - 7.0
+Massachusetts,Berkshire,6.1,6.1 - 7.0
+Minnesota,Aitkin,6.1,6.1 - 7.0
+Minnesota,Beltrami,6.1,6.1 - 7.0
+Minnesota,Mille Lacs,6.1,6.1 - 7.0
+Minnesota,Nobles,6.1,6.1 - 7.0
+Minnesota,Pine,6.1,6.1 - 7.0
+Minnesota,Swift,6.1,6.1 - 7.0
+Missouri,Clay,6.1,6.1 - 7.0
+Montana,Beaverhead,6.1,6.1 - 7.0
+Montana,Fergus,6.1,6.1 - 7.0
+Montana,Garfield,6.1,6.1 - 7.0
+Montana,Wibaux,6.1,6.1 - 7.0
+Nebraska,Box Butte,6.1,6.1 - 7.0
+Nebraska,Garden,6.1,6.1 - 7.0
+Nevada,Washoe,6.1,6.1 - 7.0
+New Hampshire,Strafford,6.1,6.1 - 7.0
+New Mexico,Grant,6.1,6.1 - 7.0
+North Carolina,Camden,6.1,6.1 - 7.0
+North Carolina,Polk,6.1,6.1 - 7.0
+North Dakota,Adams,6.1,6.1 - 7.0
+North Dakota,Ramsey,6.1,6.1 - 7.0
+North Dakota,Walsh,6.1,6.1 - 7.0
+Ohio,Medina,6.1,6.1 - 7.0
+Oregon,Polk,6.1,6.1 - 7.0
+Pennsylvania,Centre,6.1,6.1 - 7.0
+Pennsylvania,Lancaster,6.1,6.1 - 7.0
+Pennsylvania,Montour,6.1,6.1 - 7.0
+South Carolina,Berkeley,6.1,6.1 - 7.0
+South Carolina,Lancaster,6.1,6.1 - 7.0
+South Carolina,Lexington,6.1,6.1 - 7.0
+South Dakota,Davison,6.1,6.1 - 7.0
+Texas,Atascosa,6.1,6.1 - 7.0
+Texas,Franklin,6.1,6.1 - 7.0
+Texas,Nueces,6.1,6.1 - 7.0
+Texas,Tarrant,6.1,6.1 - 7.0
+Texas,Tom Green,6.1,6.1 - 7.0
+Utah,Sevier,6.1,6.1 - 7.0
+Virginia,Culpeper,6.1,6.1 - 7.0
+Virginia,Isle of Wight,6.1,6.1 - 7.0
+Virginia,Mathews,6.1,6.1 - 7.0
+Virginia,Rappahannock,6.1,6.1 - 7.0
+Virginia,Colonial Heights,6.1,6.1 - 7.0
+Virginia,Williamsburg,6.1,6.1 - 7.0
+Washington,Franklin,6.1,6.1 - 7.0
+Washington,Lincoln,6.1,6.1 - 7.0
+Wisconsin,Burnett,6.1,6.1 - 7.0
+Wisconsin,Crawford,6.1,6.1 - 7.0
+Wisconsin,Grant,6.1,6.1 - 7.0
+Wisconsin,Marquette,6.1,6.1 - 7.0
+Wisconsin,Price,6.1,6.1 - 7.0
+Wisconsin,Sawyer,6.1,6.1 - 7.0
+Wisconsin,Shawano,6.1,6.1 - 7.0
+Wisconsin,Taylor,6.1,6.1 - 7.0
+Wyoming,Washakie,6.1,6.1 - 7.0
+Arizona,Cochise,6.2,6.1 - 7.0
+California,Mariposa,6.2,6.1 - 7.0
+Colorado,Costilla,6.2,6.1 - 7.0
+Colorado,Mesa,6.2,6.1 - 7.0
+Idaho,Valley,6.2,6.1 - 7.0
+Illinois,Calhoun,6.2,6.1 - 7.0
+Illinois,DeKalb,6.2,6.1 - 7.0
+Illinois,Putnam,6.2,6.1 - 7.0
+Illinois,St. Clair,6.2,6.1 - 7.0
+Illinois,Sangamon,6.2,6.1 - 7.0
+Illinois,Washington,6.2,6.1 - 7.0
+Iowa,Carroll,6.2,6.1 - 7.0
+Iowa,Cerro Gordo,6.2,6.1 - 7.0
+Iowa,Clay,6.2,6.1 - 7.0
+Iowa,Delaware,6.2,6.1 - 7.0
+Iowa,Jasper,6.2,6.1 - 7.0
+Iowa,Mitchell,6.2,6.1 - 7.0
+Iowa,Muscatine,6.2,6.1 - 7.0
+Iowa,Poweshiek,6.2,6.1 - 7.0
+Kansas,Ellis,6.2,6.1 - 7.0
+Kansas,Gove,6.2,6.1 - 7.0
+Kansas,Kingman,6.2,6.1 - 7.0
+Kansas,Norton,6.2,6.1 - 7.0
+Kansas,Shawnee,6.2,6.1 - 7.0
+Kansas,Smith,6.2,6.1 - 7.0
+Kansas,Thomas,6.2,6.1 - 7.0
+Louisiana,Ascension,6.2,6.1 - 7.0
+Louisiana,St. Tammany,6.2,6.1 - 7.0
+Maine,Lincoln,6.2,6.1 - 7.0
+Michigan,Midland,6.2,6.1 - 7.0
+Minnesota,Kanabec,6.2,6.1 - 7.0
+Montana,Broadwater,6.2,6.1 - 7.0
+Montana,Cascade,6.2,6.1 - 7.0
+Montana,Judith Basin,6.2,6.1 - 7.0
+Montana,Powder River,6.2,6.1 - 7.0
+Nebraska,Dixon,6.2,6.1 - 7.0
+Nebraska,Knox,6.2,6.1 - 7.0
+Nebraska,Richardson,6.2,6.1 - 7.0
+Nebraska,Sioux,6.2,6.1 - 7.0
+New Hampshire,Cheshire,6.2,6.1 - 7.0
+New Mexico,Lea,6.2,6.1 - 7.0
+New York,Rensselaer,6.2,6.1 - 7.0
+North Carolina,Carteret,6.2,6.1 - 7.0
+Oklahoma,Cleveland,6.2,6.1 - 7.0
+Pennsylvania,Adams,6.2,6.1 - 7.0
+Pennsylvania,York,6.2,6.1 - 7.0
+South Dakota,Beadle,6.2,6.1 - 7.0
+South Dakota,Faulk,6.2,6.1 - 7.0
+Texas,Calhoun,6.2,6.1 - 7.0
+Texas,Castro,6.2,6.1 - 7.0
+Texas,Duval,6.2,6.1 - 7.0
+Texas,Hood,6.2,6.1 - 7.0
+Texas,Kleberg,6.2,6.1 - 7.0
+Texas,Waller,6.2,6.1 - 7.0
+Utah,Emery,6.2,6.1 - 7.0
+Utah,Sanpete,6.2,6.1 - 7.0
+Virginia,Botetourt,6.2,6.1 - 7.0
+Virginia,Frederick,6.2,6.1 - 7.0
+Virginia,Charlottesville,6.2,6.1 - 7.0
+Washington,Klickitat,6.2,6.1 - 7.0
+Washington,Pend Oreille,6.2,6.1 - 7.0
+Wisconsin,Barron,6.2,6.1 - 7.0
+Wisconsin,Green Lake,6.2,6.1 - 7.0
+Alaska,Kenai Peninsula,6.3,6.1 - 7.0
+Arizona,Pinal,6.3,6.1 - 7.0
+California,Colusa,6.3,6.1 - 7.0
+Connecticut,Windham,6.3,6.1 - 7.0
+Delaware,Sussex,6.3,6.1 - 7.0
+Georgia,Barrow,6.3,6.1 - 7.0
+Georgia,Jackson,6.3,6.1 - 7.0
+Georgia,Monroe,6.3,6.1 - 7.0
+Georgia,Pike,6.3,6.1 - 7.0
+Idaho,Bannock,6.3,6.1 - 7.0
+Idaho,Twin Falls,6.3,6.1 - 7.0
+Illinois,Clinton,6.3,6.1 - 7.0
+Illinois,Henry,6.3,6.1 - 7.0
+Illinois,Madison,6.3,6.1 - 7.0
+Iowa,Adams,6.3,6.1 - 7.0
+Iowa,Buena Vista,6.3,6.1 - 7.0
+Iowa,Chickasaw,6.3,6.1 - 7.0
+Iowa,Floyd,6.3,6.1 - 7.0
+Iowa,Hancock,6.3,6.1 - 7.0
+Iowa,Harrison,6.3,6.1 - 7.0
+Iowa,Jefferson,6.3,6.1 - 7.0
+Iowa,Jones,6.3,6.1 - 7.0
+Iowa,Monroe,6.3,6.1 - 7.0
+Iowa,Osceola,6.3,6.1 - 7.0
+Iowa,Taylor,6.3,6.1 - 7.0
+Kansas,Marion,6.3,6.1 - 7.0
+Kansas,Rice,6.3,6.1 - 7.0
+Kansas,Riley,6.3,6.1 - 7.0
+Maine,York,6.3,6.1 - 7.0
+Maryland,Cecil,6.3,6.1 - 7.0
+Maryland,Baltimore City,6.3,6.1 - 7.0
+Michigan,Benzie,6.3,6.1 - 7.0
+Michigan,Charlevoix,6.3,6.1 - 7.0
+Michigan,Kalamazoo,6.3,6.1 - 7.0
+Montana,Daniels,6.3,6.1 - 7.0
+Montana,Phillips,6.3,6.1 - 7.0
+Montana,Treasure,6.3,6.1 - 7.0
+New Mexico,Colfax,6.3,6.1 - 7.0
+New York,Orange,6.3,6.1 - 7.0
+North Carolina,Forsyth,6.3,6.1 - 7.0
+North Carolina,Pasquotank,6.3,6.1 - 7.0
+North Carolina,Transylvania,6.3,6.1 - 7.0
+North Dakota,McIntosh,6.3,6.1 - 7.0
+Oklahoma,Cimarron,6.3,6.1 - 7.0
+Oregon,Clatsop,6.3,6.1 - 7.0
+South Dakota,Bon Homme,6.3,6.1 - 7.0
+South Dakota,McPherson,6.3,6.1 - 7.0
+Texas,Blanco,6.3,6.1 - 7.0
+Texas,La Salle,6.3,6.1 - 7.0
+Texas,Martin,6.3,6.1 - 7.0
+Texas,Parker,6.3,6.1 - 7.0
+Texas,Roberts,6.3,6.1 - 7.0
+Texas,Sutton,6.3,6.1 - 7.0
+Texas,Yoakum,6.3,6.1 - 7.0
+Utah,Iron,6.3,6.1 - 7.0
+Vermont,Caledonia,6.3,6.1 - 7.0
+Virginia,Bedford,6.3,6.1 - 7.0
+Virginia,Gloucester,6.3,6.1 - 7.0
+Virginia,King William,6.3,6.1 - 7.0
+Virginia,Salem,6.3,6.1 - 7.0
+Washington,Pacific,6.3,6.1 - 7.0
+Washington,Wahkiakum,6.3,6.1 - 7.0
+Wisconsin,Jackson,6.3,6.1 - 7.0
+Wisconsin,Richland,6.3,6.1 - 7.0
+Wisconsin,Vernon,6.3,6.1 - 7.0
+Wyoming,Goshen,6.3,6.1 - 7.0
+Wyoming,Natrona,6.3,6.1 - 7.0
+Wyoming,Platte,6.3,6.1 - 7.0
+Wyoming,Sweetwater,6.3,6.1 - 7.0
+Arizona,Coconino,6.4,6.1 - 7.0
+Arizona,Yavapai,6.4,6.1 - 7.0
+Arizona,Yuma,6.4,6.1 - 7.0
+Arkansas,Saline,6.4,6.1 - 7.0
+California,Kings,6.4,6.1 - 7.0
+California,Merced,6.4,6.1 - 7.0
+Colorado,Montezuma,6.4,6.1 - 7.0
+Georgia,Glynn,6.4,6.1 - 7.0
+Georgia,Greene,6.4,6.1 - 7.0
+Georgia,Hall,6.4,6.1 - 7.0
+Georgia,Muscogee,6.4,6.1 - 7.0
+Georgia,Newton,6.4,6.1 - 7.0
+Idaho,Bonner,6.4,6.1 - 7.0
+Idaho,Nez Perce,6.4,6.1 - 7.0
+Illinois,Clark,6.4,6.1 - 7.0
+Illinois,Jo Daviess,6.4,6.1 - 7.0
+Illinois,Peoria,6.4,6.1 - 7.0
+Iowa,Audubon,6.4,6.1 - 7.0
+Iowa,Black Hawk,6.4,6.1 - 7.0
+Iowa,Butler,6.4,6.1 - 7.0
+Iowa,Calhoun,6.4,6.1 - 7.0
+Iowa,Hardin,6.4,6.1 - 7.0
+Iowa,Henry,6.4,6.1 - 7.0
+Iowa,Kossuth,6.4,6.1 - 7.0
+Iowa,Louisa,6.4,6.1 - 7.0
+Iowa,Marshall,6.4,6.1 - 7.0
+Iowa,Sac,6.4,6.1 - 7.0
+Kansas,Coffey,6.4,6.1 - 7.0
+Kansas,Decatur,6.4,6.1 - 7.0
+Kansas,Finney,6.4,6.1 - 7.0
+Kansas,Franklin,6.4,6.1 - 7.0
+Kansas,Jackson,6.4,6.1 - 7.0
+Kansas,Mitchell,6.4,6.1 - 7.0
+Kansas,Morris,6.4,6.1 - 7.0
+Kansas,Rooks,6.4,6.1 - 7.0
+Kansas,Sherman,6.4,6.1 - 7.0
+Kansas,Washington,6.4,6.1 - 7.0
+Louisiana,East Baton Rouge,6.4,6.1 - 7.0
+Maine,Hancock,6.4,6.1 - 7.0
+Michigan,Barry,6.4,6.1 - 7.0
+Michigan,Ingham,6.4,6.1 - 7.0
+Minnesota,Clearwater,6.4,6.1 - 7.0
+Minnesota,Wadena,6.4,6.1 - 7.0
+Missouri,Boone,6.4,6.1 - 7.0
+Missouri,Cole,6.4,6.1 - 7.0
+Montana,Teton,6.4,6.1 - 7.0
+Nebraska,Gage,6.4,6.1 - 7.0
+Nebraska,Saline,6.4,6.1 - 7.0
+Nebraska,Sheridan,6.4,6.1 - 7.0
+Nevada,Clark,6.4,6.1 - 7.0
+Nevada,Storey,6.4,6.1 - 7.0
+Nevada,Carson City,6.4,6.1 - 7.0
+New Mexico,Harding,6.4,6.1 - 7.0
+New Mexico,Hidalgo,6.4,6.1 - 7.0
+New York,Columbia,6.4,6.1 - 7.0
+New York,Schenectady,6.4,6.1 - 7.0
+New York,Ulster,6.4,6.1 - 7.0
+North Carolina,Pender,6.4,6.1 - 7.0
+North Dakota,Kidder,6.4,6.1 - 7.0
+North Dakota,Mountrail,6.4,6.1 - 7.0
+Ohio,Greene,6.4,6.1 - 7.0
+Ohio,Putnam,6.4,6.1 - 7.0
+Oregon,Lane,6.4,6.1 - 7.0
+Oregon,Lincoln,6.4,6.1 - 7.0
+Pennsylvania,Beaver,6.4,6.1 - 7.0
+Pennsylvania,Berks,6.4,6.1 - 7.0
+South Carolina,Aiken,6.4,6.1 - 7.0
+South Carolina,Georgetown,6.4,6.1 - 7.0
+Tennessee,Davidson,6.4,6.1 - 7.0
+Tennessee,Wilson,6.4,6.1 - 7.0
+Texas,Bandera,6.4,6.1 - 7.0
+Texas,Bastrop,6.4,6.1 - 7.0
+Texas,Carson,6.4,6.1 - 7.0
+Texas,Jim Wells,6.4,6.1 - 7.0
+Texas,Kerr,6.4,6.1 - 7.0
+Texas,Lipscomb,6.4,6.1 - 7.0
+Texas,Maverick,6.4,6.1 - 7.0
+Texas,Shackelford,6.4,6.1 - 7.0
+Texas,Val Verde,6.4,6.1 - 7.0
+Vermont,Franklin,6.4,6.1 - 7.0
+Virginia,Greene,6.4,6.1 - 7.0
+Virginia,Lancaster,6.4,6.1 - 7.0
+Virginia,Hampton,6.4,6.1 - 7.0
+Washington,Grant,6.4,6.1 - 7.0
+Washington,Mason,6.4,6.1 - 7.0
+Wisconsin,Langlade,6.4,6.1 - 7.0
+Wyoming,Campbell,6.4,6.1 - 7.0
+Wyoming,Converse,6.4,6.1 - 7.0
+Wyoming,Johnson,6.4,6.1 - 7.0
+Wyoming,Uinta,6.4,6.1 - 7.0
+Alabama,Baldwin,6.5,6.1 - 7.0
+Alaska,Matanuska-Susitna,6.5,6.1 - 7.0
+Alaska,Yakutat,6.5,6.1 - 7.0
+Arkansas,Pulaski,6.5,6.1 - 7.0
+California,Calaveras,6.5,6.1 - 7.0
+California,Mendocino,6.5,6.1 - 7.0
+California,Shasta,6.5,6.1 - 7.0
+Colorado,Alamosa,6.5,6.1 - 7.0
+Colorado,Las Animas,6.5,6.1 - 7.0
+Colorado,Morgan,6.5,6.1 - 7.0
+Colorado,Saguache,6.5,6.1 - 7.0
+Colorado,Yuma,6.5,6.1 - 7.0
+Georgia,Liberty,6.5,6.1 - 7.0
+Georgia,Towns,6.5,6.1 - 7.0
+Georgia,Walton,6.5,6.1 - 7.0
+Idaho,Canyon,6.5,6.1 - 7.0
+Idaho,Clearwater,6.5,6.1 - 7.0
+Illinois,Cumberland,6.5,6.1 - 7.0
+Illinois,Effingham,6.5,6.1 - 7.0
+Illinois,Henderson,6.5,6.1 - 7.0
+Illinois,Ogle,6.5,6.1 - 7.0
+Indiana,Johnson,6.5,6.1 - 7.0
+Iowa,Fremont,6.5,6.1 - 7.0
+Iowa,Howard,6.5,6.1 - 7.0
+Iowa,Ida,6.5,6.1 - 7.0
+Iowa,Pottawattamie,6.5,6.1 - 7.0
+Iowa,Union,6.5,6.1 - 7.0
+Kansas,Ellsworth,6.5,6.1 - 7.0
+Kansas,Ford,6.5,6.1 - 7.0
+Kansas,Hamilton,6.5,6.1 - 7.0
+Kansas,Logan,6.5,6.1 - 7.0
+Kansas,Osage,6.5,6.1 - 7.0
+Kansas,Republic,6.5,6.1 - 7.0
+Kansas,Rush,6.5,6.1 - 7.0
+Kansas,Stafford,6.5,6.1 - 7.0
+Kansas,Sumner,6.5,6.1 - 7.0
+Kentucky,Boone,6.5,6.1 - 7.0
+Maine,Knox,6.5,6.1 - 7.0
+Maryland,Wicomico,6.5,6.1 - 7.0
+Michigan,Antrim,6.5,6.1 - 7.0
+Minnesota,Todd,6.5,6.1 - 7.0
+Mississippi,Lee,6.5,6.1 - 7.0
+Montana,Golden Valley,6.5,6.1 - 7.0
+Montana,Lake,6.5,6.1 - 7.0
+Montana,Silver Bow,6.5,6.1 - 7.0
+Montana,Toole,6.5,6.1 - 7.0
+New Jersey,Salem,6.5,6.1 - 7.0
+New Mexico,Chaves,6.5,6.1 - 7.0
+New York,Erie,6.5,6.1 - 7.0
+New York,Livingston,6.5,6.1 - 7.0
+New York,Warren,6.5,6.1 - 7.0
+North Carolina,Davie,6.5,6.1 - 7.0
+North Carolina,Johnston,6.5,6.1 - 7.0
+North Carolina,Lincoln,6.5,6.1 - 7.0
+Ohio,Geauga,6.5,6.1 - 7.0
+Ohio,Hamilton,6.5,6.1 - 7.0
+Oklahoma,Logan,6.5,6.1 - 7.0
+Oklahoma,McClain,6.5,6.1 - 7.0
+Oklahoma,Oklahoma,6.5,6.1 - 7.0
+Oklahoma,Tulsa,6.5,6.1 - 7.0
+Oregon,Columbia,6.5,6.1 - 7.0
+Oregon,Crook,6.5,6.1 - 7.0
+Oregon,Jackson,6.5,6.1 - 7.0
+Oregon,Tillamook,6.5,6.1 - 7.0
+Pennsylvania,Lackawanna,6.5,6.1 - 7.0
+South Dakota,Brule,6.5,6.1 - 7.0
+South Dakota,Day,6.5,6.1 - 7.0
+Texas,Bailey,6.5,6.1 - 7.0
+Texas,Bell,6.5,6.1 - 7.0
+Texas,Cameron,6.5,6.1 - 7.0
+Texas,Chambers,6.5,6.1 - 7.0
+Texas,Ector,6.5,6.1 - 7.0
+Texas,Fisher,6.5,6.1 - 7.0
+Texas,Glasscock,6.5,6.1 - 7.0
+Texas,Lubbock,6.5,6.1 - 7.0
+Texas,Somervell,6.5,6.1 - 7.0
+Texas,Terrell,6.5,6.1 - 7.0
+Texas,Winkler,6.5,6.1 - 7.0
+Utah,Carbon,6.5,6.1 - 7.0
+Virginia,Caroline,6.5,6.1 - 7.0
+Virginia,Cumberland,6.5,6.1 - 7.0
+Virginia,Northumberland,6.5,6.1 - 7.0
+Virginia,Orange,6.5,6.1 - 7.0
+Virginia,Lexington,6.5,6.1 - 7.0
+Virginia,Richmond City,6.5,6.1 - 7.0
+Washington,Cowlitz,6.5,6.1 - 7.0
+Washington,Whitman,6.5,6.1 - 7.0
+Wisconsin,Ashland,6.5,6.1 - 7.0
+Wisconsin,Juneau,6.5,6.1 - 7.0
+Wisconsin,Rusk,6.5,6.1 - 7.0
+Alaska,Copper River,6.6,6.1 - 7.0
+Alaska,North Slope,6.6,6.1 - 7.0
+Alaska,Southeast Fairbanks,6.6,6.1 - 7.0
+California,Butte,6.6,6.1 - 7.0
+California,Yuba,6.6,6.1 - 7.0
+Colorado,Rio Blanco,6.6,6.1 - 7.0
+Colorado,Washington,6.6,6.1 - 7.0
+Georgia,Catoosa,6.6,6.1 - 7.0
+Georgia,Clarke,6.6,6.1 - 7.0
+Georgia,Clayton,6.6,6.1 - 7.0
+Idaho,Adams,6.6,6.1 - 7.0
+Idaho,Bear Lake,6.6,6.1 - 7.0
+Idaho,Cassia,6.6,6.1 - 7.0
+Idaho,Lemhi,6.6,6.1 - 7.0
+Idaho,Payette,6.6,6.1 - 7.0
+Illinois,Logan,6.6,6.1 - 7.0
+Illinois,Whiteside,6.6,6.1 - 7.0
+Indiana,Porter,6.6,6.1 - 7.0
+Iowa,Adair,6.6,6.1 - 7.0
+Iowa,Allamakee,6.6,6.1 - 7.0
+Iowa,Cherokee,6.6,6.1 - 7.0
+Iowa,Jackson,6.6,6.1 - 7.0
+Kansas,Atchison,6.6,6.1 - 7.0
+Kansas,Chase,6.6,6.1 - 7.0
+Kansas,Lincoln,6.6,6.1 - 7.0
+Kansas,Meade,6.6,6.1 - 7.0
+Kansas,Morton,6.6,6.1 - 7.0
+Kansas,Osborne,6.6,6.1 - 7.0
+Kansas,Pawnee,6.6,6.1 - 7.0
+Kansas,Seward,6.6,6.1 - 7.0
+Kentucky,Woodford,6.6,6.1 - 7.0
+Louisiana,Jefferson,6.6,6.1 - 7.0
+Michigan,Dickinson,6.6,6.1 - 7.0
+Mississippi,Lafayette,6.6,6.1 - 7.0
+Mississippi,Lamar,6.6,6.1 - 7.0
+Montana,Chouteau,6.6,6.1 - 7.0
+Montana,Granite,6.6,6.1 - 7.0
+Montana,Musselshell,6.6,6.1 - 7.0
+Montana,Pondera,6.6,6.1 - 7.0
+Montana,Valley,6.6,6.1 - 7.0
+New Mexico,Otero,6.6,6.1 - 7.0
+New Mexico,Roosevelt,6.6,6.1 - 7.0
+New York,Bronx,6.6,6.1 - 7.0
+New York,Onondaga,6.6,6.1 - 7.0
+New York,Tioga,6.6,6.1 - 7.0
+North Carolina,Cumberland,6.6,6.1 - 7.0
+North Carolina,Pitt,6.6,6.1 - 7.0
+North Dakota,Eddy,6.6,6.1 - 7.0
+Oklahoma,Beaver,6.6,6.1 - 7.0
+Oklahoma,Rogers,6.6,6.1 - 7.0
+Oklahoma,Wagoner,6.6,6.1 - 7.0
+Oregon,Curry,6.6,6.1 - 7.0
+Oregon,Marion,6.6,6.1 - 7.0
+Pennsylvania,Franklin,6.6,6.1 - 7.0
+Pennsylvania,Lebanon,6.6,6.1 - 7.0
+Pennsylvania,Philadelphia,6.6,6.1 - 7.0
+Pennsylvania,Wyoming,6.6,6.1 - 7.0
+South Carolina,Horry,6.6,6.1 - 7.0
+South Carolina,Kershaw,6.6,6.1 - 7.0
+South Dakota,Butte,6.6,6.1 - 7.0
+Tennessee,Rutherford,6.6,6.1 - 7.0
+Texas,Fayette,6.6,6.1 - 7.0
+Texas,Floyd,6.6,6.1 - 7.0
+Texas,Goliad,6.6,6.1 - 7.0
+Texas,Irion,6.6,6.1 - 7.0
+Texas,Kaufman,6.6,6.1 - 7.0
+Texas,Parmer,6.6,6.1 - 7.0
+Texas,San Patricio,6.6,6.1 - 7.0
+Texas,Washington,6.6,6.1 - 7.0
+Utah,Duchesne,6.6,6.1 - 7.0
+Vermont,Orleans,6.6,6.1 - 7.0
+Virginia,Prince George,6.6,6.1 - 7.0
+Virginia,Rockingham,6.6,6.1 - 7.0
+Virginia,Southampton,6.6,6.1 - 7.0
+Virginia,Norfolk,6.6,6.1 - 7.0
+Virginia,Winchester,6.6,6.1 - 7.0
+Wisconsin,Adams,6.6,6.1 - 7.0
+Alabama,Elmore,6.7,6.1 - 7.0
+Alabama,Lee,6.7,6.1 - 7.0
+Alabama,Limestone,6.7,6.1 - 7.0
+California,Kern,6.7,6.1 - 7.0
+California,Tulare,6.7,6.1 - 7.0
+Colorado,Kiowa,6.7,6.1 - 7.0
+Colorado,Phillips,6.7,6.1 - 7.0
+Delaware,Kent,6.7,6.1 - 7.0
+Georgia,Bartow,6.7,6.1 - 7.0
+Georgia,White,6.7,6.1 - 7.0
+Idaho,Franklin,6.7,6.1 - 7.0
+Illinois,Adams,6.7,6.1 - 7.0
+Illinois,Hancock,6.7,6.1 - 7.0
+Illinois,Jasper,6.7,6.1 - 7.0
+Illinois,LaSalle,6.7,6.1 - 7.0
+Illinois,Lee,6.7,6.1 - 7.0
+Illinois,Rock Island,6.7,6.1 - 7.0
+Illinois,Scott,6.7,6.1 - 7.0
+Illinois,Shelby,6.7,6.1 - 7.0
+Indiana,Bartholomew,6.7,6.1 - 7.0
+Iowa,Des Moines,6.7,6.1 - 7.0
+Iowa,Franklin,6.7,6.1 - 7.0
+Iowa,Greene,6.7,6.1 - 7.0
+Iowa,O'Brien,6.7,6.1 - 7.0
+Iowa,Wright,6.7,6.1 - 7.0
+Kansas,Edwards,6.7,6.1 - 7.0
+Kansas,Lyon,6.7,6.1 - 7.0
+Kansas,Marshall,6.7,6.1 - 7.0
+Kansas,Ottawa,6.7,6.1 - 7.0
+Kansas,Phillips,6.7,6.1 - 7.0
+Louisiana,Lafayette,6.7,6.1 - 7.0
+Louisiana,West Feliciana,6.7,6.1 - 7.0
+Massachusetts,Hampden,6.7,6.1 - 7.0
+Michigan,Allegan,6.7,6.1 - 7.0
+Michigan,Macomb,6.7,6.1 - 7.0
+Michigan,Marquette,6.7,6.1 - 7.0
+Mississippi,Hinds,6.7,6.1 - 7.0
+Mississippi,Jackson,6.7,6.1 - 7.0
+Missouri,Cass,6.7,6.1 - 7.0
+Montana,Carter,6.7,6.1 - 7.0
+Montana,Hill,6.7,6.1 - 7.0
+Montana,Mineral,6.7,6.1 - 7.0
+Montana,Powell,6.7,6.1 - 7.0
+Nevada,Churchill,6.7,6.1 - 7.0
+New Mexico,Curry,6.7,6.1 - 7.0
+New York,Essex,6.7,6.1 - 7.0
+New York,Madison,6.7,6.1 - 7.0
+New York,Otsego,6.7,6.1 - 7.0
+New York,Wayne,6.7,6.1 - 7.0
+North Carolina,Alamance,6.7,6.1 - 7.0
+North Carolina,Craven,6.7,6.1 - 7.0
+North Carolina,Franklin,6.7,6.1 - 7.0
+North Dakota,Towner,6.7,6.1 - 7.0
+Ohio,Franklin,6.7,6.1 - 7.0
+Ohio,Lake,6.7,6.1 - 7.0
+Oregon,Linn,6.7,6.1 - 7.0
+Oregon,Wasco,6.7,6.1 - 7.0
+Pennsylvania,Union,6.7,6.1 - 7.0
+South Carolina,McCormick,6.7,6.1 - 7.0
+South Dakota,Gregory,6.7,6.1 - 7.0
+Texas,Austin,6.7,6.1 - 7.0
+Texas,Brazos,6.7,6.1 - 7.0
+Texas,Burnet,6.7,6.1 - 7.0
+Texas,Jim Hogg,6.7,6.1 - 7.0
+Texas,Llano,6.7,6.1 - 7.0
+Texas,Menard,6.7,6.1 - 7.0
+Texas,Uvalde,6.7,6.1 - 7.0
+Utah,Uintah,6.7,6.1 - 7.0
+Virginia,Dinwiddie,6.7,6.1 - 7.0
+Virginia,Staunton,6.7,6.1 - 7.0
+Washington,Asotin,6.7,6.1 - 7.0
+Washington,Stevens,6.7,6.1 - 7.0
+Wisconsin,Forest,6.7,6.1 - 7.0
+Wyoming,Big Horn,6.7,6.1 - 7.0
+Alabama,Autauga,6.8,6.1 - 7.0
+Alabama,Montgomery,6.8,6.1 - 7.0
+California,Madera,6.8,6.1 - 7.0
+Colorado,Jackson,6.8,6.1 - 7.0
+Colorado,Sedgwick,6.8,6.1 - 7.0
+Georgia,Camden,6.8,6.1 - 7.0
+Georgia,Jones,6.8,6.1 - 7.0
+Georgia,Lumpkin,6.8,6.1 - 7.0
+Georgia,Peach,6.8,6.1 - 7.0
+Georgia,Pickens,6.8,6.1 - 7.0
+Georgia,Thomas,6.8,6.1 - 7.0
+Idaho,Bingham,6.8,6.1 - 7.0
+Idaho,Clark,6.8,6.1 - 7.0
+Idaho,Idaho,6.8,6.1 - 7.0
+Illinois,Bureau,6.8,6.1 - 7.0
+Illinois,Kankakee,6.8,6.1 - 7.0
+Illinois,Marshall,6.8,6.1 - 7.0
+Illinois,Warren,6.8,6.1 - 7.0
+Illinois,Williamson,6.8,6.1 - 7.0
+Iowa,Emmet,6.8,6.1 - 7.0
+Iowa,Humboldt,6.8,6.1 - 7.0
+Iowa,Lee,6.8,6.1 - 7.0
+Iowa,Mahaska,6.8,6.1 - 7.0
+Iowa,Pocahontas,6.8,6.1 - 7.0
+Iowa,Ringgold,6.8,6.1 - 7.0
+Iowa,Woodbury,6.8,6.1 - 7.0
+Kansas,Geary,6.8,6.1 - 7.0
+Kansas,Reno,6.8,6.1 - 7.0
+Kansas,Russell,6.8,6.1 - 7.0
+Kentucky,Fayette,6.8,6.1 - 7.0
+Maryland,Dorchester,6.8,6.1 - 7.0
+Missouri,Christian,6.8,6.1 - 7.0
+Missouri,Jackson,6.8,6.1 - 7.0
+Nebraska,Keya Paha,6.8,6.1 - 7.0
+New Mexico,Sierra,6.8,6.1 - 7.0
+North Carolina,Catawba,6.8,6.1 - 7.0
+North Carolina,Harnett,6.8,6.1 - 7.0
+North Carolina,Hoke,6.8,6.1 - 7.0
+North Carolina,Nash,6.8,6.1 - 7.0
+North Carolina,Onslow,6.8,6.1 - 7.0
+Ohio,Fairfield,6.8,6.1 - 7.0
+Ohio,Wood,6.8,6.1 - 7.0
+Oklahoma,Alfalfa,6.8,6.1 - 7.0
+Oklahoma,Jackson,6.8,6.1 - 7.0
+Oklahoma,Woods,6.8,6.1 - 7.0
+Oregon,Jefferson,6.8,6.1 - 7.0
+Oregon,Union,6.8,6.1 - 7.0
+Pennsylvania,Perry,6.8,6.1 - 7.0
+South Carolina,Spartanburg,6.8,6.1 - 7.0
+South Dakota,Haakon,6.8,6.1 - 7.0
+Tennessee,Montgomery,6.8,6.1 - 7.0
+Texas,Andrews,6.8,6.1 - 7.0
+Texas,Clay,6.8,6.1 - 7.0
+Texas,Motley,6.8,6.1 - 7.0
+Texas,Taylor,6.8,6.1 - 7.0
+Texas,Victoria,6.8,6.1 - 7.0
+Virginia,Louisa,6.8,6.1 - 7.0
+Virginia,Middlesex,6.8,6.1 - 7.0
+Virginia,Nelson,6.8,6.1 - 7.0
+Virginia,Warren,6.8,6.1 - 7.0
+Virginia,Lynchburg,6.8,6.1 - 7.0
+Washington,Lewis,6.8,6.1 - 7.0
+Washington,Yakima,6.8,6.1 - 7.0
+Alaska,Hoonah-Angoon,6.9,6.1 - 7.0
+Arkansas,Faulkner,6.9,6.1 - 7.0
+California,Glenn,6.9,6.1 - 7.0
+California,Humboldt,6.9,6.1 - 7.0
+Colorado,Kit Carson,6.9,6.1 - 7.0
+Colorado,Logan,6.9,6.1 - 7.0
+Colorado,Moffat,6.9,6.1 - 7.0
+Georgia,Lamar,6.9,6.1 - 7.0
+Idaho,Boundary,6.9,6.1 - 7.0
+Idaho,Custer,6.9,6.1 - 7.0
+Idaho,Elmore,6.9,6.1 - 7.0
+Idaho,Gooding,6.9,6.1 - 7.0
+Idaho,Lincoln,6.9,6.1 - 7.0
+Idaho,Power,6.9,6.1 - 7.0
+Illinois,Macon,6.9,6.1 - 7.0
+Illinois,Mercer,6.9,6.1 - 7.0
+Illinois,Moultrie,6.9,6.1 - 7.0
+Illinois,Stephenson,6.9,6.1 - 7.0
+Iowa,Clayton,6.9,6.1 - 7.0
+Iowa,Clinton,6.9,6.1 - 7.0
+Iowa,Tama,6.9,6.1 - 7.0
+Iowa,Webster,6.9,6.1 - 7.0
+Kansas,Linn,6.9,6.1 - 7.0
+Kansas,Neosho,6.9,6.1 - 7.0
+Kansas,Stevens,6.9,6.1 - 7.0
+Louisiana,Orleans,6.9,6.1 - 7.0
+Louisiana,West Baton Rouge,6.9,6.1 - 7.0
+Maryland,Garrett,6.9,6.1 - 7.0
+Massachusetts,Bristol,6.9,6.1 - 7.0
+Michigan,Jackson,6.9,6.1 - 7.0
+Michigan,Lapeer,6.9,6.1 - 7.0
+Michigan,Monroe,6.9,6.1 - 7.0
+Mississippi,Warren,6.9,6.1 - 7.0
+Missouri,Andrew,6.9,6.1 - 7.0
+Missouri,Osage,6.9,6.1 - 7.0
+Nebraska,Franklin,6.9,6.1 - 7.0
+Nebraska,Kimball,6.9,6.1 - 7.0
+Nevada,Elko,6.9,6.1 - 7.0
+Nevada,Humboldt,6.9,6.1 - 7.0
+Nevada,Lincoln,6.9,6.1 - 7.0
+Nevada,Pershing,6.9,6.1 - 7.0
+Nevada,White Pine,6.9,6.1 - 7.0
+New Mexico,Union,6.9,6.1 - 7.0
+North Carolina,Granville,6.9,6.1 - 7.0
+North Carolina,Haywood,6.9,6.1 - 7.0
+North Carolina,Lee,6.9,6.1 - 7.0
+North Carolina,Pamlico,6.9,6.1 - 7.0
+North Carolina,Watauga,6.9,6.1 - 7.0
+Oklahoma,Grady,6.9,6.1 - 7.0
+Oklahoma,Kingfisher,6.9,6.1 - 7.0
+Oregon,Baker,6.9,6.1 - 7.0
+Oregon,Gilliam,6.9,6.1 - 7.0
+Pennsylvania,Elk,6.9,6.1 - 7.0
+Pennsylvania,Erie,6.9,6.1 - 7.0
+Pennsylvania,Lycoming,6.9,6.1 - 7.0
+Pennsylvania,Wayne,6.9,6.1 - 7.0
+South Carolina,Jasper,6.9,6.1 - 7.0
+Texas,Callahan,6.9,6.1 - 7.0
+Texas,Hidalgo,6.9,6.1 - 7.0
+Texas,Johnson,6.9,6.1 - 7.0
+Texas,Kinney,6.9,6.1 - 7.0
+Texas,Lampasas,6.9,6.1 - 7.0
+Texas,Mills,6.9,6.1 - 7.0
+Texas,Moore,6.9,6.1 - 7.0
+Texas,Pecos,6.9,6.1 - 7.0
+Texas,Reeves,6.9,6.1 - 7.0
+Texas,Smith,6.9,6.1 - 7.0
+Texas,Upton,6.9,6.1 - 7.0
+Virginia,Augusta,6.9,6.1 - 7.0
+Virginia,Newport News,6.9,6.1 - 7.0
+Wyoming,Hot Springs,6.9,6.1 - 7.0
+Wyoming,Weston,6.9,6.1 - 7.0
+Alabama,Tuscaloosa,7.0,6.1 - 7.0
+Alaska,Haines,7.0,6.1 - 7.0
+Arizona,Graham,7.0,6.1 - 7.0
+Arkansas,Washington,7.0,6.1 - 7.0
+California,Siskiyou,7.0,6.1 - 7.0
+Colorado,Fremont,7.0,6.1 - 7.0
+Colorado,Prowers,7.0,6.1 - 7.0
+Georgia,Carroll,7.0,6.1 - 7.0
+Georgia,Gilmer,7.0,6.1 - 7.0
+Georgia,Union,7.0,6.1 - 7.0
+Idaho,Minidoka,7.0,6.1 - 7.0
+Illinois,De Witt,7.0,6.1 - 7.0
+Illinois,Ford,7.0,6.1 - 7.0
+Illinois,Stark,7.0,6.1 - 7.0
+Indiana,Allen,7.0,6.1 - 7.0
+Indiana,Brown,7.0,6.1 - 7.0
+Indiana,Dubois,7.0,6.1 - 7.0
+Indiana,Floyd,7.0,6.1 - 7.0
+Indiana,Monroe,7.0,6.1 - 7.0
+Indiana,Posey,7.0,6.1 - 7.0
+Indiana,St. Joseph,7.0,6.1 - 7.0
+Indiana,Tippecanoe,7.0,6.1 - 7.0
+Iowa,Crawford,7.0,6.1 - 7.0
+Iowa,Fayette,7.0,6.1 - 7.0
+Iowa,Keokuk,7.0,6.1 - 7.0
+Iowa,Monona,7.0,6.1 - 7.0
+Iowa,Page,7.0,6.1 - 7.0
+Kansas,Brown,7.0,6.1 - 7.0
+Kansas,Cloud,7.0,6.1 - 7.0
+Kansas,Rawlins,7.0,6.1 - 7.0
+Kansas,Stanton,7.0,6.1 - 7.0
+Kansas,Woodson,7.0,6.1 - 7.0
+Kentucky,Campbell,7.0,6.1 - 7.0
+Kentucky,Scott,7.0,6.1 - 7.0
+Louisiana,St. John the Baptist,7.0,6.1 - 7.0
+Michigan,Berrien,7.0,6.1 - 7.0
+Michigan,Ionia,7.0,6.1 - 7.0
+Michigan,Lenawee,7.0,6.1 - 7.0
+Michigan,Otsego,7.0,6.1 - 7.0
+Mississippi,Harrison,7.0,6.1 - 7.0
+Mississippi,Lowndes,7.0,6.1 - 7.0
+Nevada,Lyon,7.0,6.1 - 7.0
+New Hampshire,Sullivan,7.0,6.1 - 7.0
+New Mexico,De Baca,7.0,6.1 - 7.0
+New Mexico,Torrance,7.0,6.1 - 7.0
+New York,Genesee,7.0,6.1 - 7.0
+New York,Greene,7.0,6.1 - 7.0
+New York,Schoharie,7.0,6.1 - 7.0
+New York,Sullivan,7.0,6.1 - 7.0
+North Carolina,Gaston,7.0,6.1 - 7.0
+North Carolina,Madison,7.0,6.1 - 7.0
+North Carolina,Perquimans,7.0,6.1 - 7.0
+Ohio,Auglaize,7.0,6.1 - 7.0
+Ohio,Licking,7.0,6.1 - 7.0
+Ohio,Miami,7.0,6.1 - 7.0
+Ohio,Ottawa,7.0,6.1 - 7.0
+Oregon,Douglas,7.0,6.1 - 7.0
+Oregon,Umatilla,7.0,6.1 - 7.0
+Pennsylvania,Armstrong,7.0,6.1 - 7.0
+Pennsylvania,Blair,7.0,6.1 - 7.0
+Pennsylvania,Cambria,7.0,6.1 - 7.0
+Pennsylvania,Columbia,7.0,6.1 - 7.0
+Pennsylvania,Snyder,7.0,6.1 - 7.0
+Pennsylvania,Warren,7.0,6.1 - 7.0
+South Carolina,Anderson,7.0,6.1 - 7.0
+South Carolina,Calhoun,7.0,6.1 - 7.0
+South Carolina,Florence,7.0,6.1 - 7.0
+South Carolina,Newberry,7.0,6.1 - 7.0
+South Carolina,Oconee,7.0,6.1 - 7.0
+South Dakota,Fall River,7.0,6.1 - 7.0
+Tennessee,Hamilton,7.0,6.1 - 7.0
+Tennessee,Knox,7.0,6.1 - 7.0
+Tennessee,Sumner,7.0,6.1 - 7.0
+Texas,Bee,7.0,6.1 - 7.0
+Texas,Burleson,7.0,6.1 - 7.0
+Texas,Caldwell,7.0,6.1 - 7.0
+Texas,Deaf Smith,7.0,6.1 - 7.0
+Texas,Frio,7.0,6.1 - 7.0
+Texas,Grayson,7.0,6.1 - 7.0
+Texas,Ochiltree,7.0,6.1 - 7.0
+Texas,Oldham,7.0,6.1 - 7.0
+Texas,Sherman,7.0,6.1 - 7.0
+Texas,Ward,7.0,6.1 - 7.0
+Virginia,Floyd,7.0,6.1 - 7.0
+Virginia,Highland,7.0,6.1 - 7.0
+Virginia,Madison,7.0,6.1 - 7.0
+Virginia,Montgomery,7.0,6.1 - 7.0
+Virginia,Northampton,7.0,6.1 - 7.0
+Washington,Grays Harbor,7.0,6.1 - 7.0
+Wisconsin,Clark,7.0,6.1 - 7.0
+Wyoming,Carbon,7.0,6.1 - 7.0
+Arkansas,Lonoke,7.1,7.1 - 8.1
+Colorado,Delta,7.1,7.1 - 8.1
+Colorado,Lincoln,7.1,7.1 - 8.1
+Georgia,Chattahoochee,7.1,7.1 - 8.1
+Georgia,Habersham,7.1,7.1 - 8.1
+Georgia,Oglethorpe,7.1,7.1 - 8.1
+Georgia,Putnam,7.1,7.1 - 8.1
+Georgia,Richmond,7.1,7.1 - 8.1
+Idaho,Camas,7.1,7.1 - 8.1
+Idaho,Madison,7.1,7.1 - 8.1
+Illinois,Carroll,7.1,7.1 - 8.1
+Illinois,Crawford,7.1,7.1 - 8.1
+Illinois,Livingston,7.1,7.1 - 8.1
+Illinois,Richland,7.1,7.1 - 8.1
+Illinois,Schuyler,7.1,7.1 - 8.1
+Illinois,Winnebago,7.1,7.1 - 8.1
+Indiana,Whitley,7.1,7.1 - 8.1
+Iowa,Cass,7.1,7.1 - 8.1
+Iowa,Decatur,7.1,7.1 - 8.1
+Iowa,Montgomery,7.1,7.1 - 8.1
+Kansas,Barber,7.1,7.1 - 8.1
+Kansas,Bourbon,7.1,7.1 - 8.1
+Kansas,Cowley,7.1,7.1 - 8.1
+Kansas,Doniphan,7.1,7.1 - 8.1
+Kansas,Graham,7.1,7.1 - 8.1
+Kansas,Greenwood,7.1,7.1 - 8.1
+Kentucky,Kenton,7.1,7.1 - 8.1
+Kentucky,Spencer,7.1,7.1 - 8.1
+Maine,Waldo,7.1,7.1 - 8.1
+Maryland,Allegany,7.1,7.1 - 8.1
+Maryland,Washington,7.1,7.1 - 8.1
+Michigan,Houghton,7.1,7.1 - 8.1
+Michigan,Manistee,7.1,7.1 - 8.1
+Michigan,St. Clair,7.1,7.1 - 8.1
+Mississippi,Hancock,7.1,7.1 - 8.1
+Missouri,Jefferson,7.1,7.1 - 8.1
+Missouri,Johnson,7.1,7.1 - 8.1
+New Mexico,Quay,7.1,7.1 - 8.1
+North Carolina,Clay,7.1,7.1 - 8.1
+North Carolina,Mitchell,7.1,7.1 - 8.1
+Ohio,Butler,7.1,7.1 - 8.1
+Ohio,Hancock,7.1,7.1 - 8.1
+Ohio,Summit,7.1,7.1 - 8.1
+Oklahoma,Garfield,7.1,7.1 - 8.1
+Oregon,Sherman,7.1,7.1 - 8.1
+Pennsylvania,Carbon,7.1,7.1 - 8.1
+Pennsylvania,Luzerne,7.1,7.1 - 8.1
+Pennsylvania,Sullivan,7.1,7.1 - 8.1
+South Carolina,Sumter,7.1,7.1 - 8.1
+Texas,Archer,7.1,7.1 - 8.1
+Texas,Brooks,7.1,7.1 - 8.1
+Texas,Colorado,7.1,7.1 - 8.1
+Texas,Comanche,7.1,7.1 - 8.1
+Texas,Coryell,7.1,7.1 - 8.1
+Texas,Garza,7.1,7.1 - 8.1
+Texas,Jackson,7.1,7.1 - 8.1
+Texas,Kenedy,7.1,7.1 - 8.1
+Texas,Refugio,7.1,7.1 - 8.1
+Texas,Wharton,7.1,7.1 - 8.1
+Texas,Wise,7.1,7.1 - 8.1
+Virginia,King and Queen,7.1,7.1 - 8.1
+Virginia,Rockbridge,7.1,7.1 - 8.1
+Virginia,Portsmouth,7.1,7.1 - 8.1
+Wisconsin,Menominee,7.1,7.1 - 8.1
+Wyoming,Fremont,7.1,7.1 - 8.1
+California,Lake,7.2,7.1 - 8.1
+California,Lassen,7.2,7.1 - 8.1
+Colorado,Otero,7.2,7.1 - 8.1
+Georgia,Baldwin,7.2,7.1 - 8.1
+Georgia,Bulloch,7.2,7.1 - 8.1
+Georgia,Haralson,7.2,7.1 - 8.1
+Georgia,Lowndes,7.2,7.1 - 8.1
+Georgia,Twiggs,7.2,7.1 - 8.1
+Indiana,Dearborn,7.2,7.1 - 8.1
+Indiana,Wells,7.2,7.1 - 8.1
+Iowa,Wayne,7.2,7.1 - 8.1
+Kansas,Allen,7.2,7.1 - 8.1
+Kansas,Barton,7.2,7.1 - 8.1
+Kansas,Cheyenne,7.2,7.1 - 8.1
+Kansas,Crawford,7.2,7.1 - 8.1
+Kansas,Haskell,7.2,7.1 - 8.1
+Kansas,Scott,7.2,7.1 - 8.1
+Louisiana,Livingston,7.2,7.1 - 8.1
+Maryland,Caroline,7.2,7.1 - 8.1
+Michigan,Cass,7.2,7.1 - 8.1
+Michigan,Mason,7.2,7.1 - 8.1
+Mississippi,Oktibbeha,7.2,7.1 - 8.1
+Nebraska,Pawnee,7.2,7.1 - 8.1
+New Jersey,Cumberla,7.2,7.1 - 8.1
+New Mexico,Socorro,7.2,7.1 - 8.1
+New York,Cortland,7.2,7.1 - 8.1
+North Carolina,Alexander,7.2,7.1 - 8.1
+North Carolina,Person,7.2,7.1 - 8.1
+North Carolina,Stanly,7.2,7.1 - 8.1
+Ohio,Clermont,7.2,7.1 - 8.1
+Ohio,Mercer,7.2,7.1 - 8.1
+Ohio,Portage,7.2,7.1 - 8.1
+Oklahoma,Comanche,7.2,7.1 - 8.1
+Oklahoma,Custer,7.2,7.1 - 8.1
+Oklahoma,Grant,7.2,7.1 - 8.1
+Oklahoma,Harper,7.2,7.1 - 8.1
+Oklahoma,Major,7.2,7.1 - 8.1
+Oregon,Grant,7.2,7.1 - 8.1
+Pennsylvania,Huntingdon,7.2,7.1 - 8.1
+Pennsylvania,Indiana,7.2,7.1 - 8.1
+Pennsylvania,Lawrence,7.2,7.1 - 8.1
+Pennsylvania,Mercer,7.2,7.1 - 8.1
+Pennsylvania,Somerset,7.2,7.1 - 8.1
+Pennsylvania,Susquehanna,7.2,7.1 - 8.1
+Pennsylvania,Venango,7.2,7.1 - 8.1
+South Carolina,Greenwood,7.2,7.1 - 8.1
+South Carolina,Pickens,7.2,7.1 - 8.1
+Tennessee,Maury,7.2,7.1 - 8.1
+Texas,Cooke,7.2,7.1 - 8.1
+Texas,Hale,7.2,7.1 - 8.1
+Texas,Hardeman,7.2,7.1 - 8.1
+Texas,Hutchinson,7.2,7.1 - 8.1
+Texas,Runnels,7.2,7.1 - 8.1
+Texas,Zavala,7.2,7.1 - 8.1
+Virginia,Campbell,7.2,7.1 - 8.1
+Washington,Adams,7.2,7.1 - 8.1
+Alabama,Coffee,7.3,7.1 - 8.1
+Alabama,Lauderdale,7.3,7.1 - 8.1
+Alabama,St. Clair,7.3,7.1 - 8.1
+Arizona,Gila,7.3,7.1 - 8.1
+Arizona,La Paz,7.3,7.1 - 8.1
+California,Tehama,7.3,7.1 - 8.1
+Georgia,Bibb,7.3,7.1 - 8.1
+Georgia,Burke,7.3,7.1 - 8.1
+Georgia,Stephens,7.3,7.1 - 8.1
+Georgia,Troup,7.3,7.1 - 8.1
+Georgia,Whitfield,7.3,7.1 - 8.1
+Idaho,Jerome,7.3,7.1 - 8.1
+Idaho,Lewis,7.3,7.1 - 8.1
+Idaho,Washington,7.3,7.1 - 8.1
+Illinois,Bond,7.3,7.1 - 8.1
+Illinois,Christian,7.3,7.1 - 8.1
+Illinois,Douglas,7.3,7.1 - 8.1
+Illinois,Edgar,7.3,7.1 - 8.1
+Illinois,Edwards,7.3,7.1 - 8.1
+Illinois,Jefferson,7.3,7.1 - 8.1
+Illinois,Wabash,7.3,7.1 - 8.1
+Indiana,Decatur,7.3,7.1 - 8.1
+Indiana,Kosciusko,7.3,7.1 - 8.1
+Indiana,Lake,7.3,7.1 - 8.1
+Indiana,Marion,7.3,7.1 - 8.1
+Indiana,Steuben,7.3,7.1 - 8.1
+Indiana,Warren,7.3,7.1 - 8.1
+Iowa,Davis,7.3,7.1 - 8.1
+Iowa,Lucas,7.3,7.1 - 8.1
+Iowa,Wapello,7.3,7.1 - 8.1
+Kansas,Anderson,7.3,7.1 - 8.1
+Kansas,Kearny,7.3,7.1 - 8.1
+Kansas,Labette,7.3,7.1 - 8.1
+Kansas,Wyandotte,7.3,7.1 - 8.1
+Kentucky,Jefferson,7.3,7.1 - 8.1
+Louisiana,St. James,7.3,7.1 - 8.1
+Maine,Kennebec,7.3,7.1 - 8.1
+Michigan,Bay,7.3,7.1 - 8.1
+Michigan,Calhoun,7.3,7.1 - 8.1
+Michigan,Menominee,7.3,7.1 - 8.1
+Michigan,Muskegon,7.3,7.1 - 8.1
+Michigan,Shiawassee,7.3,7.1 - 8.1
+Mississippi,Tate,7.3,7.1 - 8.1
+Missouri,Cape Girardeau,7.3,7.1 - 8.1
+Missouri,Franklin,7.3,7.1 - 8.1
+Missouri,St. Louis City,7.3,7.1 - 8.1
+Montana,Lincoln,7.3,7.1 - 8.1
+New York,Broome,7.3,7.1 - 8.1
+New York,Jefferson,7.3,7.1 - 8.1
+New York,Niagara,7.3,7.1 - 8.1
+New York,Steuben,7.3,7.1 - 8.1
+New York,Wyoming,7.3,7.1 - 8.1
+North Carolina,Avery,7.3,7.1 - 8.1
+North Carolina,Davidson,7.3,7.1 - 8.1
+North Carolina,Gates,7.3,7.1 - 8.1
+North Carolina,Macon,7.3,7.1 - 8.1
+North Carolina,Wayne,7.3,7.1 - 8.1
+Ohio,Defiance,7.3,7.1 - 8.1
+Oklahoma,Pontotoc,7.3,7.1 - 8.1
+Oklahoma,Washita,7.3,7.1 - 8.1
+Oregon,Wheeler,7.3,7.1 - 8.1
+Pennsylvania,Fulton,7.3,7.1 - 8.1
+Pennsylvania,Greene,7.3,7.1 - 8.1
+Pennsylvania,Northumberland,7.3,7.1 - 8.1
+Pennsylvania,Schuylkill,7.3,7.1 - 8.1
+Pennsylvania,Tioga,7.3,7.1 - 8.1
+Texas,Erath,7.3,7.1 - 8.1
+Texas,Kimble,7.3,7.1 - 8.1
+Texas,Lavaca,7.3,7.1 - 8.1
+Texas,McLennan,7.3,7.1 - 8.1
+Texas,McMullen,7.3,7.1 - 8.1
+Texas,Wichita,7.3,7.1 - 8.1
+Texas,Young,7.3,7.1 - 8.1
+Utah,San Juan,7.3,7.1 - 8.1
+Virginia,Amherst,7.3,7.1 - 8.1
+Virginia,Craig,7.3,7.1 - 8.1
+Virginia,Franklin,7.3,7.1 - 8.1
+Virginia,Surry,7.3,7.1 - 8.1
+Virginia,Washington,7.3,7.1 - 8.1
+West Virginia,Jefferson,7.3,7.1 - 8.1
+Alaska,Wrangell,7.4,7.1 - 8.1
+Arizona,Mohave,7.4,7.1 - 8.1
+Arkansas,Calhoun,7.4,7.1 - 8.1
+Arkansas,Craighead,7.4,7.1 - 8.1
+Arkansas,Garland,7.4,7.1 - 8.1
+Arkansas,Grant,7.4,7.1 - 8.1
+California,Modoc,7.4,7.1 - 8.1
+Georgia,Fannin,7.4,7.1 - 8.1
+Georgia,Screven,7.4,7.1 - 8.1
+Georgia,Spalding,7.4,7.1 - 8.1
+Idaho,Benewah,7.4,7.1 - 8.1
+Illinois,Cass,7.4,7.1 - 8.1
+Illinois,Coles,7.4,7.1 - 8.1
+Illinois,Fulton,7.4,7.1 - 8.1
+Illinois,Iroquois,7.4,7.1 - 8.1
+Illinois,Johnson,7.4,7.1 - 8.1
+Illinois,McDonough,7.4,7.1 - 8.1
+Illinois,Macoupin,7.4,7.1 - 8.1
+Illinois,Mason,7.4,7.1 - 8.1
+Illinois,Montgomery,7.4,7.1 - 8.1
+Indiana,Clark,7.4,7.1 - 8.1
+Indiana,Franklin,7.4,7.1 - 8.1
+Indiana,Spencer,7.4,7.1 - 8.1
+Indiana,Tipton,7.4,7.1 - 8.1
+Kansas,Jewell,7.4,7.1 - 8.1
+Louisiana,Bossier,7.4,7.1 - 8.1
+Louisiana,Calcasieu,7.4,7.1 - 8.1
+Maine,Franklin,7.4,7.1 - 8.1
+Michigan,Delta,7.4,7.1 - 8.1
+Michigan,Saginaw,7.4,7.1 - 8.1
+Mississippi,Itawamba,7.4,7.1 - 8.1
+Mississippi,Pearl River,7.4,7.1 - 8.1
+Missouri,Callaway,7.4,7.1 - 8.1
+Missouri,Howard,7.4,7.1 - 8.1
+Missouri,Lincoln,7.4,7.1 - 8.1
+Missouri,Putnam,7.4,7.1 - 8.1
+Nebraska,Thurston,7.4,7.1 - 8.1
+New York,Lewis,7.4,7.1 - 8.1
+New York,Washington,7.4,7.1 - 8.1
+North Carolina,Beaufort,7.4,7.1 - 8.1
+North Carolina,Caswell,7.4,7.1 - 8.1
+North Carolina,Jackson,7.4,7.1 - 8.1
+North Carolina,Rowan,7.4,7.1 - 8.1
+Ohio,Cuyahoga,7.4,7.1 - 8.1
+Ohio,Erie,7.4,7.1 - 8.1
+Ohio,Fulton,7.4,7.1 - 8.1
+Ohio,Lorain,7.4,7.1 - 8.1
+Ohio,Wyandot,7.4,7.1 - 8.1
+Oklahoma,Noble,7.4,7.1 - 8.1
+Oklahoma,Washington,7.4,7.1 - 8.1
+Pennsylvania,Bedford,7.4,7.1 - 8.1
+Pennsylvania,Bradford,7.4,7.1 - 8.1
+South Carolina,Bamberg,7.4,7.1 - 8.1
+South Carolina,Williamsburg,7.4,7.1 - 8.1
+Tennessee,Fayette,7.4,7.1 - 8.1
+Tennessee,Loudon,7.4,7.1 - 8.1
+Tennessee,Shelby,7.4,7.1 - 8.1
+Texas,Baylor,7.4,7.1 - 8.1
+Texas,Bosque,7.4,7.1 - 8.1
+Texas,Brown,7.4,7.1 - 8.1
+Texas,Concho,7.4,7.1 - 8.1
+Texas,Hill,7.4,7.1 - 8.1
+Texas,Hockley,7.4,7.1 - 8.1
+Texas,Howard,7.4,7.1 - 8.1
+Texas,Hunt,7.4,7.1 - 8.1
+Texas,Karnes,7.4,7.1 - 8.1
+Texas,Rains,7.4,7.1 - 8.1
+Texas,Scurry,7.4,7.1 - 8.1
+Texas,Stephens,7.4,7.1 - 8.1
+Texas,Willacy,7.4,7.1 - 8.1
+Texas,Zapata,7.4,7.1 - 8.1
+Vermont,Essex,7.4,7.1 - 8.1
+Virginia,Appomattox,7.4,7.1 - 8.1
+Virginia,Charles City,7.4,7.1 - 8.1
+Virginia,Pulaski,7.4,7.1 - 8.1
+Virginia,Sussex,7.4,7.1 - 8.1
+Washington,Okanogan,7.4,7.1 - 8.1
+Alabama,Colbert,7.5,7.1 - 8.1
+Alabama,Coosa,7.5,7.1 - 8.1
+Arkansas,Carroll,7.5,7.1 - 8.1
+Georgia,Crawford,7.5,7.1 - 8.1
+Georgia,Dade,7.5,7.1 - 8.1
+Georgia,Jasper,7.5,7.1 - 8.1
+Georgia,Rabun,7.5,7.1 - 8.1
+Georgia,Schley,7.5,7.1 - 8.1
+Illinois,Greene,7.5,7.1 - 8.1
+Illinois,Hamilton,7.5,7.1 - 8.1
+Illinois,Jackson,7.5,7.1 - 8.1
+Illinois,Morgan,7.5,7.1 - 8.1
+Indiana,Jasper,7.5,7.1 - 8.1
+Indiana,Ripley,7.5,7.1 - 8.1
+Kansas,Cherokee,7.5,7.1 - 8.1
+Kansas,Montgomery,7.5,7.1 - 8.1
+Kansas,Wilson,7.5,7.1 - 8.1
+Kentucky,Shelby,7.5,7.1 - 8.1
+Louisiana,East Feliciana,7.5,7.1 - 8.1
+Maine,Penobscot,7.5,7.1 - 8.1
+Michigan,Alger,7.5,7.1 - 8.1
+Michigan,Crawford,7.5,7.1 - 8.1
+Michigan,Gratiot,7.5,7.1 - 8.1
+Michigan,Huron,7.5,7.1 - 8.1
+Michigan,Van Buren,7.5,7.1 - 8.1
+Mississippi,Forrest,7.5,7.1 - 8.1
+Mississippi,Lincoln,7.5,7.1 - 8.1
+Mississippi,Webster,7.5,7.1 - 8.1
+Missouri,Clinton,7.5,7.1 - 8.1
+Missouri,Greene,7.5,7.1 - 8.1
+Montana,Rosebud,7.5,7.1 - 8.1
+Montana,Sanders,7.5,7.1 - 8.1
+New Hampshire,Coos,7.5,7.1 - 8.1
+New York,Delaware,7.5,7.1 - 8.1
+New York,Oneida,7.5,7.1 - 8.1
+New York,Schuyler,7.5,7.1 - 8.1
+New York,Yates,7.5,7.1 - 8.1
+North Carolina,Ashe,7.5,7.1 - 8.1
+North Carolina,McDowell,7.5,7.1 - 8.1
+North Carolina,Yancey,7.5,7.1 - 8.1
+Oklahoma,Texas,7.5,7.1 - 8.1
+Oregon,Coos,7.5,7.1 - 8.1
+Pennsylvania,Clarion,7.5,7.1 - 8.1
+Pennsylvania,Crawford,7.5,7.1 - 8.1
+South Carolina,Edgefield,7.5,7.1 - 8.1
+South Dakota,Charles Mix,7.5,7.1 - 8.1
+South Dakota,Tripp,7.5,7.1 - 8.1
+Texas,Coke,7.5,7.1 - 8.1
+Texas,DeWitt,7.5,7.1 - 8.1
+Texas,Gonzales,7.5,7.1 - 8.1
+Texas,Harrison,7.5,7.1 - 8.1
+Texas,Jefferson,7.5,7.1 - 8.1
+Texas,Lynn,7.5,7.1 - 8.1
+Texas,Milam,7.5,7.1 - 8.1
+Texas,Orange,7.5,7.1 - 8.1
+Texas,Rusk,7.5,7.1 - 8.1
+Texas,Stonewall,7.5,7.1 - 8.1
+Virginia,Amelia,7.5,7.1 - 8.1
+Virginia,Bland,7.5,7.1 - 8.1
+Virginia,Giles,7.5,7.1 - 8.1
+Virginia,Mecklenburg,7.5,7.1 - 8.1
+Virginia,Shenandoah,7.5,7.1 - 8.1
+Virginia,Waynesboro,7.5,7.1 - 8.1
+West Virginia,Monongalia,7.5,7.1 - 8.1
+Alabama,Mobile,7.6,7.1 - 8.1
+Arkansas,Clark,7.6,7.1 - 8.1
+Arkansas,Little River,7.6,7.1 - 8.1
+California,Del Norte,7.6,7.1 - 8.1
+Colorado,Baca,7.6,7.1 - 8.1
+Georgia,Floyd,7.6,7.1 - 8.1
+Georgia,Walker,7.6,7.1 - 8.1
+Idaho,Owyhee,7.6,7.1 - 8.1
+Illinois,Brown,7.6,7.1 - 8.1
+Illinois,Pike,7.6,7.1 - 8.1
+Illinois,Union,7.6,7.1 - 8.1
+Indiana,Carroll,7.6,7.1 - 8.1
+Indiana,Harrison,7.6,7.1 - 8.1
+Indiana,Huntington,7.6,7.1 - 8.1
+Indiana,Perry,7.6,7.1 - 8.1
+Indiana,Shelby,7.6,7.1 - 8.1
+Indiana,Union,7.6,7.1 - 8.1
+Indiana,White,7.6,7.1 - 8.1
+Iowa,Clarke,7.6,7.1 - 8.1
+Kentucky,Franklin,7.6,7.1 - 8.1
+Kentucky,Nelson,7.6,7.1 - 8.1
+Michigan,Alcona,7.6,7.1 - 8.1
+Michigan,Cheboygan,7.6,7.1 - 8.1
+Michigan,Chippewa,7.6,7.1 - 8.1
+Michigan,Gogebic,7.6,7.1 - 8.1
+Michigan,Mackinac,7.6,7.1 - 8.1
+Michigan,Oceana,7.6,7.1 - 8.1
+Michigan,Ontonagon,7.6,7.1 - 8.1
+Michigan,Presque Isle,7.6,7.1 - 8.1
+Michigan,Wexford,7.6,7.1 - 8.1
+Mississippi,Copiah,7.6,7.1 - 8.1
+Missouri,Camden,7.6,7.1 - 8.1
+Missouri,Lafayette,7.6,7.1 - 8.1
+Missouri,Pulaski,7.6,7.1 - 8.1
+Missouri,Ste. Genevieve,7.6,7.1 - 8.1
+Missouri,Saline,7.6,7.1 - 8.1
+Montana,Deer Lodge,7.6,7.1 - 8.1
+New York,Cayuga,7.6,7.1 - 8.1
+New York,Chemung,7.6,7.1 - 8.1
+New York,Clinton,7.6,7.1 - 8.1
+New York,Seneca,7.6,7.1 - 8.1
+North Carolina,Randolph,7.6,7.1 - 8.1
+Ohio,Henry,7.6,7.1 - 8.1
+Ohio,Madison,7.6,7.1 - 8.1
+Ohio,Preble,7.6,7.1 - 8.1
+Oklahoma,Osage,7.6,7.1 - 8.1
+Oklahoma,Payne,7.6,7.1 - 8.1
+Oklahoma,Woodward,7.6,7.1 - 8.1
+Oregon,Josephine,7.6,7.1 - 8.1
+Oregon,Klamath,7.6,7.1 - 8.1
+Oregon,Morrow,7.6,7.1 - 8.1
+Pennsylvania,Clearfield,7.6,7.1 - 8.1
+Pennsylvania,Clinton,7.6,7.1 - 8.1
+Pennsylvania,Juniata,7.6,7.1 - 8.1
+Pennsylvania,McKean,7.6,7.1 - 8.1
+Tennessee,Blount,7.6,7.1 - 8.1
+Texas,Aransas,7.6,7.1 - 8.1
+Texas,Bowie,7.6,7.1 - 8.1
+Texas,Childress,7.6,7.1 - 8.1
+Texas,Dickens,7.6,7.1 - 8.1
+Texas,Gregg,7.6,7.1 - 8.1
+Texas,Hardin,7.6,7.1 - 8.1
+Texas,Hopkins,7.6,7.1 - 8.1
+Texas,Matagorda,7.6,7.1 - 8.1
+Texas,Mitchell,7.6,7.1 - 8.1
+Texas,Throckmorton,7.6,7.1 - 8.1
+Texas,Wood,7.6,7.1 - 8.1
+Virginia,Patrick,7.6,7.1 - 8.1
+Alabama,Houston,7.7,7.1 - 8.1
+Alabama,Macon,7.7,7.1 - 8.1
+Alabama,Morgan,7.7,7.1 - 8.1
+Arkansas,Jefferson,7.7,7.1 - 8.1
+Arkansas,Prairie,7.7,7.1 - 8.1
+Colorado,Bent,7.7,7.1 - 8.1
+Georgia,Bleckley,7.7,7.1 - 8.1
+Georgia,Butts,7.7,7.1 - 8.1
+Georgia,Hart,7.7,7.1 - 8.1
+Georgia,Long,7.7,7.1 - 8.1
+Georgia,Sumter,7.7,7.1 - 8.1
+Illinois,Hardin,7.7,7.1 - 8.1
+Illinois,Knox,7.7,7.1 - 8.1
+Illinois,Massac,7.7,7.1 - 8.1
+Illinois,Randolph,7.7,7.1 - 8.1
+Indiana,Clay,7.7,7.1 - 8.1
+Indiana,DeKalb,7.7,7.1 - 8.1
+Indiana,Gibson,7.7,7.1 - 8.1
+Indiana,Howard,7.7,7.1 - 8.1
+Indiana,Noble,7.7,7.1 - 8.1
+Indiana,Ohio,7.7,7.1 - 8.1
+Louisiana,Plaquemines,7.7,7.1 - 8.1
+Maine,Androscoggin,7.7,7.1 - 8.1
+Michigan,Genesee,7.7,7.1 - 8.1
+Michigan,Luce,7.7,7.1 - 8.1
+Michigan,Montcalm,7.7,7.1 - 8.1
+Michigan,St. Joseph,7.7,7.1 - 8.1
+Mississippi,Greene,7.7,7.1 - 8.1
+Missouri,Gasconade,7.7,7.1 - 8.1
+Montana,Blaine,7.7,7.1 - 8.1
+Montana,Wheatland,7.7,7.1 - 8.1
+Nevada,Lander,7.7,7.1 - 8.1
+New Mexico,Luna,7.7,7.1 - 8.1
+New York,Chenango,7.7,7.1 - 8.1
+North Carolina,Cherokee,7.7,7.1 - 8.1
+North Carolina,Montgomery,7.7,7.1 - 8.1
+North Carolina,Yadkin,7.7,7.1 - 8.1
+Oklahoma,Dewey,7.7,7.1 - 8.1
+Oklahoma,Harmon,7.7,7.1 - 8.1
+Oklahoma,Pottawatomie,7.7,7.1 - 8.1
+Pennsylvania,Jefferson,7.7,7.1 - 8.1
+Pennsylvania,Potter,7.7,7.1 - 8.1
+South Carolina,Abbeville,7.7,7.1 - 8.1
+South Carolina,Darlington,7.7,7.1 - 8.1
+South Dakota,Lyman,7.7,7.1 - 8.1
+South Dakota,Roberts,7.7,7.1 - 8.1
+Texas,Coleman,7.7,7.1 - 8.1
+Texas,Delta,7.7,7.1 - 8.1
+Texas,Donley,7.7,7.1 - 8.1
+Texas,Fannin,7.7,7.1 - 8.1
+Texas,Gaines,7.7,7.1 - 8.1
+Texas,Hansford,7.7,7.1 - 8.1
+Texas,Lee,7.7,7.1 - 8.1
+Texas,Montague,7.7,7.1 - 8.1
+Texas,Palo Pinto,7.7,7.1 - 8.1
+Texas,Starr,7.7,7.1 - 8.1
+Texas,Van Zandt,7.7,7.1 - 8.1
+Virginia,Alleghany,7.7,7.1 - 8.1
+Virginia,Roanoke City,7.7,7.1 - 8.1
+Washington,Ferry,7.7,7.1 - 8.1
+Alabama,Blount,7.8,7.1 - 8.1
+Alabama,Cullman,7.8,7.1 - 8.1
+Alabama,Dale,7.8,7.1 - 8.1
+Alabama,Pike,7.8,7.1 - 8.1
+Arkansas,Arkansas,7.8,7.1 - 8.1
+Arkansas,Dallas,7.8,7.1 - 8.1
+Arkansas,Sebastian,7.8,7.1 - 8.1
+Arkansas,Union,7.8,7.1 - 8.1
+Georgia,Banks,7.8,7.1 - 8.1
+Georgia,Dougherty,7.8,7.1 - 8.1
+Georgia,Franklin,7.8,7.1 - 8.1
+Georgia,Grady,7.8,7.1 - 8.1
+Georgia,McDuffie,7.8,7.1 - 8.1
+Georgia,Tift,7.8,7.1 - 8.1
+Illinois,Clay,7.8,7.1 - 8.1
+Illinois,Lawrence,7.8,7.1 - 8.1
+Illinois,Marion,7.8,7.1 - 8.1
+Illinois,Vermilion,7.8,7.1 - 8.1
+Indiana,Morgan,7.8,7.1 - 8.1
+Indiana,Putnam,7.8,7.1 - 8.1
+Indiana,Vanderburgh,7.8,7.1 - 8.1
+Iowa,Appanoose,7.8,7.1 - 8.1
+Kansas,Harper,7.8,7.1 - 8.1
+Kentucky,Hardin,7.8,7.1 - 8.1
+Kentucky,Jessamine,7.8,7.1 - 8.1
+Maryland,Somerset,7.8,7.1 - 8.1
+Michigan,Iron,7.8,7.1 - 8.1
+Michigan,Missaukee,7.8,7.1 - 8.1
+Mississippi,Lauderdale,7.8,7.1 - 8.1
+Mississippi,Pontotoc,7.8,7.1 - 8.1
+Missouri,Chariton,7.8,7.1 - 8.1
+Missouri,Cooper,7.8,7.1 - 8.1
+Missouri,Holt,7.8,7.1 - 8.1
+Missouri,Warren,7.8,7.1 - 8.1
+Nevada,Nye,7.8,7.1 - 8.1
+New Mexico,Cibola,7.8,7.1 - 8.1
+New York,Allegany,7.8,7.1 - 8.1
+New York,Herkimer,7.8,7.1 - 8.1
+North Carolina,Cleveland,7.8,7.1 - 8.1
+North Carolina,Graham,7.8,7.1 - 8.1
+North Carolina,Stokes,7.8,7.1 - 8.1
+Ohio,Logan,7.8,7.1 - 8.1
+Ohio,Montgomery,7.8,7.1 - 8.1
+Ohio,Sandusky,7.8,7.1 - 8.1
+Ohio,Van Wert,7.8,7.1 - 8.1
+Oklahoma,Carter,7.8,7.1 - 8.1
+Oklahoma,Creek,7.8,7.1 - 8.1
+Oklahoma,Ellis,7.8,7.1 - 8.1
+Oregon,Harney,7.8,7.1 - 8.1
+Oregon,Lake,7.8,7.1 - 8.1
+Oregon,Malheur,7.8,7.1 - 8.1
+Pennsylvania,Fayette,7.8,7.1 - 8.1
+South Carolina,Chester,7.8,7.1 - 8.1
+South Carolina,Colleton,7.8,7.1 - 8.1
+South Carolina,Fairfield,7.8,7.1 - 8.1
+South Carolina,Orangeburg,7.8,7.1 - 8.1
+South Carolina,Saluda,7.8,7.1 - 8.1
+Tennessee,Cheatham,7.8,7.1 - 8.1
+Tennessee,Robertson,7.8,7.1 - 8.1
+Texas,Crosby,7.8,7.1 - 8.1
+Texas,Freestone,7.8,7.1 - 8.1
+Texas,Jeff Davis,7.8,7.1 - 8.1
+Texas,Knox,7.8,7.1 - 8.1
+Texas,Lamb,7.8,7.1 - 8.1
+Texas,McCulloch,7.8,7.1 - 8.1
+Texas,Morris,7.8,7.1 - 8.1
+Texas,Robertson,7.8,7.1 - 8.1
+Utah,Piute,7.8,7.1 - 8.1
+Virginia,Greensville,7.8,7.1 - 8.1
+Virginia,Petersburg,7.8,7.1 - 8.1
+Wyoming,Niobrara,7.8,7.1 - 8.1
+Alabama,Chambers,7.9,7.1 - 8.1
+Alabama,Henry,7.9,7.1 - 8.1
+Alabama,Russell,7.9,7.1 - 8.1
+Alaska,Prince of Wales-Hyder,7.9,7.1 - 8.1
+Arkansas,Boone,7.9,7.1 - 8.1
+California,Trinity,7.9,7.1 - 8.1
+Georgia,Decatur,7.9,7.1 - 8.1
+Georgia,McIntosh,7.9,7.1 - 8.1
+Georgia,Miller,7.9,7.1 - 8.1
+Georgia,Seminole,7.9,7.1 - 8.1
+Georgia,Worth,7.9,7.1 - 8.1
+Idaho,Shoshone,7.9,7.1 - 8.1
+Illinois,Saline,7.9,7.1 - 8.1
+Illinois,Wayne,7.9,7.1 - 8.1
+Indiana,Clinton,7.9,7.1 - 8.1
+Indiana,Lawrence,7.9,7.1 - 8.1
+Indiana,Montgomery,7.9,7.1 - 8.1
+Indiana,Newton,7.9,7.1 - 8.1
+Indiana,Pike,7.9,7.1 - 8.1
+Iowa,Van Buren,7.9,7.1 - 8.1
+Louisiana,Beauregard,7.9,7.1 - 8.1
+Louisiana,Vernon,7.9,7.1 - 8.1
+Michigan,Branch,7.9,7.1 - 8.1
+Michigan,Mecosta,7.9,7.1 - 8.1
+Michigan,Newaygo,7.9,7.1 - 8.1
+Michigan,Tuscola,7.9,7.1 - 8.1
+Michigan,Wayne,7.9,7.1 - 8.1
+Mississippi,Choctaw,7.9,7.1 - 8.1
+Mississippi,Clay,7.9,7.1 - 8.1
+Mississippi,Jasper,7.9,7.1 - 8.1
+Mississippi,Kemper,7.9,7.1 - 8.1
+Mississippi,Monroe,7.9,7.1 - 8.1
+Missouri,DeKalb,7.9,7.1 - 8.1
+Missouri,Macon,7.9,7.1 - 8.1
+Missouri,Moniteau,7.9,7.1 - 8.1
+Missouri,Nodaway,7.9,7.1 - 8.1
+Missouri,Perry,7.9,7.1 - 8.1
+New Mexico,San Juan,7.9,7.1 - 8.1
+North Carolina,Caldwell,7.9,7.1 - 8.1
+North Carolina,Chowan,7.9,7.1 - 8.1
+North Carolina,Rockingham,7.9,7.1 - 8.1
+North Carolina,Sampson,7.9,7.1 - 8.1
+North Carolina,Vance,7.9,7.1 - 8.1
+Ohio,Champaign,7.9,7.1 - 8.1
+Ohio,Lucas,7.9,7.1 - 8.1
+Ohio,Stark,7.9,7.1 - 8.1
+Oklahoma,Stephens,7.9,7.1 - 8.1
+South Carolina,Cherokee,7.9,7.1 - 8.1
+South Carolina,Clarendon,7.9,7.1 - 8.1
+South Carolina,Laurens,7.9,7.1 - 8.1
+Tennessee,Washington,7.9,7.1 - 8.1
+Texas,Camp,7.9,7.1 - 8.1
+Texas,Grimes,7.9,7.1 - 8.1
+Texas,Madison,7.9,7.1 - 8.1
+Texas,Panola,7.9,7.1 - 8.1
+Texas,Titus,7.9,7.1 - 8.1
+Virginia,Westmoreland,7.9,7.1 - 8.1
+Alabama,Marshall,8.0,7.1 - 8.1
+Alaska,Lake and Peninsula,8.0,7.1 - 8.1
+Arkansas,Newton,8.0,7.1 - 8.1
+Colorado,Crowley,8.0,7.1 - 8.1
+Georgia,Dooly,8.0,7.1 - 8.1
+Georgia,Glascock,8.0,7.1 - 8.1
+Georgia,Lincoln,8.0,7.1 - 8.1
+Georgia,Polk,8.0,7.1 - 8.1
+Georgia,Pulaski,8.0,7.1 - 8.1
+Georgia,Talbot,8.0,7.1 - 8.1
+Georgia,Taliaferro,8.0,7.1 - 8.1
+Georgia,Toombs,8.0,7.1 - 8.1
+Illinois,Gallatin,8.0,7.1 - 8.1
+Illinois,Pope,8.0,7.1 - 8.1
+Illinois,Pulaski,8.0,7.1 - 8.1
+Illinois,White,8.0,7.1 - 8.1
+Indiana,LaPorte,8.0,7.1 - 8.1
+Indiana,Marshall,8.0,7.1 - 8.1
+Kentucky,Anderson,8.0,7.1 - 8.1
+Kentucky,Warren,8.0,7.1 - 8.1
+Louisiana,Caddo,8.0,7.1 - 8.1
+Louisiana,Cameron,8.0,7.1 - 8.1
+Louisiana,Rapides,8.0,7.1 - 8.1
+Michigan,Alpena,8.0,7.1 - 8.1
+Michigan,Arenac,8.0,7.1 - 8.1
+Michigan,Baraga,8.0,7.1 - 8.1
+Michigan,Roscommon,8.0,7.1 - 8.1
+Mississippi,Covington,8.0,7.1 - 8.1
+Mississippi,Grenada,8.0,7.1 - 8.1
+Mississippi,Jones,8.0,7.1 - 8.1
+Mississippi,Union,8.0,7.1 - 8.1
+Montana,Prairie,8.0,7.1 - 8.1
+New York,Montgomery,8.0,7.1 - 8.1
+New York,Oswego,8.0,7.1 - 8.1
+North Carolina,Burke,8.0,7.1 - 8.1
+North Carolina,Duplin,8.0,7.1 - 8.1
+North Carolina,Hertford,8.0,7.1 - 8.1
+North Carolina,Rutherford,8.0,7.1 - 8.1
+North Carolina,Tyrrell,8.0,7.1 - 8.1
+Ohio,Allen,8.0,7.1 - 8.1
+Ohio,Seneca,8.0,7.1 - 8.1
+Ohio,Shelby,8.0,7.1 - 8.1
+Ohio,Williams,8.0,7.1 - 8.1
+Oklahoma,Beckham,8.0,7.1 - 8.1
+Oklahoma,Blaine,8.0,7.1 - 8.1
+Oklahoma,Lincoln,8.0,7.1 - 8.1
+Oklahoma,Murray,8.0,7.1 - 8.1
+Oklahoma,Pawnee,8.0,7.1 - 8.1
+Oklahoma,Roger Mills,8.0,7.1 - 8.1
+Pennsylvania,Forest,8.0,7.1 - 8.1
+South Carolina,Lee,8.0,7.1 - 8.1
+Tennessee,Dickson,8.0,7.1 - 8.1
+Tennessee,Roane,8.0,7.1 - 8.1
+Tennessee,Tipton,8.0,7.1 - 8.1
+Texas,Culberson,8.0,7.1 - 8.1
+Texas,Edwards,8.0,7.1 - 8.1
+Texas,Gray,8.0,7.1 - 8.1
+Texas,Hall,8.0,7.1 - 8.1
+Texas,Navarro,8.0,7.1 - 8.1
+Virginia,Accomack,8.0,7.1 - 8.1
+Virginia,Prince Edward,8.0,7.1 - 8.1
+Virginia,Wythe,8.0,7.1 - 8.1
+Virginia,Harrisonburg,8.0,7.1 - 8.1
+Alabama,Etowah,8.1,7.1 - 8.1
+Alabama,Tallapoosa,8.1,7.1 - 8.1
+Arkansas,Perry,8.1,7.1 - 8.1
+Georgia,Dodge,8.1,7.1 - 8.1
+Georgia,Madison,8.1,7.1 - 8.1
+Georgia,Marion,8.1,7.1 - 8.1
+Georgia,Montgomery,8.1,7.1 - 8.1
+Georgia,Pierce,8.1,7.1 - 8.1
+Georgia,Washington,8.1,7.1 - 8.1
+Georgia,Wilkes,8.1,7.1 - 8.1
+Idaho,Butte,8.1,7.1 - 8.1
+Illinois,Fayette,8.1,7.1 - 8.1
+Indiana,Elkhart,8.1,7.1 - 8.1
+Indiana,Henry,8.1,7.1 - 8.1
+Indiana,Jackson,8.1,7.1 - 8.1
+Indiana,Wabash,8.1,7.1 - 8.1
+Kansas,Chautauqua,8.1,7.1 - 8.1
+Kansas,Elk,8.1,7.1 - 8.1
+Kentucky,Bullitt,8.1,7.1 - 8.1
+Kentucky,Madison,8.1,7.1 - 8.1
+Louisiana,Lafourche,8.1,7.1 - 8.1
+Louisiana,Lincoln,8.1,7.1 - 8.1
+Louisiana,Terrebonne,8.1,7.1 - 8.1
+Michigan,Hillsdale,8.1,7.1 - 8.1
+Michigan,Isabella,8.1,7.1 - 8.1
+Michigan,Osceola,8.1,7.1 - 8.1
+Michigan,Sanilac,8.1,7.1 - 8.1
+Michigan,Schoolcraft,8.1,7.1 - 8.1
+Mississippi,Clarke,8.1,7.1 - 8.1
+Mississippi,Smith,8.1,7.1 - 8.1
+Mississippi,Winston,8.1,7.1 - 8.1
+Missouri,Newton,8.1,7.1 - 8.1
+Missouri,Phelps,8.1,7.1 - 8.1
+Missouri,Ray,8.1,7.1 - 8.1
+Missouri,Taney,8.1,7.1 - 8.1
+Nevada,Eureka,8.1,7.1 - 8.1
+New Mexico,Catron,8.1,7.1 - 8.1
+New York,Chautauqua,8.1,7.1 - 8.1
+North Carolina,Anson,8.1,7.1 - 8.1
+North Carolina,Bladen,8.1,7.1 - 8.1
+North Carolina,Edgecombe,8.1,7.1 - 8.1
+North Carolina,Martin,8.1,7.1 - 8.1
+North Carolina,Surry,8.1,7.1 - 8.1
+North Carolina,Wilson,8.1,7.1 - 8.1
+Ohio,Knox,8.1,7.1 - 8.1
+Ohio,Paulding,8.1,7.1 - 8.1
+Ohio,Wayne,8.1,7.1 - 8.1
+Oklahoma,Greer,8.1,7.1 - 8.1
+Oklahoma,Tillman,8.1,7.1 - 8.1
+Tennessee,Anderson,8.1,7.1 - 8.1
+Tennessee,Bradley,8.1,7.1 - 8.1
+Tennessee,Madison,8.1,7.1 - 8.1
+Texas,Anderson,8.1,7.1 - 8.1
+Texas,Jones,8.1,7.1 - 8.1
+Texas,Lamar,8.1,7.1 - 8.1
+Texas,Nolan,8.1,7.1 - 8.1
+Texas,San Saba,8.1,7.1 - 8.1
+Texas,Walker,8.1,7.1 - 8.1
+Virginia,Essex,8.1,7.1 - 8.1
+Virginia,Halifax,8.1,7.1 - 8.1
+Virginia,Page,8.1,7.1 - 8.1
+Virginia,Pittsylvania,8.1,7.1 - 8.1
+Alabama,Butler,8.2,8.2 - 15.8
+Alabama,Calhoun,8.2,8.2 - 15.8
+Alabama,Randolph,8.2,8.2 - 15.8
+Arkansas,Cleveland,8.2,8.2 - 15.8
+Arkansas,Crittenden,8.2,8.2 - 15.8
+Arkansas,Howard,8.2,8.2 - 15.8
+Arkansas,Independence,8.2,8.2 - 15.8
+Arkansas,Pike,8.2,8.2 - 15.8
+Arkansas,Pope,8.2,8.2 - 15.8
+Georgia,Echols,8.2,8.2 - 15.8
+Georgia,Gordon,8.2,8.2 - 15.8
+Georgia,Heard,8.2,8.2 - 15.8
+Illinois,Franklin,8.2,8.2 - 15.8
+Illinois,Perry,8.2,8.2 - 15.8
+Indiana,Fountain,8.2,8.2 - 15.8
+Indiana,Fulton,8.2,8.2 - 15.8
+Indiana,Jefferson,8.2,8.2 - 15.8
+Indiana,Jennings,8.2,8.2 - 15.8
+Kentucky,Meade,8.2,8.2 - 15.8
+Louisiana,Iberville,8.2,8.2 - 15.8
+Louisiana,Ouachita,8.2,8.2 - 15.8
+Mississippi,Benton,8.2,8.2 - 15.8
+Mississippi,Carroll,8.2,8.2 - 15.8
+Mississippi,Marshall,8.2,8.2 - 15.8
+Mississippi,Simpson,8.2,8.2 - 15.8
+Mississippi,Wayne,8.2,8.2 - 15.8
+Missouri,Livingston,8.2,8.2 - 15.8
+Missouri,Ralls,8.2,8.2 - 15.8
+New York,Cattaraugus,8.2,8.2 - 15.8
+New York,Hamilton,8.2,8.2 - 15.8
+New York,St. Lawrence,8.2,8.2 - 15.8
+North Carolina,Northampton,8.2,8.2 - 15.8
+North Carolina,Warren,8.2,8.2 - 15.8
+North Carolina,Wilkes,8.2,8.2 - 15.8
+Ohio,Ashland,8.2,8.2 - 15.8
+Ohio,Belmont,8.2,8.2 - 15.8
+Ohio,Darke,8.2,8.2 - 15.8
+Ohio,Mahoning,8.2,8.2 - 15.8
+Ohio,Morrow,8.2,8.2 - 15.8
+Ohio,Pickaway,8.2,8.2 - 15.8
+Oklahoma,Garvin,8.2,8.2 - 15.8
+Oklahoma,Love,8.2,8.2 - 15.8
+Tennessee,Lincoln,8.2,8.2 - 15.8
+Texas,Cherokee,8.2,8.2 - 15.8
+Texas,Nacogdoches,8.2,8.2 - 15.8
+Virginia,Brunswick,8.2,8.2 - 15.8
+Virginia,Charlotte,8.2,8.2 - 15.8
+Virginia,Nottoway,8.2,8.2 - 15.8
+Virginia,Richmond,8.2,8.2 - 15.8
+Virginia,Franklin City,8.2,8.2 - 15.8
+West Virginia,Ohio,8.2,8.2 - 15.8
+West Virginia,Putnam,8.2,8.2 - 15.8
+Alabama,Chilton,8.3,8.2 - 15.8
+Alabama,Crenshaw,8.3,8.2 - 15.8
+Arkansas,Cleburne,8.3,8.2 - 15.8
+Arkansas,Crawford,8.3,8.2 - 15.8
+Arkansas,Drew,8.3,8.2 - 15.8
+Arkansas,Greene,8.3,8.2 - 15.8
+Arkansas,Hempstead,8.3,8.2 - 15.8
+Arkansas,Hot Spring,8.3,8.2 - 15.8
+Arkansas,White,8.3,8.2 - 15.8
+Georgia,Irwin,8.3,8.2 - 15.8
+Georgia,Laurens,8.3,8.2 - 15.8
+Georgia,Murray,8.3,8.2 - 15.8
+Georgia,Stewart,8.3,8.2 - 15.8
+Georgia,Tattnall,8.3,8.2 - 15.8
+Georgia,Upson,8.3,8.2 - 15.8
+Indiana,Madison,8.3,8.2 - 15.8
+Indiana,Martin,8.3,8.2 - 15.8
+Indiana,Randolph,8.3,8.2 - 15.8
+Kentucky,Boyle,8.3,8.2 - 15.8
+Kentucky,McLean,8.3,8.2 - 15.8
+Kentucky,Marshall,8.3,8.2 - 15.8
+Kentucky,Mercer,8.3,8.2 - 15.8
+Kentucky,Simpson,8.3,8.2 - 15.8
+Louisiana,LaSalle,8.3,8.2 - 15.8
+Louisiana,Pointe Coupee,8.3,8.2 - 15.8
+Louisiana,St. Martin,8.3,8.2 - 15.8
+Maine,Oxford,8.3,8.2 - 15.8
+Michigan,Iosco,8.3,8.2 - 15.8
+Michigan,Montmorency,8.3,8.2 - 15.8
+Mississippi,Adams,8.3,8.2 - 15.8
+Mississippi,Jefferson Davis,8.3,8.2 - 15.8
+Mississippi,Prentiss,8.3,8.2 - 15.8
+Mississippi,Yalobusha,8.3,8.2 - 15.8
+Missouri,Atchison,8.3,8.2 - 15.8
+Missouri,Carroll,8.3,8.2 - 15.8
+Missouri,Monroe,8.3,8.2 - 15.8
+Missouri,Randolph,8.3,8.2 - 15.8
+Missouri,Schuyler,8.3,8.2 - 15.8
+Missouri,Stone,8.3,8.2 - 15.8
+Missouri,Worth,8.3,8.2 - 15.8
+New York,Franklin,8.3,8.2 - 15.8
+New York,Fulton,8.3,8.2 - 15.8
+New York,Orleans,8.3,8.2 - 15.8
+North Carolina,Washington,8.3,8.2 - 15.8
+Ohio,Carroll,8.3,8.2 - 15.8
+Oklahoma,Bryan,8.3,8.2 - 15.8
+Oklahoma,Nowata,8.3,8.2 - 15.8
+Oklahoma,Pittsburg,8.3,8.2 - 15.8
+Pennsylvania,Mifflin,8.3,8.2 - 15.8
+South Carolina,Chesterfield,8.3,8.2 - 15.8
+Tennessee,Trousdale,8.3,8.2 - 15.8
+Texas,Eastland,8.3,8.2 - 15.8
+Texas,Henderson,8.3,8.2 - 15.8
+Texas,Limestone,8.3,8.2 - 15.8
+Texas,Live Oak,8.3,8.2 - 15.8
+West Virginia,Berkeley,8.3,8.2 - 15.8
+Alabama,Dallas,8.4,8.2 - 15.8
+Alabama,Marengo,8.4,8.2 - 15.8
+Arkansas,Baxter,8.4,8.2 - 15.8
+Arkansas,Bradley,8.4,8.2 - 15.8
+Arkansas,Columbia,8.4,8.2 - 15.8
+Arkansas,Lincoln,8.4,8.2 - 15.8
+Georgia,Jefferson,8.4,8.2 - 15.8
+Georgia,Webster,8.4,8.2 - 15.8
+Georgia,Wilkinson,8.4,8.2 - 15.8
+Indiana,Knox,8.4,8.2 - 15.8
+Kentucky,Clark,8.4,8.2 - 15.8
+Kentucky,Daviess,8.4,8.2 - 15.8
+Kentucky,Lyon,8.4,8.2 - 15.8
+Kentucky,McCracken,8.4,8.2 - 15.8
+Kentucky,Washington,8.4,8.2 - 15.8
+Louisiana,Jefferson Davis,8.4,8.2 - 15.8
+Louisiana,St. Bernard,8.4,8.2 - 15.8
+Louisiana,Tangipahoa,8.4,8.2 - 15.8
+Louisiana,Vermilion,8.4,8.2 - 15.8
+Maine,Piscataquis,8.4,8.2 - 15.8
+Michigan,Gladwin,8.4,8.2 - 15.8
+Michigan,Kalkaska,8.4,8.2 - 15.8
+Mississippi,George,8.4,8.2 - 15.8
+Mississippi,Jefferson,8.4,8.2 - 15.8
+Mississippi,Newton,8.4,8.2 - 15.8
+Mississippi,Stone,8.4,8.2 - 15.8
+Mississippi,Walthall,8.4,8.2 - 15.8
+Missouri,Linn,8.4,8.2 - 15.8
+Missouri,Madison,8.4,8.2 - 15.8
+Missouri,Marion,8.4,8.2 - 15.8
+Missouri,Miller,8.4,8.2 - 15.8
+Missouri,Pettis,8.4,8.2 - 15.8
+North Carolina,Greene,8.4,8.2 - 15.8
+North Carolina,Hyde,8.4,8.2 - 15.8
+North Carolina,Jones,8.4,8.2 - 15.8
+North Carolina,Swain,8.4,8.2 - 15.8
+North Dakota,Benson,8.4,8.2 - 15.8
+Ohio,Clinton,8.4,8.2 - 15.8
+Ohio,Huron,8.4,8.2 - 15.8
+Ohio,Tuscarawas,8.4,8.2 - 15.8
+Oklahoma,Kay,8.4,8.2 - 15.8
+Tennessee,Coffee,8.4,8.2 - 15.8
+Tennessee,Stewart,8.4,8.2 - 15.8
+Texas,Hamilton,8.4,8.2 - 15.8
+Texas,Leon,8.4,8.2 - 15.8
+Texas,Polk,8.4,8.2 - 15.8
+Texas,Potter,8.4,8.2 - 15.8
+Texas,San Jacinto,8.4,8.2 - 15.8
+Texas,Upshur,8.4,8.2 - 15.8
+Virginia,Carroll,8.4,8.2 - 15.8
+Virginia,Bristol,8.4,8.2 - 15.8
+West Virginia,Mineral,8.4,8.2 - 15.8
+Alabama,Clarke,8.5,8.2 - 15.8
+Alabama,Cleburne,8.5,8.2 - 15.8
+Alabama,Conecuh,8.5,8.2 - 15.8
+Alabama,Covington,8.5,8.2 - 15.8
+Alabama,Talladega,8.5,8.2 - 15.8
+Arkansas,Logan,8.5,8.2 - 15.8
+Arkansas,Miller,8.5,8.2 - 15.8
+Arkansas,Nevada,8.5,8.2 - 15.8
+Georgia,Clay,8.5,8.2 - 15.8
+Georgia,Cook,8.5,8.2 - 15.8
+Georgia,Early,8.5,8.2 - 15.8
+Georgia,Quitman,8.5,8.2 - 15.8
+Georgia,Wayne,8.5,8.2 - 15.8
+Indiana,Cass,8.5,8.2 - 15.8
+Indiana,Greene,8.5,8.2 - 15.8
+Indiana,Pulaski,8.5,8.2 - 15.8
+Indiana,Wayne,8.5,8.2 - 15.8
+Louisiana,Iberia,8.5,8.2 - 15.8
+Minnesota,Mahnomen,8.5,8.2 - 15.8
+Mississippi,Alcorn,8.5,8.2 - 15.8
+Mississippi,Leake,8.5,8.2 - 15.8
+Missouri,Adair,8.5,8.2 - 15.8
+Missouri,Buchanan,8.5,8.2 - 15.8
+Missouri,Henry,8.5,8.2 - 15.8
+Missouri,Polk,8.5,8.2 - 15.8
+Montana,Big Horn,8.5,8.2 - 15.8
+Nevada,Esmeralda,8.5,8.2 - 15.8
+Ohio,Columbiana,8.5,8.2 - 15.8
+Oklahoma,Cherokee,8.5,8.2 - 15.8
+Oklahoma,Cotton,8.5,8.2 - 15.8
+Oklahoma,Marshall,8.5,8.2 - 15.8
+Pennsylvania,Cameron,8.5,8.2 - 15.8
+South Carolina,Hampton,8.5,8.2 - 15.8
+South Carolina,Union,8.5,8.2 - 15.8
+South Dakota,Bennett,8.5,8.2 - 15.8
+Tennessee,Franklin,8.5,8.2 - 15.8
+Tennessee,Jefferson,8.5,8.2 - 15.8
+Tennessee,Sevier,8.5,8.2 - 15.8
+Tennessee,Sullivan,8.5,8.2 - 15.8
+Texas,Collingsworth,8.5,8.2 - 15.8
+Texas,Haskell,8.5,8.2 - 15.8
+Texas,Liberty,8.5,8.2 - 15.8
+Texas,Wheeler,8.5,8.2 - 15.8
+Virginia,Martinsville,8.5,8.2 - 15.8
+West Virginia,Brooke,8.5,8.2 - 15.8
+Alabama,Bibb,8.6,8.2 - 15.8
+Alabama,Lamar,8.6,8.2 - 15.8
+Alabama,Lawrence,8.6,8.2 - 15.8
+Arkansas,Conway,8.6,8.2 - 15.8
+Arkansas,Ouachita,8.6,8.2 - 15.8
+Georgia,Elbert,8.6,8.2 - 15.8
+Georgia,Meriwether,8.6,8.2 - 15.8
+Indiana,Miami,8.6,8.2 - 15.8
+Indiana,Rush,8.6,8.2 - 15.8
+Indiana,Vigo,8.6,8.2 - 15.8
+Kentucky,Taylor,8.6,8.2 - 15.8
+Maine,Aroostook,8.6,8.2 - 15.8
+Michigan,Oscoda,8.6,8.2 - 15.8
+Mississippi,Washington,8.6,8.2 - 15.8
+Missouri,Daviess,8.6,8.2 - 15.8
+Missouri,Grundy,8.6,8.2 - 15.8
+Missouri,Maries,8.6,8.2 - 15.8
+Missouri,Montgomery,8.6,8.2 - 15.8
+Montana,Liberty,8.6,8.2 - 15.8
+North Carolina,Bertie,8.6,8.2 - 15.8
+North Carolina,Lenoir,8.6,8.2 - 15.8
+North Carolina,Richmond,8.6,8.2 - 15.8
+North Dakota,Rolette,8.6,8.2 - 15.8
+Ohio,Clark,8.6,8.2 - 15.8
+Ohio,Richland,8.6,8.2 - 15.8
+Oklahoma,Mayes,8.6,8.2 - 15.8
+Tennessee,Giles,8.6,8.2 - 15.8
+Tennessee,Moore,8.6,8.2 - 15.8
+Tennessee,Putnam,8.6,8.2 - 15.8
+Tennessee,Smith,8.6,8.2 - 15.8
+Texas,Angelina,8.6,8.2 - 15.8
+Texas,Jack,8.6,8.2 - 15.8
+Texas,Real,8.6,8.2 - 15.8
+Texas,Terry,8.6,8.2 - 15.8
+Virginia,Lunenburg,8.6,8.2 - 15.8
+Virginia,Covington,8.6,8.2 - 15.8
+Alabama,Clay,8.7,8.2 - 15.8
+Alabama,Pickens,8.7,8.2 - 15.8
+Arkansas,Marion,8.7,8.2 - 15.8
+Arkansas,Scott,8.7,8.2 - 15.8
+Arkansas,Yell,8.7,8.2 - 15.8
+Georgia,Baker,8.7,8.2 - 15.8
+Georgia,Brooks,8.7,8.2 - 15.8
+Georgia,Charlton,8.7,8.2 - 15.8
+Georgia,Colquitt,8.7,8.2 - 15.8
+Georgia,Warren,8.7,8.2 - 15.8
+Indiana,Delaware,8.7,8.2 - 15.8
+Indiana,Grant,8.7,8.2 - 15.8
+Indiana,Vermillion,8.7,8.2 - 15.8
+Kentucky,Calloway,8.7,8.2 - 15.8
+Kentucky,Greenup,8.7,8.2 - 15.8
+Kentucky,Henderson,8.7,8.2 - 15.8
+Kentucky,Trigg,8.7,8.2 - 15.8
+Louisiana,Allen,8.7,8.2 - 15.8
+Louisiana,Grant,8.7,8.2 - 15.8
+Louisiana,Jackson,8.7,8.2 - 15.8
+Michigan,Ogemaw,8.7,8.2 - 15.8
+Mississippi,Attala,8.7,8.2 - 15.8
+Mississippi,Lawrence,8.7,8.2 - 15.8
+Mississippi,Sharkey,8.7,8.2 - 15.8
+Missouri,Jasper,8.7,8.2 - 15.8
+Missouri,Scott,8.7,8.2 - 15.8
+Missouri,Webster,8.7,8.2 - 15.8
+North Carolina,Columbus,8.7,8.2 - 15.8
+Ohio,Ross,8.7,8.2 - 15.8
+Ohio,Washington,8.7,8.2 - 15.8
+Oklahoma,Johnston,8.7,8.2 - 15.8
+Oklahoma,Kiowa,8.7,8.2 - 15.8
+Oklahoma,Okmulgee,8.7,8.2 - 15.8
+South Carolina,Barnwell,8.7,8.2 - 15.8
+Tennessee,Bedford,8.7,8.2 - 15.8
+Tennessee,Dyer,8.7,8.2 - 15.8
+Tennessee,Humphreys,8.7,8.2 - 15.8
+Tennessee,Marshall,8.7,8.2 - 15.8
+Texas,Briscoe,8.7,8.2 - 15.8
+Texas,Dawson,8.7,8.2 - 15.8
+Texas,Hudspeth,8.7,8.2 - 15.8
+Texas,Marion,8.7,8.2 - 15.8
+Texas,Red River,8.7,8.2 - 15.8
+Texas,Trinity,8.7,8.2 - 15.8
+Virginia,Buckingham,8.7,8.2 - 15.8
+Virginia,Danville,8.7,8.2 - 15.8
+Alabama,Cherokee,8.8,8.2 - 15.8
+Alabama,Choctaw,8.8,8.2 - 15.8
+Alabama,Jackson,8.8,8.2 - 15.8
+Alabama,Sumter,8.8,8.2 - 15.8
+Alabama,Walker,8.8,8.2 - 15.8
+Alabama,Washington,8.8,8.2 - 15.8
+Alaska,Dillingham,8.8,8.2 - 15.8
+Arkansas,Cross,8.8,8.2 - 15.8
+Arkansas,Madison,8.8,8.2 - 15.8
+Arkansas,Mississippi,8.8,8.2 - 15.8
+Arkansas,Polk,8.8,8.2 - 15.8
+Arkansas,Sevier,8.8,8.2 - 15.8
+Georgia,Coffee,8.8,8.2 - 15.8
+Georgia,Crisp,8.8,8.2 - 15.8
+Georgia,Emanuel,8.8,8.2 - 15.8
+Georgia,Jeff Davis,8.8,8.2 - 15.8
+Georgia,Ware,8.8,8.2 - 15.8
+Georgia,Wilcox,8.8,8.2 - 15.8
+Kentucky,Bourbon,8.8,8.2 - 15.8
+Louisiana,Red River,8.8,8.2 - 15.8
+Louisiana,Union,8.8,8.2 - 15.8
+Mississippi,Chickasaw,8.8,8.2 - 15.8
+Mississippi,Noxubee,8.8,8.2 - 15.8
+Mississippi,Pike,8.8,8.2 - 15.8
+Missouri,Sullivan,8.8,8.2 - 15.8
+Ohio,Hardin,8.8,8.2 - 15.8
+Ohio,Perry,8.8,8.2 - 15.8
+Ohio,Trumbull,8.8,8.2 - 15.8
+Oklahoma,Caddo,8.8,8.2 - 15.8
+Oklahoma,Delaware,8.8,8.2 - 15.8
+Oklahoma,Muskogee,8.8,8.2 - 15.8
+Tennessee,Carroll,8.8,8.2 - 15.8
+Tennessee,Gibson,8.8,8.2 - 15.8
+Texas,Cass,8.8,8.2 - 15.8
+Texas,Dimmit,8.8,8.2 - 15.8
+Texas,Sabine,8.8,8.2 - 15.8
+West Virginia,Morgan,8.8,8.2 - 15.8
+West Virginia,Pleasants,8.8,8.2 - 15.8
+Alabama,Hale,8.9,8.2 - 15.8
+Alabama,Lowndes,8.9,8.2 - 15.8
+Arizona,Navajo,8.9,8.2 - 15.8
+Arkansas,Izard,8.9,8.2 - 15.8
+Georgia,Bacon,8.9,8.2 - 15.8
+Georgia,Ben Hill,8.9,8.2 - 15.8
+Georgia,Berrien,8.9,8.2 - 15.8
+Georgia,Calhoun,8.9,8.2 - 15.8
+Georgia,Evans,8.9,8.2 - 15.8
+Georgia,Mitchell,8.9,8.2 - 15.8
+Indiana,Starke,8.9,8.2 - 15.8
+Indiana,Washington,8.9,8.2 - 15.8
+Kentucky,Grant,8.9,8.2 - 15.8
+Kentucky,Hancock,8.9,8.2 - 15.8
+Louisiana,De Soto,8.9,8.2 - 15.8
+Louisiana,Natchitoches,8.9,8.2 - 15.8
+Mississippi,Bolivar,8.9,8.2 - 15.8
+Mississippi,Calhoun,8.9,8.2 - 15.8
+Mississippi,Franklin,8.9,8.2 - 15.8
+Mississippi,Perry,8.9,8.2 - 15.8
+Missouri,Harrison,8.9,8.2 - 15.8
+Missouri,Mercer,8.9,8.2 - 15.8
+Missouri,Pike,8.9,8.2 - 15.8
+Ohio,Crawford,8.9,8.2 - 15.8
+South Carolina,Allendale,8.9,8.2 - 15.8
+South Carolina,Marion,8.9,8.2 - 15.8
+Tennessee,Cumberland,8.9,8.2 - 15.8
+Tennessee,Houston,8.9,8.2 - 15.8
+Texas,Cottle,8.9,8.2 - 15.8
+Texas,Dallam,8.9,8.2 - 15.8
+Texas,Falls,8.9,8.2 - 15.8
+Texas,Tyler,8.9,8.2 - 15.8
+Virginia,Grayson,8.9,8.2 - 15.8
+Virginia,Henry,8.9,8.2 - 15.8
+Virginia,Radford,8.9,8.2 - 15.8
+West Virginia,Hancock,8.9,8.2 - 15.8
+West Virginia,Marion,8.9,8.2 - 15.8
+West Virginia,Tucker,8.9,8.2 - 15.8
+Alabama,Marion,9.0,8.2 - 15.8
+Arkansas,Woodruff,9.0,8.2 - 15.8
+Georgia,Brantley,9.0,8.2 - 15.8
+Illinois,Alexander,9.0,8.2 - 15.8
+Indiana,Benton,9.0,8.2 - 15.8
+Indiana,Jay,9.0,8.2 - 15.8
+Indiana,Orange,9.0,8.2 - 15.8
+Indiana,Owen,9.0,8.2 - 15.8
+Kentucky,Garrard,9.0,8.2 - 15.8
+Kentucky,Trimble,9.0,8.2 - 15.8
+Louisiana,Winn,9.0,8.2 - 15.8
+Maine,Washington,9.0,8.2 - 15.8
+Mississippi,Amite,9.0,8.2 - 15.8
+Mississippi,Panola,9.0,8.2 - 15.8
+Missouri,Barry,9.0,8.2 - 15.8
+Missouri,Bates,9.0,8.2 - 15.8
+Missouri,Benton,9.0,8.2 - 15.8
+Montana,Glacier,9.0,8.2 - 15.8
+Montana,Roosevelt,9.0,8.2 - 15.8
+North Carolina,Alleghany,9.0,8.2 - 15.8
+Ohio,Harrison,9.0,8.2 - 15.8
+Ohio,Jefferson,9.0,8.2 - 15.8
+Ohio,Monroe,9.0,8.2 - 15.8
+Oklahoma,Atoka,9.0,8.2 - 15.8
+Oklahoma,Craig,9.0,8.2 - 15.8
+Tennessee,Crockett,9.0,8.2 - 15.8
+Tennessee,McMinn,9.0,8.2 - 15.8
+Virginia,Bath,9.0,8.2 - 15.8
+Virginia,Scott,9.0,8.2 - 15.8
+Virginia,Tazewell,9.0,8.2 - 15.8
+Virginia,Galax,9.0,8.2 - 15.8
+Virginia,Hopewell,9.0,8.2 - 15.8
+West Virginia,Kanawha,9.0,8.2 - 15.8
+Alabama,Franklin,9.1,8.2 - 15.8
+Arkansas,Lawrence,9.1,8.2 - 15.8
+Arkansas,Monroe,9.1,8.2 - 15.8
+Georgia,Hancock,9.1,8.2 - 15.8
+Georgia,Macon,9.1,8.2 - 15.8
+Louisiana,Sabine,9.1,8.2 - 15.8
+Louisiana,St. Mary,9.1,8.2 - 15.8
+Mississippi,Montgomery,9.1,8.2 - 15.8
+Mississippi,Scott,9.1,8.2 - 15.8
+Mississippi,Sunflower,9.1,8.2 - 15.8
+Mississippi,Tippah,9.1,8.2 - 15.8
+Mississippi,Tishomingo,9.1,8.2 - 15.8
+Missouri,Gentry,9.1,8.2 - 15.8
+Missouri,Laclede,9.1,8.2 - 15.8
+Missouri,Shelby,9.1,8.2 - 15.8
+Nevada,Mineral,9.1,8.2 - 15.8
+North Carolina,Halifax,9.1,8.2 - 15.8
+Ohio,Athens,9.1,8.2 - 15.8
+Ohio,Brown,9.1,8.2 - 15.8
+Ohio,Hocking,9.1,8.2 - 15.8
+Ohio,Marion,9.1,8.2 - 15.8
+Ohio,Muskingum,9.1,8.2 - 15.8
+Oklahoma,Hughes,9.1,8.2 - 15.8
+Oklahoma,Latimer,9.1,8.2 - 15.8
+Oklahoma,McIntosh,9.1,8.2 - 15.8
+Oklahoma,Ottawa,9.1,8.2 - 15.8
+Tennessee,Hawkins,9.1,8.2 - 15.8
+Tennessee,Hickman,9.1,8.2 - 15.8
+Tennessee,Polk,9.1,8.2 - 15.8
+Texas,Presidio,9.1,8.2 - 15.8
+Texas,Shelby,9.1,8.2 - 15.8
+Virginia,Smyth,9.1,8.2 - 15.8
+Virginia,Norton,9.1,8.2 - 15.8
+West Virginia,Harrison,9.1,8.2 - 15.8
+West Virginia,Marshall,9.1,8.2 - 15.8
+West Virginia,Tyler,9.1,8.2 - 15.8
+Alabama,Monroe,9.2,8.2 - 15.8
+Alaska,Yukon-Koyukuk,9.2,8.2 - 15.8
+Arkansas,Clay,9.2,8.2 - 15.8
+Arkansas,Van Buren,9.2,8.2 - 15.8
+Georgia,Appling,9.2,8.2 - 15.8
+Georgia,Johnson,9.2,8.2 - 15.8
+Indiana,Adams,9.2,8.2 - 15.8
+Indiana,Daviess,9.2,8.2 - 15.8
+Kentucky,Harrison,9.2,8.2 - 15.8
+Louisiana,Assumption,9.2,8.2 - 15.8
+Maine,Somerset,9.2,8.2 - 15.8
+Mississippi,Wilkinson,9.2,8.2 - 15.8
+Mississippi,Yazoo,9.2,8.2 - 15.8
+Missouri,Scotland,9.2,8.2 - 15.8
+North Carolina,Scotland,9.2,8.2 - 15.8
+Ohio,Fayette,9.2,8.2 - 15.8
+Ohio,Gallia,9.2,8.2 - 15.8
+Ohio,Noble,9.2,8.2 - 15.8
+Tennessee,Cannon,9.2,8.2 - 15.8
+Tennessee,Meigs,9.2,8.2 - 15.8
+Tennessee,Unicoi,9.2,8.2 - 15.8
+Tennessee,Weakley,9.2,8.2 - 15.8
+Texas,Swisher,9.2,8.2 - 15.8
+Virginia,Wise,9.2,8.2 - 15.8
+West Virginia,Preston,9.2,8.2 - 15.8
+Alabama,Fayette,9.3,8.2 - 15.8
+Alabama,Geneva,9.3,8.2 - 15.8
+Arkansas,Johnson,9.3,8.2 - 15.8
+Arkansas,Montgomery,9.3,8.2 - 15.8
+Georgia,Terrell,9.3,8.2 - 15.8
+Georgia,Wheeler,9.3,8.2 - 15.8
+Indiana,LaGrange,9.3,8.2 - 15.8
+Indiana,Sullivan,9.3,8.2 - 15.8
+Kentucky,Ballard,9.3,8.2 - 15.8
+Kentucky,Boyd,9.3,8.2 - 15.8
+Kentucky,Livingston,9.3,8.2 - 15.8
+Kentucky,Logan,9.3,8.2 - 15.8
+Kentucky,Owen,9.3,8.2 - 15.8
+Michigan,Clare,9.3,8.2 - 15.8
+Mississippi,Leflore,9.3,8.2 - 15.8
+Mississippi,Tallahatchie,9.3,8.2 - 15.8
+Mississippi,Tunica,9.3,8.2 - 15.8
+Missouri,Audrain,9.3,8.2 - 15.8
+Missouri,St. Francois,9.3,8.2 - 15.8
+Missouri,Vernon,9.3,8.2 - 15.8
+Oklahoma,Jefferson,9.3,8.2 - 15.8
+Oklahoma,Le Flore,9.3,8.2 - 15.8
+Oklahoma,Pushmataha,9.3,8.2 - 15.8
+Tennessee,Carter,9.3,8.2 - 15.8
+Tennessee,Hamblen,9.3,8.2 - 15.8
+Tennessee,Henderson,9.3,8.2 - 15.8
+Texas,Houston,9.3,8.2 - 15.8
+Texas,Wilbarger,9.3,8.2 - 15.8
+Virginia,Russell,9.3,8.2 - 15.8
+West Virginia,Gilmer,9.3,8.2 - 15.8
+Alabama,Winston,9.4,8.2 - 15.8
+Alaska,Northwest Arctic,9.4,8.2 - 15.8
+Arkansas,Ashley,9.4,8.2 - 15.8
+Georgia,Candler,9.4,8.2 - 15.8
+Georgia,Lanier,9.4,8.2 - 15.8
+Georgia,Taylor,9.4,8.2 - 15.8
+Kentucky,Caldwell,9.4,8.2 - 15.8
+Kentucky,Graves,9.4,8.2 - 15.8
+Kentucky,Mason,9.4,8.2 - 15.8
+Kentucky,Union,9.4,8.2 - 15.8
+Louisiana,St. Helena,9.4,8.2 - 15.8
+Mississippi,Marion,9.4,8.2 - 15.8
+Missouri,Caldwell,9.4,8.2 - 15.8
+Missouri,Carter,9.4,8.2 - 15.8
+Missouri,Lawrence,9.4,8.2 - 15.8
+Oklahoma,Choctaw,9.4,8.2 - 15.8
+Oklahoma,Haskell,9.4,8.2 - 15.8
+South Carolina,Dillon,9.4,8.2 - 15.8
+South Carolina,Marlboro,9.4,8.2 - 15.8
+Tennessee,Chester,9.4,8.2 - 15.8
+Tennessee,Greene,9.4,8.2 - 15.8
+Tennessee,Hardin,9.4,8.2 - 15.8
+Tennessee,Marion,9.4,8.2 - 15.8
+Virginia,Buena Vista,9.4,8.2 - 15.8
+West Virginia,Randolph,9.4,8.2 - 15.8
+Alabama,DeKalb,9.5,8.2 - 15.8
+Arkansas,Jackson,9.5,8.2 - 15.8
+Arkansas,Randolph,9.5,8.2 - 15.8
+Georgia,Turner,9.5,8.2 - 15.8
+Indiana,Blackford,9.5,8.2 - 15.8
+Indiana,Fayette,9.5,8.2 - 15.8
+Indiana,Scott,9.5,8.2 - 15.8
+Kentucky,Larue,9.5,8.2 - 15.8
+Kentucky,Pendleton,9.5,8.2 - 15.8
+Louisiana,West Carroll,9.5,8.2 - 15.8
+Mississippi,Claiborne,9.5,8.2 - 15.8
+Mississippi,Neshoba,9.5,8.2 - 15.8
+Missouri,Bollinger,9.5,8.2 - 15.8
+Missouri,Lewis,9.5,8.2 - 15.8
+Missouri,St. Clair,9.5,8.2 - 15.8
+Ohio,Guernsey,9.5,8.2 - 15.8
+Oklahoma,McCurtain,9.5,8.2 - 15.8
+Tennessee,Henry,9.5,8.2 - 15.8
+Tennessee,Monroe,9.5,8.2 - 15.8
+Tennessee,Rhea,9.5,8.2 - 15.8
+Texas,Cochran,9.5,8.2 - 15.8
+Texas,Foard,9.5,8.2 - 15.8
+West Virginia,Taylor,9.5,8.2 - 15.8
+Alaska,Nome,9.6,8.2 - 15.8
+Indiana,Switzerland,9.6,8.2 - 15.8
+Kentucky,Christian,9.6,8.2 - 15.8
+Louisiana,Acadia,9.6,8.2 - 15.8
+Missouri,Crawford,9.6,8.2 - 15.8
+Missouri,Dade,9.6,8.2 - 15.8
+Missouri,Douglas,9.6,8.2 - 15.8
+Missouri,Iron,9.6,8.2 - 15.8
+Ohio,Coshocton,9.6,8.2 - 15.8
+Ohio,Lawrence,9.6,8.2 - 15.8
+Oklahoma,Coal,9.6,8.2 - 15.8
+Tennessee,Decatur,9.6,8.2 - 15.8
+Texas,Jasper,9.6,8.2 - 15.8
+West Virginia,Wood,9.6,8.2 - 15.8
+Alabama,Barbour,9.7,8.2 - 15.8
+Arkansas,Desha,9.7,8.2 - 15.8
+Arkansas,Poinsett,9.7,8.2 - 15.8
+Arkansas,St. Francis,9.7,8.2 - 15.8
+Georgia,Chattooga,9.7,8.2 - 15.8
+Indiana,Parke,9.7,8.2 - 15.8
+Kentucky,Allen,9.7,8.2 - 15.8
+Kentucky,Henry,9.7,8.2 - 15.8
+Kentucky,Hickman,9.7,8.2 - 15.8
+Kentucky,Hopkins,9.7,8.2 - 15.8
+Kentucky,Marion,9.7,8.2 - 15.8
+Kentucky,Montgomery,9.7,8.2 - 15.8
+Michigan,Lake,9.7,8.2 - 15.8
+Mississippi,Coahoma,9.7,8.2 - 15.8
+Missouri,Clark,9.7,8.2 - 15.8
+North Carolina,Robeson,9.7,8.2 - 15.8
+Oklahoma,Sequoyah,9.7,8.2 - 15.8
+Tennessee,DeKalb,9.7,8.2 - 15.8
+Tennessee,Haywood,9.7,8.2 - 15.8
+Tennessee,Obion,9.7,8.2 - 15.8
+Alabama,Bullock,9.8,8.2 - 15.8
+Alabama,Escambia,9.8,8.2 - 15.8
+Arkansas,Franklin,9.8,8.2 - 15.8
+Arkansas,Phillips,9.8,8.2 - 15.8
+Georgia,Jenkins,9.8,8.2 - 15.8
+Georgia,Telfair,9.8,8.2 - 15.8
+Kentucky,Adair,9.8,8.2 - 15.8
+Kentucky,Crittenden,9.8,8.2 - 15.8
+Kentucky,Muhlenberg,9.8,8.2 - 15.8
+Kentucky,Ohio,9.8,8.2 - 15.8
+Louisiana,Catahoula,9.8,8.2 - 15.8
+Louisiana,St. Landry,9.8,8.2 - 15.8
+Missouri,Barton,9.8,8.2 - 15.8
+Missouri,Dallas,9.8,8.2 - 15.8
+Missouri,Reynolds,9.8,8.2 - 15.8
+Ohio,Jackson,9.8,8.2 - 15.8
+Oklahoma,Seminole,9.8,8.2 - 15.8
+South Dakota,Dewey,9.8,8.2 - 15.8
+Tennessee,Claiborne,9.8,8.2 - 15.8
+Tennessee,Hardeman,9.8,8.2 - 15.8
+Tennessee,Lawrence,9.8,8.2 - 15.8
+Tennessee,Warren,9.8,8.2 - 15.8
+Tennessee,Wayne,9.8,8.2 - 15.8
+Tennessee,White,9.8,8.2 - 15.8
+West Virginia,Hampshire,9.8,8.2 - 15.8
+West Virginia,Monroe,9.8,8.2 - 15.8
+West Virginia,Nicholas,9.8,8.2 - 15.8
+Alabama,Wilcox,9.9,8.2 - 15.8
+Arkansas,Chicot,9.9,8.2 - 15.8
+Arkansas,Sharp,9.9,8.2 - 15.8
+Kentucky,Gallatin,9.9,8.2 - 15.8
+Louisiana,Washington,9.9,8.2 - 15.8
+Mississippi,Issaquena,9.9,8.2 - 15.8
+Missouri,Dent,9.9,8.2 - 15.8
+Missouri,Hickory,9.9,8.2 - 15.8
+Missouri,Shannon,9.9,8.2 - 15.8
+Missouri,Stoddard,9.9,8.2 - 15.8
+New Mexico,McKinley,9.9,8.2 - 15.8
+Ohio,Highland,9.9,8.2 - 15.8
+Tennessee,Jackson,9.9,8.2 - 15.8
+Tennessee,McNairy,9.9,8.2 - 15.8
+Tennessee,Union,9.9,8.2 - 15.8
+Texas,King,9.9,8.2 - 15.8
+Virginia,Emporia,9.9,8.2 - 15.8
+West Virginia,Doddridge,9.9,8.2 - 15.8
+West Virginia,Grant,9.9,8.2 - 15.8
+West Virginia,Pendleton,9.9,8.2 - 15.8
+Arkansas,Lafayette,10.0,8.2 - 15.8
+Arkansas,Lee,10.0,8.2 - 15.8
+Arkansas,Searcy,10.0,8.2 - 15.8
+Kentucky,Bracken,10.0,8.2 - 15.8
+Kentucky,Breckinridge,10.0,8.2 - 15.8
+Missouri,New Madrid,10.0,8.2 - 15.8
+Ohio,Ashtabula,10.0,8.2 - 15.8
+Tennessee,Grainger,10.0,8.2 - 15.8
+Texas,Newton,10.0,8.2 - 15.8
+Texas,San Augustine,10.0,8.2 - 15.8
+West Virginia,Cabell,10.0,8.2 - 15.8
+West Virginia,Wetzel,10.0,8.2 - 15.8
+Georgia,Treutlen,10.1,8.2 - 15.8
+Indiana,Crawford,10.1,8.2 - 15.8
+Kentucky,Butler,10.1,8.2 - 15.8
+Kentucky,Fleming,10.1,8.2 - 15.8
+Kentucky,Powell,10.1,8.2 - 15.8
+Kentucky,Rowan,10.1,8.2 - 15.8
+Kentucky,Todd,10.1,8.2 - 15.8
+Kentucky,Webster,10.1,8.2 - 15.8
+Louisiana,Bienville,10.1,8.2 - 15.8
+Louisiana,Morehouse,10.1,8.2 - 15.8
+Louisiana,Richland,10.1,8.2 - 15.8
+Mississippi,Holmes,10.1,8.2 - 15.8
+Missouri,Cedar,10.1,8.2 - 15.8
+Missouri,Howell,10.1,8.2 - 15.8
+Missouri,Knox,10.1,8.2 - 15.8
+Missouri,Morgan,10.1,8.2 - 15.8
+Missouri,Texas,10.1,8.2 - 15.8
+Missouri,Washington,10.1,8.2 - 15.8
+Tennessee,Benton,10.1,8.2 - 15.8
+Tennessee,Bledsoe,10.1,8.2 - 15.8
+Tennessee,Overton,10.1,8.2 - 15.8
+West Virginia,Jackson,10.1,8.2 - 15.8
+Arkansas,Fulton,10.2,8.2 - 15.8
+Arkansas,Stone,10.2,8.2 - 15.8
+Georgia,Atkinson,10.2,8.2 - 15.8
+Kentucky,Metcalfe,10.2,8.2 - 15.8
+Kentucky,Robertson,10.2,8.2 - 15.8
+Louisiana,Caldwell,10.2,8.2 - 15.8
+Missouri,Butler,10.2,8.2 - 15.8
+Ohio,Morgan,10.2,8.2 - 15.8
+South Dakota,Corson,10.2,8.2 - 15.8
+Tennessee,Grundy,10.2,8.2 - 15.8
+Tennessee,Lauderdale,10.2,8.2 - 15.8
+West Virginia,Hardy,10.2,8.2 - 15.8
+West Virginia,Lewis,10.2,8.2 - 15.8
+Kentucky,Pulaski,10.3,8.2 - 15.8
+Louisiana,Avoyelles,10.3,8.2 - 15.8
+Mississippi,Quitman,10.3,8.2 - 15.8
+Ohio,Adams,10.3,8.2 - 15.8
+Ohio,Scioto,10.3,8.2 - 15.8
+Tennessee,Cocke,10.3,8.2 - 15.8
+Tennessee,Morgan,10.3,8.2 - 15.8
+Tennessee,Pickett,10.3,8.2 - 15.8
+West Virginia,Greenbrier,10.3,8.2 - 15.8
+Alabama,Greene,10.4,8.2 - 15.8
+Arizona,Apache,10.4,8.2 - 15.8
+Kentucky,Bath,10.4,8.2 - 15.8
+Louisiana,Franklin,10.4,8.2 - 15.8
+Louisiana,Webster,10.4,8.2 - 15.8
+Ohio,Holmes,10.4,8.2 - 15.8
+South Dakota,Ziebach,10.4,8.2 - 15.8
+Tennessee,Fentress,10.4,8.2 - 15.8
+Tennessee,Lewis,10.4,8.2 - 15.8
+Tennessee,Macon,10.4,8.2 - 15.8
+Tennessee,Sequatchie,10.4,8.2 - 15.8
+Virginia,Dickenson,10.4,8.2 - 15.8
+West Virginia,Raleigh,10.4,8.2 - 15.8
+Alabama,Perry,10.5,8.2 - 15.8
+Georgia,Randolph,10.5,8.2 - 15.8
+Kentucky,Barren,10.5,8.2 - 15.8
+Kentucky,Edmonson,10.5,8.2 - 15.8
+Kentucky,Russell,10.5,8.2 - 15.8
+Louisiana,Tensas,10.5,8.2 - 15.8
+Missouri,Dunklin,10.5,8.2 - 15.8
+Missouri,Wayne,10.5,8.2 - 15.8
+Ohio,Vinton,10.5,8.2 - 15.8
+Oklahoma,Okfuskee,10.5,8.2 - 15.8
+Tennessee,Campbell,10.5,8.2 - 15.8
+Tennessee,Perry,10.5,8.2 - 15.8
+Virginia,Lee,10.5,8.2 - 15.8
+West Virginia,Upshur,10.5,8.2 - 15.8
+Kentucky,Lincoln,10.6,8.2 - 15.8
+Mississippi,Humphreys,10.6,8.2 - 15.8
+Missouri,McDonald,10.6,8.2 - 15.8
+South Dakota,Jackson,10.6,8.2 - 15.8
+Tennessee,Johnson,10.6,8.2 - 15.8
+West Virginia,Boone,10.6,8.2 - 15.8
+West Virginia,Mason,10.6,8.2 - 15.8
+West Virginia,Wayne,10.6,8.2 - 15.8
+Kentucky,Carlisle,10.7,8.2 - 15.8
+Kentucky,Carroll,10.7,8.2 - 15.8
+Kentucky,Laurel,10.7,8.2 - 15.8
+Louisiana,Madison,10.7,8.2 - 15.8
+Missouri,Wright,10.7,8.2 - 15.8
+Ohio,Meigs,10.7,8.2 - 15.8
+Ohio,Pike,10.7,8.2 - 15.8
+Oklahoma,Adair,10.7,8.2 - 15.8
+Virginia,Buchanan,10.7,8.2 - 15.8
+West Virginia,Barbour,10.7,8.2 - 15.8
+West Virginia,Fayette,10.7,8.2 - 15.8
+West Virginia,Ritchie,10.7,8.2 - 15.8
+Kentucky,Whitley,10.8,8.2 - 15.8
+North Dakota,Sioux,10.8,8.2 - 15.8
+South Dakota,Buffalo,10.8,8.2 - 15.8
+Tennessee,Van Buren,10.8,8.2 - 15.8
+West Virginia,Mercer,10.8,8.2 - 15.8
+West Virginia,Summers,10.8,8.2 - 15.8
+Alaska,Bethel,10.9,8.2 - 15.8
+Kentucky,Fulton,10.9,8.2 - 15.8
+Kentucky,Grayson,10.9,8.2 - 15.8
+Kentucky,Monroe,10.9,8.2 - 15.8
+Kentucky,Nicholas,10.9,8.2 - 15.8
+Louisiana,Claiborne,10.9,8.2 - 15.8
+Missouri,Pemiscot,10.9,8.2 - 15.8
+West Virginia,Wirt,10.9,8.2 - 15.8
+Georgia,Clinch,11.0,8.2 - 15.8
+Louisiana,Concordia,11.0,8.2 - 15.8
+Louisiana,Evangeline,11.0,8.2 - 15.8
+Missouri,Mississippi,11.0,8.2 - 15.8
+Missouri,Ozark,11.0,8.2 - 15.8
+Missouri,Ripley,11.0,8.2 - 15.8
+Tennessee,Clay,11.0,8.2 - 15.8
+Kentucky,Johnson,11.1,8.2 - 15.8
+West Virginia,Pocahontas,11.1,8.2 - 15.8
+Kentucky,Hart,11.2,8.2 - 15.8
+Kentucky,Martin,11.2,8.2 - 15.8
+Kentucky,Morgan,11.2,8.2 - 15.8
+Kentucky,Perry,11.2,8.2 - 15.8
+Kentucky,Rockcastle,11.2,8.2 - 15.8
+Missouri,Oregon,11.3,8.2 - 15.8
+South Dakota,Mellette,11.3,8.2 - 15.8
+Tennessee,Lake,11.3,8.2 - 15.8
+Tennessee,Scott,11.3,8.2 - 15.8
+Kentucky,Cumberland,11.4,8.2 - 15.8
+Kentucky,Green,11.4,8.2 - 15.8
+Kentucky,Wayne,11.4,8.2 - 15.8
+Kentucky,Carter,11.7,8.2 - 15.8
+Kentucky,Clinton,11.8,8.2 - 15.8
+Kentucky,Menifee,11.8,8.2 - 15.8
+Kentucky,Pike,11.8,8.2 - 15.8
+West Virginia,Braxton,11.8,8.2 - 15.8
+West Virginia,Roane,11.8,8.2 - 15.8
+Kentucky,Elliott,11.9,8.2 - 15.8
+Kentucky,Lawrence,11.9,8.2 - 15.8
+West Virginia,Clay,12.0,8.2 - 15.8
+West Virginia,Lincoln,12.0,8.2 - 15.8
+Kentucky,Floyd,12.1,8.2 - 15.8
+Kentucky,Estill,12.2,8.2 - 15.8
+West Virginia,Wyoming,12.2,8.2 - 15.8
+Kentucky,Breathitt,12.3,8.2 - 15.8
+West Virginia,Webster,12.3,8.2 - 15.8
+Tennessee,Hancock,12.4,8.2 - 15.8
+West Virginia,Calhoun,12.4,8.2 - 15.8
+Kentucky,Casey,12.5,8.2 - 15.8
+Kentucky,Owsley,12.6,8.2 - 15.8
+West Virginia,Logan,12.6,8.2 - 15.8
+Kentucky,Letcher,12.7,8.2 - 15.8
+Kentucky,Leslie,12.8,8.2 - 15.8
+South Dakota,Oglala Lakota,13.0,8.2 - 15.8
+Kentucky,Bell,13.3,8.2 - 15.8
+Kentucky,Knott,13.3,8.2 - 15.8
+West Virginia,Mingo,13.3,8.2 - 15.8
+Kentucky,Knox,13.4,8.2 - 15.8
+Kentucky,Magoffin,13.4,8.2 - 15.8
+Kentucky,Lewis,13.5,8.2 - 15.8
+Kentucky,Jackson,13.6,8.2 - 15.8
+Kentucky,McCreary,13.6,8.2 - 15.8
+Kentucky,Clay,13.7,8.2 - 15.8
+Louisiana,East Carroll,13.7,8.2 - 15.8
+South Dakota,Todd,13.7,8.2 - 15.8
+Kentucky,Lee,13.8,8.2 - 15.8
+West Virginia,McDowell,14.1,8.2 - 15.8
+Alaska,Kusilvak,14.2,8.2 - 15.8
+Kentucky,Harlan,14.2,8.2 - 15.8
+Kentucky,Wolfe,15.8,8.2 - 15.8

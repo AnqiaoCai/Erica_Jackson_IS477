@@ -1,0 +1,1006 @@
+State,County,Year,Median AQI,Days Ozone,Days PM2.5,Days NO2,Days PM10
+Alabama,Baldwin,2021,37,199,81,0,0
+Alabama,Clay,2021,36,0,110,0,0
+Alabama,DeKalb,2021,37,298,63,0,0
+Alabama,Elmore,2021,32,241,0,0,0
+Alabama,Etowah,2021,38,201,85,0,0
+Alabama,Jefferson,2021,56,47,317,1,0
+Alabama,Lawrence,2021,28,0,100,0,0
+Alabama,Madison,2021,49,59,285,0,13
+Alabama,Mobile,2021,53,35,326,0,0
+Alabama,Montgomery,2021,44,86,268,0,0
+Alabama,Morgan,2021,47,71,294,0,0
+Alabama,Russell,2021,47,51,313,0,0
+Alabama,Shelby,2021,35,243,0,0,0
+Alabama,Sumter,2021,35,91,264,0,0
+Alabama,Tuscaloosa,2021,34,188,92,0,0
+Alaska,Aleutians East ,2021,13,0,118,0,0
+Alaska,Anchorage ,2021,28,0,277,0,86
+Alaska,Denali ,2021,33,360,3,0,0
+Alaska,Fairbanks North Star ,2021,42,66,298,0,1
+Alaska,Juneau ,2021,20,0,353,0,4
+Alaska,Kenai Peninsula ,2021,9,0,121,0,0
+Alaska,Matanuska-Susitna ,2021,15,0,300,0,54
+Alaska,North Slope ,2021,5,0,114,0,0
+Arizona,Apache,2021,15,0,67,0,292
+Arizona,Cochise,2021,45,307,2,0,56
+Arizona,Coconino,2021,46,356,9,0,0
+Arizona,Gila,2021,46,341,4,0,20
+Arizona,La Paz,2021,46,351,7,0,4
+Arizona,Maricopa,2021,122,295,27,0,43
+Arizona,Mohave,2021,19,0,2,0,361
+Arizona,Navajo,2021,44,337,4,0,24
+Arizona,Pima,2021,56,147,145,0,73
+Arizona,Pinal,2021,70,135,48,0,182
+Arizona,Santa Cruz,2021,52,0,295,0,65
+Arizona,Yavapai,2021,44,331,0,0,0
+Arizona,Yuma,2021,50,174,146,0,45
+Arkansas,Arkansas,2021,39,0,120,0,0
+Arkansas,Ashley,2021,42,0,120,0,0
+Arkansas,Clark,2021,32,338,0,0,0
+Arkansas,Crittenden,2021,45,98,265,2,0
+Arkansas,Garland,2021,45,0,120,0,0
+Arkansas,Jackson,2021,39,0,120,0,0
+Arkansas,Newton,2021,37,330,35,0,0
+Arkansas,Polk,2021,40,293,67,0,0
+Arkansas,Pulaski,2021,54,36,327,2,0
+Arkansas,Union,2021,48,0,116,0,0
+Arkansas,Washington,2021,48,101,264,0,0
+California,Alameda,2021,53,99,263,3,0
+California,Amador,2021,37,365,0,0,0
+California,Butte,2021,53,177,185,0,3
+California,Calaveras,2021,46,216,148,0,0
+California,Colusa,2021,55,60,291,0,14
+California,Contra Costa,2021,47,139,226,0,0
+California,Del Norte,2021,31,0,323,0,0
+California,El Dorado,2021,43,349,9,0,7
+California,Fresno,2021,68,146,209,0,10
+California,Glenn,2021,42,183,172,0,10
+California,Humboldt,2021,29,219,78,0,56
+California,Imperial,2021,60,134,126,0,105
+California,Inyo,2021,61,152,185,0,28
+California,Kern,2021,84,151,199,0,15
+California,Kings,2021,64,119,168,0,78
+California,Lake,2021,33,335,19,0,2
+California,Los Angeles,2021,79,148,199,13,5
+California,Madera,2021,58,210,131,0,24
+California,Marin,2021,38,149,214,2,0
+California,Mariposa,2021,49,292,73,0,0
+California,Mendocino,2021,46,76,289,0,0
+California,Merced,2021,54,210,151,0,4
+California,Mono,2021,27,0,241,0,123
+California,Monterey,2021,41,161,194,0,10
+California,Napa,2021,41,74,65,0,0
+California,Nevada,2021,50,208,157,0,0
+California,Orange,2021,55,124,232,5,4
+California,Placer,2021,58,220,144,0,1
+California,Plumas,2021,67,0,365,0,0
+California,Riverside,2021,89,191,127,0,47
+California,Sacramento,2021,55,195,166,0,4
+California,San Benito,2021,41,280,79,0,6
+California,San Bernardino,2021,87,191,155,7,12
+California,San Diego,2021,67,163,199,0,3
+California,San Francisco,2021,39,162,195,8,0
+California,San Joaquin,2021,55,114,231,0,20
+California,San Luis Obispo,2021,53,190,167,0,8
+California,San Mateo,2021,36,199,163,3,0
+California,Santa Barbara,2021,44,180,184,0,1
+California,Santa Clara,2021,53,90,275,0,0
+California,Santa Cruz,2021,37,187,178,0,0
+California,Shasta,2021,46,271,94,0,0
+California,Siskiyou,2021,43,178,186,0,0
+California,Solano,2021,44,172,193,0,0
+California,Sonoma,2021,37,156,203,0,6
+California,Stanislaus,2021,61,136,225,0,4
+California,Sutter,2021,59,95,268,0,1
+California,Tehama,2021,47,256,109,0,0
+California,Trinity,2021,38,0,328,0,0
+California,Tulare,2021,81,173,187,0,5
+California,Tuolumne,2021,41,360,0,0,0
+California,Ventura,2021,53,214,140,0,11
+California,Yolo,2021,42,215,149,0,1
+Colorado,Adams,2021,49,174,88,52,51
+Colorado,Alamosa,2021,12,0,120,0,0
+Colorado,Arapahoe,2021,46,352,13,0,0
+Colorado,Archuleta,2021,45,345,0,0,20
+Colorado,Boulder,2021,52,228,136,0,1
+Colorado,Chaffee,2021,58,112,0,0,0
+Colorado,Clear Creek,2021,49,357,0,0,0
+Colorado,Delta,2021,43,319,39,0,7
+Colorado,Denver,2021,55,142,116,107,0
+Colorado,Douglas,2021,48,295,63,0,0
+Colorado,El Paso,2021,47,333,32,0,0
+Colorado,Fremont,2021,15,0,0,0,86
+Colorado,Garfield,2021,49,357,8,0,0
+Colorado,Gilpin,2021,46,363,0,0,0
+Colorado,Grand,2021,48,21,0,0,0
+Colorado,Gunnison,2021,46,365,0,0,0
+Colorado,Jackson,2021,7,0,116,0,0
+Colorado,Jefferson,2021,47,363,0,2,0
+Colorado,La Plata,2021,47,325,38,0,0
+Colorado,Larimer,2021,54,298,67,0,0
+Colorado,Mesa,2021,46,271,94,0,0
+Colorado,Montezuma,2021,44,364,1,0,0
+Colorado,Park,2021,48,322,0,0,0
+Colorado,Pitkin,2021,14,0,48,0,74
+Colorado,Prowers,2021,19,0,0,0,361
+Colorado,Pueblo,2021,23,0,83,0,137
+Colorado,Rio Blanco,2021,48,251,114,0,0
+Colorado,Routt,2021,15,0,0,0,354
+Colorado,San Juan,2021,9,0,119,0,0
+Colorado,San Miguel,2021,48,199,0,0,53
+Colorado,Weld,2021,54,259,106,0,0
+Connecticut,Fairfield,2021,46,133,221,9,0
+Connecticut,Hartford,2021,42,127,226,12,0
+Connecticut,Litchfield,2021,38,249,114,0,0
+Connecticut,Middlesex,2021,39,207,0,0,0
+Connecticut,New Haven,2021,46,138,218,8,1
+Connecticut,New London,2021,39,135,228,0,0
+Connecticut,Tolland,2021,39,201,0,0,0
+Connecticut,Windham,2021,34,361,0,0,0
+Country Of Mexico,BAJA CALIFORNIA NORTE,2021,69,0,365,0,0
+Country Of Mexico,SONORA,2021,34,105,0,0,0
+Delaware,Kent,2021,42,183,177,0,0
+Delaware,New Castle,2021,48,137,228,0,0
+Delaware,Sussex,2021,40,232,133,0,0
+District Of Columbia,District of Columbia,2021,51,108,235,22,0
+Florida,Alachua,2021,39,129,235,0,0
+Florida,Baker,2021,42,101,264,0,0
+Florida,Bay,2021,46,65,300,0,0
+Florida,Brevard,2021,45,121,244,0,0
+Florida,Broward,2021,49,68,292,5,0
+Florida,Citrus,2021,44,0,360,0,0
+Florida,Collier,2021,42,101,262,0,0
+Florida,Columbia,2021,44,86,278,0,0
+Florida,Duval,2021,52,43,322,0,0
+Florida,Escambia,2021,49,80,285,0,0
+Florida,Flagler,2021,33,353,0,0,0
+Florida,Hamilton,2021,46,0,336,0,0
+Florida,Highlands,2021,33,358,0,0,0
+Florida,Hillsborough,2021,51,71,294,0,0
+Florida,Holmes,2021,48,41,321,0,0
+Florida,Indian River,2021,36,360,0,0,0
+Florida,Lake,2021,34,356,0,0,0
+Florida,Lee,2021,41,160,201,0,4
+Florida,Leon,2021,48,44,321,0,0
+Florida,Liberty,2021,32,364,0,0,0
+Florida,Manatee,2021,32,365,0,0,0
+Florida,Marion,2021,42,144,221,0,0
+Florida,Martin,2021,44,73,292,0,0
+Florida,Miami-Dade,2021,46,67,291,7,0
+Florida,Okaloosa,2021,33,357,0,0,8
+Florida,Orange,2021,33,364,0,1,0
+Florida,Osceola,2021,33,355,0,0,0
+Florida,Palm Beach,2021,43,122,243,0,0
+Florida,Pasco,2021,35,365,0,0,0
+Florida,Pinellas,2021,47,104,261,0,0
+Florida,Polk,2021,45,94,271,0,0
+Florida,Putnam,2021,16,0,0,0,340
+Florida,Santa Rosa,2021,44,91,273,0,0
+Florida,Sarasota,2021,45,90,275,0,0
+Florida,Seminole,2021,42,135,230,0,0
+Florida,St. Lucie,2021,33,363,0,0,0
+Florida,Volusia,2021,47,98,265,0,0
+Florida,Wakulla,2021,41,97,266,0,0
+Georgia,Bibb,2021,48,47,318,0,0
+Georgia,Charlton,2021,25,0,121,0,0
+Georgia,Chatham,2021,51,31,332,0,0
+Georgia,Chattooga,2021,33,245,0,0,0
+Georgia,Clarke,2021,49,61,304,0,0
+Georgia,Clayton,2021,44,0,121,0,0
+Georgia,Cobb,2021,41,188,97,0,0
+Georgia,Coffee,2021,35,0,116,0,0
+Georgia,Columbia,2021,33,245,0,0,0
+Georgia,Dawson,2021,36,245,0,0,0
+Georgia,DeKalb,2021,49,59,288,18,0
+Georgia,Dougherty,2021,51,0,352,0,0
+Georgia,Douglas,2021,38,244,0,0,0
+Georgia,Floyd,2021,38,0,354,0,0
+Georgia,Fulton,2021,53,44,318,3,0
+Georgia,Glynn,2021,38,185,137,0,0
+Georgia,Gwinnett,2021,49,71,253,0,0
+Georgia,Hall,2021,46,0,365,0,0
+Georgia,Henry,2021,39,140,220,0,0
+Georgia,Houston,2021,49,0,359,0,0
+Georgia,Lowndes,2021,46,0,358,0,0
+Georgia,Murray,2021,38,223,53,0,0
+Georgia,Muscogee,2021,43,87,266,0,0
+Georgia,Pike,2021,36,352,0,0,0
+Georgia,Richmond,2021,51,77,286,0,1
+Georgia,Rockdale,2021,39,243,0,0,0
+Georgia,Sumter,2021,35,245,0,0,0
+Georgia,Walker,2021,53,0,233,0,0
+Georgia,Washington,2021,51,0,365,0,0
+Hawaii,Hawaii,2021,27,0,365,0,0
+Hawaii,Honolulu,2021,28,266,89,2,7
+Hawaii,Kauai,2021,17,0,329,35,0
+Hawaii,Maui,2021,21,0,363,0,0
+Idaho,Ada,2021,46,207,150,7,1
+Idaho,Bannock,2021,44,96,195,0,74
+Idaho,Benewah,2021,51,0,364,0,0
+Idaho,Blaine,2021,23,0,350,0,0
+Idaho,Boise,2021,49,0,365,0,0
+Idaho,Bonner,2021,37,0,319,0,45
+Idaho,Bonneville,2021,31,0,356,0,0
+Idaho,Butte,2021,42,350,13,0,0
+Idaho,Canyon,2021,46,0,347,0,18
+Idaho,Custer,2021,8,0,110,0,0
+Idaho,Franklin,2021,28,0,365,0,0
+Idaho,Idaho,2021,42,186,179,0,0
+Idaho,Kootenai,2021,31,0,357,0,0
+Idaho,Latah,2021,20,0,360,0,0
+Idaho,Lemhi,2021,47,0,365,0,0
+Idaho,Nez Perce,2021,34,0,365,0,0
+Idaho,Shoshone,2021,49,0,362,0,1
+Idaho,Twin Falls,2021,28,0,361,0,0
+Idaho,Valley,2021,41,0,351,0,0
+Illinois,Adams,2021,40,242,0,0,0
+Illinois,Champaign,2021,44,143,222,0,0
+Illinois,Clark,2021,34,363,0,0,0
+Illinois,Cook,2021,59,78,255,7,25
+Illinois,DuPage,2021,51,100,265,0,0
+Illinois,Effingham,2021,37,237,0,0,0
+Illinois,Hamilton,2021,48,83,281,0,0
+Illinois,Jersey,2021,45,120,240,0,0
+Illinois,Jo Daviess,2021,36,362,0,0,0
+Illinois,Kane,2021,44,189,96,0,0
+Illinois,Lake,2021,42,244,0,0,0
+Illinois,Macon,2021,51,92,269,0,0
+Illinois,Macoupin,2021,31,227,0,131,0
+Illinois,Madison,2021,57,65,300,0,0
+Illinois,McHenry,2021,49,115,248,0,0
+Illinois,McLean,2021,48,89,276,0,0
+Illinois,Peoria,2021,50,92,269,0,0
+Illinois,Randolph,2021,45,119,236,0,0
+Illinois,Rock Island,2021,49,95,266,0,0
+Illinois,Saint Clair,2021,53,63,300,2,0
+Illinois,Sangamon,2021,43,100,262,0,0
+Illinois,Will,2021,52,83,282,0,0
+Illinois,Winnebago,2021,49,114,246,0,0
+Indiana,Allen,2021,40,226,139,0,0
+Indiana,Bartholomew,2021,43,163,201,0,0
+Indiana,Boone,2021,33,365,0,0,0
+Indiana,Brown,2021,33,361,0,0,0
+Indiana,Carroll,2021,34,365,0,0,0
+Indiana,Clark,2021,52,59,306,0,0
+Indiana,Delaware,2021,37,293,69,0,0
+Indiana,Dubois,2021,43,0,119,0,6
+Indiana,Elkhart,2021,45,139,226,0,0
+Indiana,Floyd,2021,34,363,0,0,0
+Indiana,Greene,2021,38,287,69,0,0
+Indiana,Hamilton,2021,44,155,210,0,0
+Indiana,Hendricks,2021,33,365,0,0,0
+Indiana,Henry,2021,38,0,117,0,0
+Indiana,Howard,2021,44,164,197,0,0
+Indiana,Knox,2021,36,360,0,0,0
+Indiana,LaPorte,2021,37,309,56,0,0
+Indiana,Lake,2021,54,53,308,2,2
+Indiana,Madison,2021,48,124,240,0,0
+Indiana,Marion,2021,58,31,332,2,0
+Indiana,Monroe,2021,43,0,352,0,0
+Indiana,Perry,2021,36,363,0,0,0
+Indiana,Porter,2021,47,149,205,0,11
+Indiana,Posey,2021,32,360,0,0,0
+Indiana,Shelby,2021,33,365,0,0,0
+Indiana,Spencer,2021,42,0,120,0,0
+Indiana,St. Joseph,2021,52,96,269,0,0
+Indiana,Tippecanoe,2021,44,0,349,0,0
+Indiana,Vanderburgh,2021,51,76,289,0,0
+Indiana,Vigo,2021,51,100,265,0,0
+Indiana,Wabash,2021,35,362,0,0,0
+Indiana,Warrick,2021,35,365,0,0,0
+Indiana,Whitley,2021,47,0,361,0,0
+Iowa,Black Hawk,2021,47,0,365,0,0
+Iowa,Bremer,2021,40,244,0,0,0
+Iowa,Cerro Gordo,2021,19,0,0,0,120
+Iowa,Clinton,2021,55,62,303,0,0
+Iowa,Harrison,2021,39,243,0,0,0
+Iowa,Johnson,2021,52,0,364,0,0
+Iowa,Lee,2021,42,0,101,0,0
+Iowa,Linn,2021,52,75,290,0,0
+Iowa,Montgomery,2021,42,109,242,0,0
+Iowa,Muscatine,2021,45,0,363,0,2
+Iowa,Palo Alto,2021,43,136,226,0,0
+Iowa,Polk,2021,45,115,243,7,0
+Iowa,Pottawattamie,2021,44,0,123,0,1
+Iowa,Scott,2021,53,73,241,0,51
+Iowa,Van Buren,2021,44,88,274,0,0
+Iowa,Woodbury,2021,42,0,115,0,0
+Kansas,Chase,2021,27,0,120,0,0
+Kansas,Ford,2021,17,0,0,0,358
+Kansas,Johnson,2021,46,117,247,0,0
+Kansas,Leavenworth,2021,34,348,0,0,0
+Kansas,Neosho,2021,51,78,277,0,7
+Kansas,Sedgwick,2021,46,188,163,6,8
+Kansas,Shawnee,2021,49,86,279,0,0
+Kansas,Sherman,2021,17,0,0,0,320
+Kansas,Sumner,2021,52,94,266,0,5
+Kansas,Trego,2021,43,235,117,2,8
+Kansas,Wyandotte,2021,53,78,287,0,0
+Kentucky,Bell,2021,52,47,317,0,0
+Kentucky,Boone,2021,39,244,0,0,0
+Kentucky,Boyd,2021,44,70,282,8,0
+Kentucky,Bullitt,2021,37,237,0,0,0
+Kentucky,Campbell,2021,44,94,266,2,0
+Kentucky,Carter,2021,35,200,77,0,2
+Kentucky,Christian,2021,49,66,299,0,0
+Kentucky,Daviess,2021,48,88,275,0,0
+Kentucky,Edmonson,2021,36,326,35,0,0
+Kentucky,Fayette,2021,47,66,280,16,1
+Kentucky,Greenup,2021,34,231,0,0,0
+Kentucky,Hancock,2021,38,241,0,0,0
+Kentucky,Hardin,2021,43,117,247,0,0
+Kentucky,Jefferson,2021,54,68,297,0,0
+Kentucky,Jessamine,2021,38,227,0,0,0
+Kentucky,Livingston,2021,39,243,0,0,0
+Kentucky,McCracken,2021,44,93,247,21,2
+Kentucky,Morgan,2021,35,352,0,0,0
+Kentucky,Oldham,2021,39,244,0,0,0
+Kentucky,Perry,2021,44,71,294,0,0
+Kentucky,Pike,2021,41,92,273,0,0
+Kentucky,Pulaski,2021,45,74,287,0,0
+Kentucky,Simpson,2021,37,243,0,0,0
+Kentucky,Trigg,2021,35,345,0,0,0
+Kentucky,Warren,2021,45,78,285,0,0
+Kentucky,Washington,2021,36,362,0,0,0
+Louisiana,Ascension,2021,31,346,0,10,0
+Louisiana,Bossier,2021,51,61,297,0,7
+Louisiana,Caddo,2021,37,268,94,0,0
+Louisiana,Calcasieu,2021,51,78,285,2,0
+Louisiana,East Baton Rouge,2021,47,85,279,1,0
+Louisiana,Iberville,2021,39,307,58,0,0
+Louisiana,Jefferson,2021,40,163,191,1,0
+Louisiana,Lafayette,2021,42,145,219,0,1
+Louisiana,Lafourche,2021,45,112,235,0,0
+Louisiana,Livingston,2021,48,83,259,6,0
+Louisiana,Orleans,2021,33,0,296,57,2
+Louisiana,Ouachita,2021,35,277,72,0,0
+Louisiana,Pointe Coupee,2021,32,365,0,0,0
+Louisiana,Rapides,2021,38,0,122,0,0
+Louisiana,St. Bernard,2021,47,117,242,0,0
+Louisiana,St. James,2021,28,330,0,0,0
+Louisiana,St. John the Baptist,2021,31,336,0,0,0
+Louisiana,St. Martin,2021,34,360,0,0,0
+Louisiana,St. Tammany,2021,37,152,200,0,0
+Louisiana,Tangipahoa,2021,39,0,110,0,0
+Louisiana,Terrebonne,2021,34,0,110,0,0
+Louisiana,West Baton Rouge,2021,46,92,272,1,0
+Maine,Androscoggin,2021,36,113,239,0,4
+Maine,Aroostook,2021,35,198,158,0,9
+Maine,Cumberland,2021,36,260,97,5,3
+Maine,Hancock,2021,36,332,32,0,0
+Maine,Kennebec,2021,33,205,37,0,2
+Maine,Knox,2021,35,211,0,0,0
+Maine,Oxford,2021,35,170,190,0,0
+Maine,Penobscot,2021,33,194,166,0,2
+Maine,Washington,2021,33,344,16,0,0
+Maine,York,2021,37,240,0,0,0
+Maryland,Anne Arundel,2021,38,240,0,0,22
+Maryland,Baltimore,2021,47,178,177,10,0
+Maryland,Baltimore (City),2021,43,99,230,35,0
+Maryland,Calvert,2021,39,223,0,0,0
+Maryland,Carroll,2021,41,243,0,0,0
+Maryland,Cecil,2021,44,158,200,0,0
+Maryland,Charles,2021,38,242,0,0,0
+Maryland,Dorchester,2021,41,254,111,0,0
+Maryland,Frederick,2021,41,244,0,0,0
+Maryland,Garrett,2021,39,266,99,0,0
+Maryland,Harford,2021,46,174,183,0,0
+Maryland,Howard,2021,36,0,256,109,0
+Maryland,Kent,2021,40,208,149,0,0
+Maryland,Montgomery,2021,42,193,168,0,0
+Maryland,Prince George's,2021,41,290,69,6,0
+Maryland,Washington,2021,44,155,205,0,0
+Massachusetts,Barnstable,2021,36,346,13,0,0
+Massachusetts,Berkshire,2021,44,72,293,0,0
+Massachusetts,Bristol,2021,39,230,135,0,0
+Massachusetts,Dukes,2021,36,337,19,0,0
+Massachusetts,Essex,2021,38,184,181,0,0
+Massachusetts,Franklin,2021,44,101,264,0,0
+Massachusetts,Hampden,2021,46,83,278,4,0
+Massachusetts,Hampshire,2021,35,204,147,0,1
+Massachusetts,Middlesex,2021,37,157,198,10,0
+Massachusetts,Norfolk,2021,37,185,180,0,0
+Massachusetts,Plymouth,2021,39,147,218,0,0
+Massachusetts,Suffolk,2021,44,65,289,11,0
+Massachusetts,Worcester,2021,45,97,265,3,0
+Michigan,Allegan,2021,42,176,185,0,0
+Michigan,Bay,2021,28,0,363,0,0
+Michigan,Benzie,2021,36,251,0,0,0
+Michigan,Berrien,2021,40,250,0,0,0
+Michigan,Cass,2021,40,265,0,0,0
+Michigan,Clinton,2021,37,239,0,0,0
+Michigan,Genesee,2021,41,165,200,0,0
+Michigan,Huron,2021,37,246,0,0,0
+Michigan,Ingham,2021,46,105,257,1,0
+Michigan,Kalamazoo,2021,50,72,277,0,0
+Michigan,Kent,2021,49,123,237,5,0
+Michigan,Keweenaw,2021,14,0,117,0,0
+Michigan,Lenawee,2021,46,112,210,0,0
+Michigan,Macomb,2021,51,114,251,0,0
+Michigan,Manistee,2021,38,241,28,0,0
+Michigan,Mason,2021,38,243,0,0,0
+Michigan,Missaukee,2021,45,85,270,0,0
+Michigan,Monroe,2021,19,0,0,0,61
+Michigan,Muskegon,2021,40,265,0,0,0
+Michigan,Oakland,2021,39,233,63,0,0
+Michigan,Ottawa,2021,49,101,264,0,0
+Michigan,Schoolcraft,2021,37,175,185,0,0
+Michigan,St. Clair,2021,48,118,247,0,0
+Michigan,Tuscola,2021,34,353,0,0,0
+Michigan,Washtenaw,2021,46,150,215,0,0
+Michigan,Wayne,2021,58,33,319,5,8
+Michigan,Wexford,2021,34,360,0,0,0
+Minnesota,Anoka,2021,41,217,141,6,1
+Minnesota,Becker,2021,52,28,329,0,0
+Minnesota,Beltrami,2021,29,0,341,0,0
+Minnesota,Carlton,2021,31,191,174,0,0
+Minnesota,Cass,2021,54,0,352,0,0
+Minnesota,Cook,2021,9,0,328,0,0
+Minnesota,Crow Wing,2021,36,179,178,0,0
+Minnesota,Dakota,2021,39,0,349,16,0
+Minnesota,Goodhue,2021,39,216,0,0,0
+Minnesota,Hennepin,2021,45,92,219,18,36
+Minnesota,Lake,2021,31,183,179,0,0
+Minnesota,Lyon,2021,39,159,200,0,0
+Minnesota,Mille Lacs,2021,36,245,0,0,0
+Minnesota,Olmsted,2021,39,201,160,0,0
+Minnesota,Ramsey,2021,39,0,344,0,21
+Minnesota,Saint Louis,2021,37,219,133,2,11
+Minnesota,Scott,2021,39,209,142,0,0
+Minnesota,Stearns,2021,40,132,230,0,0
+Minnesota,Washington,2021,35,227,0,0,0
+Minnesota,Winona,2021,24,0,116,0,0
+Minnesota,Wright,2021,43,148,209,0,0
+Mississippi,Bolivar,2021,44,94,266,0,0
+Mississippi,DeSoto,2021,46,85,279,0,0
+Mississippi,Forrest,2021,51,0,363,0,0
+Mississippi,Hancock,2021,45,62,298,0,0
+Mississippi,Harrison,2021,45,61,298,0,0
+Mississippi,Hinds,2021,52,30,335,0,0
+Mississippi,Jackson,2021,44,108,251,0,0
+Mississippi,Lauderdale,2021,31,245,0,0,0
+Mississippi,Lee,2021,36,242,0,0,0
+Mississippi,Yalobusha,2021,31,359,0,0,0
+Missouri,Andrew,2021,39,245,0,0,0
+Missouri,Boone,2021,37,245,0,0,0
+Missouri,Buchanan,2021,44,0,310,0,55
+Missouri,Callaway,2021,39,245,0,0,0
+Missouri,Cass,2021,42,156,209,0,0
+Missouri,Cedar,2021,42,148,202,0,0
+Missouri,Clay,2021,41,206,144,0,0
+Missouri,Clinton,2021,38,245,0,0,0
+Missouri,Greene,2021,38,188,135,0,42
+Missouri,Jackson,2021,53,0,319,5,41
+Missouri,Jasper,2021,38,218,0,0,142
+Missouri,Jefferson,2021,44,145,210,0,10
+Missouri,Lincoln,2021,39,244,0,0,0
+Missouri,Monroe,2021,32,363,0,0,2
+Missouri,Perry,2021,39,244,0,0,0
+Missouri,Saint Charles,2021,41,245,0,0,0
+Missouri,Saint Louis,2021,42,153,192,20,0
+Missouri,Sainte Genevieve,2021,39,245,0,0,0
+Missouri,St. Louis City,2021,55,50,305,1,9
+Missouri,Stoddard,2021,30,0,109,0,0
+Missouri,Taney,2021,27,0,118,0,0
+Montana,Cascade,2021,27,0,365,0,0
+Montana,Fergus,2021,41,296,68,0,1
+Montana,Flathead,2021,39,181,144,0,40
+Montana,Gallatin,2021,41,0,358,5,0
+Montana,Lake,2021,9,0,117,0,0
+Montana,Lewis and Clark,2021,44,218,147,0,0
+Montana,Lincoln,2021,56,0,362,0,3
+Montana,Missoula,2021,56,63,302,0,0
+Montana,Phillips,2021,36,260,96,0,5
+Montana,Powder River,2021,42,202,134,1,21
+Montana,Powell,2021,12,0,117,0,0
+Montana,Ravalli,2021,28,0,358,0,0
+Montana,Richland,2021,38,273,75,0,3
+Montana,Roosevelt,2021,16,0,100,0,0
+Montana,Rosebud,2021,38,171,113,6,73
+Montana,Sanders,2021,42,0,350,0,6
+Montana,Sheridan,2021,17,0,120,0,0
+Montana,Silver Bow,2021,33,0,325,0,40
+Montana,Yellowstone,2021,40,0,340,0,0
+Nebraska,Cass,2021,19,0,0,0,351
+Nebraska,Douglas,2021,43,165,189,0,11
+Nebraska,Gage,2021,55,0,184,0,0
+Nebraska,Hall,2021,34,0,357,0,0
+Nebraska,Knox,2021,37,358,0,0,0
+Nebraska,Lancaster,2021,37,201,75,0,0
+Nebraska,Sarpy,2021,41,0,336,0,0
+Nebraska,Scotts Bluff,2021,21,0,332,0,0
+Nebraska,Thomas,2021,19,0,117,0,0
+Nebraska,Washington,2021,37,0,109,0,0
+Nevada,Carson City,2021,42,266,99,0,0
+Nevada,Churchill,2021,44,362,0,0,0
+Nevada,Clark,2021,62,214,133,1,17
+Nevada,Douglas,2021,24,0,365,0,0
+Nevada,Elko,2021,42,186,13,0,166
+Nevada,Lyon,2021,41,270,0,0,0
+Nevada,Nye,2021,23,0,0,0,365
+Nevada,Washoe,2021,51,240,120,1,4
+Nevada,White Pine,2021,44,356,8,0,0
+New Hampshire,Belknap,2021,31,160,205,0,0
+New Hampshire,Cheshire,2021,40,127,237,0,0
+New Hampshire,Coos,2021,42,355,5,0,0
+New Hampshire,Grafton,2021,36,201,164,0,0
+New Hampshire,Hillsborough,2021,37,317,48,0,0
+New Hampshire,Merrimack,2021,36,214,0,0,0
+New Hampshire,Rockingham,2021,40,199,165,0,1
+New Jersey,Atlantic,2021,37,202,160,0,0
+New Jersey,Bergen,2021,43,104,207,54,0
+New Jersey,Camden,2021,49,138,218,9,0
+New Jersey,Cumberland,2021,39,231,129,4,0
+New Jersey,Essex,2021,46,97,242,26,0
+New Jersey,Gloucester,2021,40,226,71,0,0
+New Jersey,Hudson,2021,44,98,221,46,0
+New Jersey,Hunterdon,2021,43,159,205,0,0
+New Jersey,Mercer,2021,48,139,226,0,0
+New Jersey,Middlesex,2021,44,142,218,4,0
+New Jersey,Monmouth,2021,36,255,0,0,0
+New Jersey,Morris,2021,36,317,38,8,0
+New Jersey,Ocean,2021,42,154,203,0,0
+New Jersey,Passaic,2021,37,261,0,0,0
+New Jersey,Union,2021,52,0,331,34,0
+New Jersey,Warren,2021,42,112,234,12,0
+New Mexico,Bernalillo,2021,63,147,118,0,100
+New Mexico,Catron,2021,14,0,112,0,0
+New Mexico,Chaves,2021,24,0,121,0,0
+New Mexico,Dona Ana,2021,56,196,63,7,99
+New Mexico,Eddy,2021,47,357,6,2,0
+New Mexico,Lea,2021,44,264,99,2,0
+New Mexico,Lincoln,2021,15,0,120,0,0
+New Mexico,Los Alamos,2021,14,0,119,0,0
+New Mexico,Luna,2021,19,0,0,0,362
+New Mexico,Rio Arriba,2021,44,360,3,0,0
+New Mexico,San Juan,2021,46,360,0,1,4
+New Mexico,Sandoval,2021,44,357,0,0,0
+New Mexico,Santa Fe,2021,44,324,40,0,0
+New Mexico,Socorro,2021,17,0,118,0,0
+New Mexico,Taos,2021,28,0,323,0,0
+New Mexico,Valencia,2021,43,356,0,0,0
+New York,Albany,2021,39,147,218,0,0
+New York,Bronx,2021,47,109,239,17,0
+New York,Chautauqua,2021,38,318,43,0,0
+New York,Dutchess,2021,34,341,0,0,0
+New York,Erie,2021,46,104,258,3,0
+New York,Essex,2021,40,337,28,0,0
+New York,Hamilton,2021,33,358,0,0,0
+New York,Jefferson,2021,32,351,0,0,0
+New York,Kings,2021,42,0,365,0,0
+New York,Monroe,2021,43,131,234,0,0
+New York,Nassau,2021,32,0,360,0,0
+New York,New York,2021,43,148,217,0,0
+New York,Niagara,2021,34,357,0,0,0
+New York,Oneida,2021,25,0,347,0,0
+New York,Onondaga,2021,39,187,178,0,0
+New York,Orange,2021,37,207,157,0,0
+New York,Oswego,2021,34,360,0,0,0
+New York,Putnam,2021,35,353,0,0,0
+New York,Queens,2021,47,112,240,13,0
+New York,Richmond,2021,42,159,205,0,0
+New York,Rockland,2021,37,240,122,0,0
+New York,Saratoga,2021,31,354,0,0,0
+New York,Steuben,2021,38,187,178,0,0
+New York,Suffolk,2021,42,247,118,0,0
+New York,Tompkins,2021,35,360,0,0,0
+New York,Wayne,2021,33,354,0,0,0
+New York,Westchester,2021,38,258,107,0,0
+North Carolina,Alexander,2021,41,245,0,0,0
+North Carolina,Avery,2021,40,349,15,0,0
+North Carolina,Buncombe,2021,41,123,242,0,0
+North Carolina,Caldwell,2021,40,243,0,0,0
+North Carolina,Carteret,2021,35,352,0,0,0
+North Carolina,Caswell,2021,38,244,0,0,6
+North Carolina,Catawba,2021,46,0,344,0,0
+North Carolina,Cumberland,2021,44,124,241,0,0
+North Carolina,Davidson,2021,47,0,343,0,0
+North Carolina,Durham,2021,44,116,249,0,0
+North Carolina,Edgecombe,2021,38,171,192,0,0
+North Carolina,Forsyth,2021,48,131,234,0,0
+North Carolina,Graham,2021,42,245,0,0,0
+North Carolina,Granville,2021,38,242,0,0,0
+North Carolina,Guilford,2021,44,154,209,0,2
+North Carolina,Haywood,2021,43,240,43,0,0
+North Carolina,Hyde,2021,22,0,107,0,0
+North Carolina,Jackson,2021,38,0,100,0,0
+North Carolina,Johnston,2021,44,104,261,0,0
+North Carolina,Lenoir,2021,34,241,0,0,65
+North Carolina,Lincoln,2021,42,243,0,0,0
+North Carolina,Macon,2021,30,359,0,0,0
+North Carolina,Martin,2021,32,238,0,0,58
+North Carolina,Mecklenburg,2021,49,108,257,0,0
+North Carolina,Mitchell,2021,31,0,356,0,0
+North Carolina,Montgomery,2021,43,139,226,0,0
+North Carolina,New Hanover,2021,40,105,255,0,0
+North Carolina,Northampton,2021,34,0,359,4,0
+North Carolina,Person,2021,41,245,0,0,0
+North Carolina,Pitt,2021,39,137,223,0,0
+North Carolina,Rockingham,2021,43,239,0,0,0
+North Carolina,Rowan,2021,44,181,183,0,0
+North Carolina,Swain,2021,40,200,154,0,0
+North Carolina,Union,2021,42,244,0,0,0
+North Carolina,Wake,2021,48,109,255,1,0
+North Carolina,Yancey,2021,44,240,0,0,0
+North Dakota,Billings,2021,37,291,73,0,0
+North Dakota,Burke,2021,38,222,141,0,2
+North Dakota,Burleigh,2021,38,124,235,3,3
+North Dakota,Cass,2021,42,132,231,0,0
+North Dakota,Dunn,2021,39,238,125,0,2
+North Dakota,McKenzie,2021,36,237,116,0,3
+North Dakota,Mercer,2021,38,218,145,2,0
+North Dakota,Oliver,2021,41,205,160,0,0
+North Dakota,Ward,2021,37,180,179,1,0
+Ohio,Allen,2021,42,178,187,0,0
+Ohio,Ashtabula,2021,38,243,0,0,0
+Ohio,Athens,2021,27,0,113,0,0
+Ohio,Belmont,2021,14,0,108,247,8
+Ohio,Butler,2021,55,64,289,0,12
+Ohio,Clark,2021,52,78,287,0,0
+Ohio,Clermont,2021,42,171,193,0,0
+Ohio,Clinton,2021,39,240,0,0,0
+Ohio,Columbiana,2021,16,0,0,0,61
+Ohio,Cuyahoga,2021,57,75,284,0,6
+Ohio,Delaware,2021,38,240,0,0,0
+Ohio,Fayette,2021,36,360,0,0,0
+Ohio,Franklin,2021,52,88,276,1,0
+Ohio,Geauga,2021,41,216,0,0,0
+Ohio,Greene,2021,39,244,0,0,0
+Ohio,Hamilton,2021,56,58,301,6,0
+Ohio,Harrison,2021,5,0,54,0,3
+Ohio,Jefferson,2021,55,49,309,0,0
+Ohio,Knox,2021,38,245,0,0,0
+Ohio,Lake,2021,41,148,216,0,1
+Ohio,Lawrence,2021,46,85,280,0,0
+Ohio,Licking,2021,38,245,0,0,0
+Ohio,Lorain,2021,41,150,154,0,0
+Ohio,Lucas,2021,46,120,244,0,0
+Ohio,Madison,2021,39,229,0,0,0
+Ohio,Mahoning,2021,47,86,279,0,0
+Ohio,Medina,2021,42,169,194,0,0
+Ohio,Miami,2021,40,245,0,0,0
+Ohio,Montgomery,2021,53,91,266,0,0
+Ohio,Noble,2021,37,319,32,0,0
+Ohio,Portage,2021,40,217,46,0,0
+Ohio,Preble,2021,47,108,257,0,0
+Ohio,Scioto,2021,16,0,122,0,243
+Ohio,Stark,2021,53,90,275,0,0
+Ohio,Summit,2021,45,128,228,0,0
+Ohio,Trumbull,2021,45,114,249,0,0
+Ohio,Warren,2021,44,146,214,0,0
+Ohio,Washington,2021,39,245,0,0,0
+Ohio,Wood,2021,39,245,0,0,0
+Oklahoma,Adair,2021,40,228,133,0,4
+Oklahoma,Canadian,2021,37,333,0,0,0
+Oklahoma,Carter,2021,46,0,316,0,0
+Oklahoma,Cleveland,2021,53,83,279,0,0
+Oklahoma,Comanche,2021,47,145,219,0,0
+Oklahoma,Creek,2021,37,343,0,0,0
+Oklahoma,Dewey,2021,44,196,169,0,0
+Oklahoma,Grant,2021,30,0,107,0,0
+Oklahoma,Kay,2021,52,0,354,0,0
+Oklahoma,Kiowa,2021,43,283,0,0,0
+Oklahoma,Love,2021,42,286,0,0,0
+Oklahoma,Mayes,2021,37,248,0,0,0
+Oklahoma,McClain,2021,40,208,0,0,0
+Oklahoma,Oklahoma,2021,54,83,276,5,1
+Oklahoma,Osage,2021,39,327,0,0,0
+Oklahoma,Ottawa,2021,59,25,336,0,4
+Oklahoma,Pittsburg,2021,51,107,253,0,0
+Oklahoma,Sequoyah,2021,41,125,235,0,0
+Oklahoma,Tulsa,2021,53,104,259,0,2
+Oklahoma,Washington,2021,51,128,217,0,0
+Oregon,Baker,2021,29,0,364,0,0
+Oregon,Benton,2021,22,0,365,0,0
+Oregon,Clackamas,2021,31,134,220,0,0
+Oregon,Columbia,2021,29,119,226,0,0
+Oregon,Crook,2021,28,0,365,0,0
+Oregon,Deschutes,2021,25,0,365,0,0
+Oregon,Douglas,2021,29,0,365,0,0
+Oregon,Grant,2021,51,0,365,0,0
+Oregon,Harney,2021,48,0,365,0,0
+Oregon,Jackson,2021,48,83,282,0,0
+Oregon,Jefferson,2021,28,0,365,0,0
+Oregon,Josephine,2021,36,0,365,0,0
+Oregon,Klamath,2021,54,0,365,0,0
+Oregon,Lake,2021,28,0,365,0,0
+Oregon,Lane,2021,44,75,289,0,1
+Oregon,Linn,2021,34,0,365,0,0
+Oregon,Marion,2021,36,124,239,0,0
+Oregon,Multnomah,2021,36,188,176,1,0
+Oregon,Umatilla,2021,38,114,251,0,0
+Oregon,Union,2021,27,0,358,0,2
+Oregon,Wallowa,2021,26,0,365,0,0
+Oregon,Wasco,2021,22,0,319,0,0
+Oregon,Washington,2021,36,139,222,4,0
+Pennsylvania,Adams,2021,47,145,219,0,0
+Pennsylvania,Allegheny,2021,57,63,302,0,0
+Pennsylvania,Armstrong,2021,48,122,228,0,0
+Pennsylvania,Beaver,2021,52,95,270,0,0
+Pennsylvania,Berks,2021,48,133,232,0,0
+Pennsylvania,Blair,2021,45,79,257,0,0
+Pennsylvania,Bradford,2021,42,110,246,0,0
+Pennsylvania,Bucks,2021,37,283,0,0,0
+Pennsylvania,Cambria,2021,51,63,287,0,0
+Pennsylvania,Centre,2021,43,162,203,0,0
+Pennsylvania,Chester,2021,45,105,242,0,0
+Pennsylvania,Clearfield,2021,33,277,0,0,0
+Pennsylvania,Cumberland,2021,47,0,365,0,0
+Pennsylvania,Dauphin,2021,52,78,281,0,0
+Pennsylvania,Delaware,2021,51,92,270,3,0
+Pennsylvania,Elk,2021,34,358,0,0,0
+Pennsylvania,Erie,2021,38,137,163,18,9
+Pennsylvania,Fayette,2021,43,83,271,0,0
+Pennsylvania,Franklin,2021,35,288,0,0,0
+Pennsylvania,Greene,2021,42,107,233,0,0
+Pennsylvania,Indiana,2021,44,103,245,0,0
+Pennsylvania,Lackawanna,2021,40,132,202,17,0
+Pennsylvania,Lancaster,2021,56,60,303,0,2
+Pennsylvania,Lawrence,2021,31,278,0,0,0
+Pennsylvania,Lebanon,2021,49,92,273,0,0
+Pennsylvania,Lehigh,2021,47,83,262,0,8
+Pennsylvania,Luzerne,2021,34,257,0,0,30
+Pennsylvania,Lycoming,2021,44,103,251,0,0
+Pennsylvania,Mercer,2021,40,223,140,0,0
+Pennsylvania,Monroe,2021,35,233,0,0,0
+Pennsylvania,Montgomery,2021,47,114,242,0,0
+Pennsylvania,Northampton,2021,45,132,230,3,0
+Pennsylvania,Philadelphia,2021,54,92,263,10,0
+Pennsylvania,Somerset,2021,34,363,0,0,0
+Pennsylvania,Susquehanna,2021,35,0,334,0,0
+Pennsylvania,Tioga,2021,38,182,168,0,0
+Pennsylvania,Washington,2021,49,98,267,0,0
+Pennsylvania,Westmoreland,2021,47,28,326,0,0
+Pennsylvania,Wyoming,2021,34,0,336,0,0
+Pennsylvania,York,2021,51,91,263,3,0
+Puerto Rico,Adjuntas,2021,14,0,7,0,0
+Puerto Rico,Bayamon,2021,10,76,103,0,0
+Puerto Rico,Caguas,2021,14,0,74,19,0
+Puerto Rico,Catano,2021,50,12,185,0,103
+Puerto Rico,Fajardo,2021,29,0,107,0,7
+Puerto Rico,Guayama,2021,28,0,53,0,1
+Puerto Rico,Guaynabo,2021,33,0,111,0,8
+Puerto Rico,Mayagnez,2021,38,116,218,0,0
+Puerto Rico,Ponce,2021,30,0,65,0,140
+Puerto Rico,San Juan,2021,7,0,0,0,0
+Rhode Island,Kent,2021,34,163,195,0,0
+Rhode Island,Providence,2021,45,117,244,4,0
+Rhode Island,Washington,2021,36,173,185,0,0
+South Carolina,Aiken,2021,36,282,0,0,0
+South Carolina,Anderson,2021,38,263,0,0,0
+South Carolina,Berkeley,2021,34,258,0,0,0
+South Carolina,Charleston,2021,48,46,319,0,0
+South Carolina,Chesterfield,2021,41,134,224,0,0
+South Carolina,Darlington,2021,35,275,0,0,0
+South Carolina,Edgefield,2021,39,160,194,0,0
+South Carolina,Florence,2021,39,0,337,0,0
+South Carolina,Greenville,2021,51,114,248,3,0
+South Carolina,Horry,2021,38,264,0,0,0
+South Carolina,Lexington,2021,46,0,346,0,12
+South Carolina,Richland,2021,42,213,152,0,0
+South Carolina,Spartanburg,2021,46,112,242,0,0
+South Carolina,York,2021,44,181,179,0,0
+South Dakota,Brookings,2021,39,236,103,0,26
+South Dakota,Brown,2021,26,0,210,0,146
+South Dakota,Codington,2021,43,136,197,0,32
+South Dakota,Custer,2021,39,307,55,0,2
+South Dakota,Hughes,2021,12,0,349,0,0
+South Dakota,Jackson,2021,35,220,139,1,5
+South Dakota,Meade,2021,38,346,0,0,19
+South Dakota,Minnehaha,2021,39,193,126,12,18
+South Dakota,Pennington,2021,39,0,197,16,152
+South Dakota,Union,2021,44,155,117,0,1
+Tennessee,Anderson,2021,38,235,0,0,0
+Tennessee,Blount,2021,44,168,197,0,0
+Tennessee,Claiborne,2021,34,357,0,0,0
+Tennessee,Davidson,2021,52,47,312,6,0
+Tennessee,DeKalb,2021,35,363,0,0,0
+Tennessee,Dyer,2021,39,0,350,0,0
+Tennessee,Hamilton,2021,48,116,235,0,0
+Tennessee,Jefferson,2021,41,235,0,0,0
+Tennessee,Knox,2021,52,51,314,0,0
+Tennessee,Lawrence,2021,34,0,357,0,0
+Tennessee,Loudon,2021,42,134,231,0,0
+Tennessee,Madison,2021,38,0,356,0,0
+Tennessee,Maury,2021,35,0,349,0,0
+Tennessee,McMinn,2021,37,0,360,0,0
+Tennessee,Montgomery,2021,33,0,359,0,0
+Tennessee,Putnam,2021,36,0,356,0,0
+Tennessee,Roane,2021,37,0,357,0,0
+Tennessee,Sevier,2021,42,363,0,0,0
+Tennessee,Shelby,2021,48,127,238,0,0
+Tennessee,Sullivan,2021,41,153,212,0,0
+Tennessee,Sumner,2021,44,109,248,0,0
+Tennessee,Williamson,2021,39,243,0,0,0
+Tennessee,Wilson,2021,37,243,0,0,0
+Texas,Atascosa,2021,43,0,356,0,0
+Texas,Bell,2021,44,230,135,0,0
+Texas,Bexar,2021,55,94,269,0,2
+Texas,Bowie,2021,52,0,357,0,0
+Texas,Brazoria,2021,34,355,0,10,0
+Texas,Brazos,2021,40,0,356,0,0
+Texas,Brewster,2021,42,276,80,0,0
+Texas,Cameron,2021,52,67,298,0,0
+Texas,Collin,2021,37,357,0,0,0
+Texas,Culberson,2021,43,145,76,0,0
+Texas,Dallas,2021,47,180,172,12,1
+Texas,Denton,2021,45,226,139,0,0
+Texas,Ector,2021,35,0,349,0,0
+Texas,El Paso,2021,59,141,207,7,10
+Texas,Ellis,2021,43,184,174,5,0
+Texas,Galveston,2021,43,194,163,1,3
+Texas,Gregg,2021,33,358,0,7,0
+Texas,Harris,2021,58,69,283,3,10
+Texas,Harrison,2021,47,89,273,0,0
+Texas,Hidalgo,2021,52,85,278,0,0
+Texas,Hood,2021,35,357,0,0,0
+Texas,Hunt,2021,33,357,0,5,0
+Texas,Jefferson,2021,44,147,218,0,0
+Texas,Johnson,2021,37,363,0,0,0
+Texas,Karnes,2021,6,0,0,364,0
+Texas,Kaufman,2021,40,153,209,3,0
+Texas,Kleberg,2021,48,0,348,0,0
+Texas,Lubbock,2021,31,0,347,0,0
+Texas,Maverick,2021,37,0,353,0,0
+Texas,McLennan,2021,39,216,146,0,0
+Texas,Montgomery,2021,47,148,211,0,0
+Texas,Navarro,2021,41,183,181,1,0
+Texas,Nueces,2021,47,127,236,0,1
+Texas,Orange,2021,41,111,250,3,0
+Texas,Parker,2021,36,354,0,0,0
+Texas,Polk,2021,30,353,0,0,0
+Texas,Potter,2021,31,0,354,0,0
+Texas,Randall,2021,42,360,0,0,0
+Texas,Rockwall,2021,31,360,0,0,0
+Texas,Smith,2021,35,353,0,8,0
+Texas,Tarrant,2021,52,137,222,6,0
+Texas,Travis,2021,51,111,248,3,3
+Texas,Victoria,2021,32,364,0,0,0
+Texas,Webb,2021,48,60,303,0,2
+Texas,Wilson,2021,7,0,0,363,0
+Utah,Box Elder,2021,42,361,0,2,0
+Utah,Cache,2021,45,229,124,0,12
+Utah,Carbon,2021,44,323,42,0,0
+Utah,Davis,2021,47,233,110,21,1
+Utah,Duchesne,2021,48,296,69,0,0
+Utah,Garfield,2021,45,359,3,0,0
+Utah,Iron,2021,40,268,86,11,0
+Utah,Salt Lake,2021,59,223,117,13,12
+Utah,San Juan,2021,44,360,4,0,0
+Utah,Tooele,2021,43,241,123,1,0
+Utah,Uintah,2021,50,338,27,0,0
+Utah,Utah,2021,49,259,97,6,3
+Utah,Washington,2021,45,340,25,0,0
+Utah,Wayne,2021,11,0,120,0,0
+Utah,Weber,2021,46,220,120,12,10
+Vermont,Bennington,2021,37,221,144,0,0
+Vermont,Chittenden,2021,40,175,190,0,0
+Vermont,Rutland,2021,40,145,220,0,0
+Vermont,Windham,2021,11,0,118,0,0
+Virgin Islands,St Croix,2021,28,0,55,0,0
+Virgin Islands,St John,2021,22,0,109,0,0
+Virginia,Albemarle,2021,41,123,237,0,0
+Virginia,Alexandria City,2021,6,0,0,0,15
+Virginia,Arlington,2021,38,267,61,37,0
+Virginia,Bristol City,2021,36,0,116,0,0
+Virginia,Caroline,2021,35,228,0,0,0
+Virginia,Carroll,2021,9,0,0,0,60
+Virginia,Charles,2021,34,203,76,86,0
+Virginia,Chesterfield,2021,38,203,80,0,0
+Virginia,Fairfax,2021,47,101,254,10,0
+Virginia,Fauquier,2021,34,237,0,0,0
+Virginia,Frederick,2021,44,83,279,0,0
+Virginia,Giles,2021,38,358,0,0,0
+Virginia,Hampton City,2021,42,129,233,2,0
+Virginia,Hanover,2021,38,245,0,0,0
+Virginia,Henrico,2021,44,111,250,1,0
+Virginia,Hopewell City,2021,7,0,0,0,53
+Virginia,Loudoun,2021,37,298,56,10,0
+Virginia,Lynchburg City,2021,32,0,119,0,0
+Virginia,Madison,2021,39,313,52,0,0
+Virginia,Norfolk City,2021,18,0,94,261,0
+Virginia,Pittsylvania,2021,3,0,0,335,0
+Virginia,Prince Edward,2021,33,356,0,0,0
+Virginia,Prince William,2021,35,349,0,10,0
+Virginia,Richmond City,2021,41,0,306,55,0
+Virginia,Roanoke,2021,43,114,249,1,0
+Virginia,Rockbridge,2021,34,218,65,0,0
+Virginia,Rockingham,2021,36,210,61,92,0
+Virginia,Salem City,2021,35,0,120,0,0
+Virginia,Stafford,2021,35,357,0,0,1
+Virginia,Suffolk City,2021,37,245,0,0,0
+Virginia,Virginia Beach City,2021,35,0,105,0,0
+Virginia,Wythe,2021,39,242,0,0,0
+Washington,Adams,2021,19,0,364,0,0
+Washington,Asotin,2021,48,0,335,0,0
+Washington,Benton,2021,36,126,187,0,52
+Washington,Chelan,2021,31,0,365,0,0
+Washington,Clallam,2021,37,207,158,0,0
+Washington,Clark,2021,34,136,229,0,0
+Washington,Columbia,2021,39,258,107,0,0
+Washington,Cowlitz,2021,21,0,365,0,0
+Washington,Franklin,2021,21,0,320,0,0
+Washington,Garfield,2021,19,0,334,0,0
+Washington,Grant,2021,25,0,365,0,0
+Washington,Grays Harbor,2021,26,0,365,0,0
+Washington,Jefferson,2021,20,0,358,0,0
+Washington,King,2021,43,111,240,14,0
+Washington,Kitsap,2021,26,0,359,0,0
+Washington,Kittitas,2021,28,0,365,0,0
+Washington,Klickitat,2021,21,0,119,0,0
+Washington,Lewis,2021,23,0,350,0,0
+Washington,Mason,2021,22,0,361,0,0
+Washington,Okanogan,2021,54,0,365,0,0
+Washington,Pend Oreille,2021,35,0,360,0,0
+Washington,Pierce,2021,42,200,163,2,0
+Washington,Skagit,2021,28,60,254,0,0
+Washington,Snohomish,2021,35,0,365,0,0
+Washington,Spokane,2021,43,125,236,0,4
+Washington,Stevens,2021,44,0,338,0,27
+Washington,Thurston,2021,19,0,329,0,0
+Washington,Walla Walla,2021,24,0,220,0,145
+Washington,Whatcom,2021,28,155,177,0,0
+Washington,Whitman,2021,22,0,365,0,0
+Washington,Yakima,2021,52,0,362,0,3
+West Virginia,Berkeley,2021,40,189,84,0,0
+West Virginia,Brooke,2021,21,0,122,0,240
+West Virginia,Cabell,2021,38,193,90,0,0
+West Virginia,Gilmer,2021,31,358,0,0,0
+West Virginia,Greenbrier,2021,37,231,0,0,0
+West Virginia,Hancock,2021,38,194,81,0,89
+West Virginia,Harrison,2021,35,0,115,0,0
+West Virginia,Kanawha,2021,44,116,249,0,0
+West Virginia,Marion,2021,40,0,91,0,0
+West Virginia,Marshall,2021,53,0,353,0,0
+West Virginia,Monongalia,2021,39,200,82,0,0
+West Virginia,Ohio,2021,39,196,89,0,0
+West Virginia,Tucker,2021,34,344,19,0,0
+West Virginia,Wood,2021,38,182,89,0,0
+Wisconsin,Ashland,2021,37,214,151,0,0
+Wisconsin,Brown,2021,43,107,258,0,0
+Wisconsin,Columbia,2021,40,208,0,0,0
+Wisconsin,Dane,2021,48,98,267,0,0
+Wisconsin,Dodge,2021,46,171,194,0,0
+Wisconsin,Door,2021,39,206,0,0,0
+Wisconsin,Eau Claire,2021,44,98,263,0,1
+Wisconsin,Fond du Lac,2021,39,208,0,0,0
+Wisconsin,Forest,2021,38,221,140,0,0
+Wisconsin,Grant,2021,46,0,355,0,0
+Wisconsin,Jackson,2021,31,0,237,0,0
+Wisconsin,Jefferson,2021,40,208,0,0,0
+Wisconsin,Kenosha,2021,47,168,176,0,0
+Wisconsin,Kewaunee,2021,40,207,0,0,0
+Wisconsin,La Crosse,2021,43,115,250,0,0
+Wisconsin,Manitowoc,2021,39,207,0,0,0
+Wisconsin,Marathon,2021,36,200,0,0,0
+Wisconsin,Milwaukee,2021,52,118,241,3,3
+Wisconsin,Monroe,2021,32,0,265,0,0
+Wisconsin,Outagamie,2021,44,100,263,0,0
+Wisconsin,Ozaukee,2021,43,160,204,0,0
+Wisconsin,Racine,2021,43,210,0,0,0
+Wisconsin,Rock,2021,41,205,0,0,0
+Wisconsin,Sauk,2021,44,110,255,0,0
+Wisconsin,Sheboygan,2021,41,208,0,0,0
+Wisconsin,Taylor,2021,39,196,168,0,0
+Wisconsin,Vilas,2021,34,158,205,0,0
+Wisconsin,Walworth,2021,41,221,0,0,0
+Wisconsin,Waukesha,2021,51,89,275,0,1
+Wyoming,Albany,2021,50,277,18,3,67
+Wyoming,Big Horn,2021,39,364,0,0,0
+Wyoming,Campbell,2021,44,184,29,0,152
+Wyoming,Carbon,2021,10,0,0,348,0
+Wyoming,Converse,2021,42,310,0,0,55
+Wyoming,Fremont,2021,46,289,73,0,3
+Wyoming,Johnson,2021,40,358,0,2,5
+Wyoming,Laramie,2021,44,320,40,2,0
+Wyoming,Lincoln,2021,30,126,31,5,203
+Wyoming,Natrona,2021,42,333,30,2,0
+Wyoming,Park,2021,14,0,146,0,6
+Wyoming,Platte,2021,16,0,0,0,362
+Wyoming,Sheridan,2021,40,299,45,0,20
+Wyoming,Sublette,2021,46,342,23,0,0
+Wyoming,Sweetwater,2021,45,286,24,2,53
+Wyoming,Teton,2021,44,318,45,0,2
+Wyoming,Uinta,2021,7,0,0,0,364
+Wyoming,Weston,2021,41,343,0,0,0
